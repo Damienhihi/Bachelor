@@ -1,8 +1,33 @@
 \subsubsection{Grundlagen}
-Der Begriff \glqq Künstliche Intelligenz\grqq{} wurde erstmals 1955 von John McCarthy, Marvin Minsky, Nathaniel Rochester und Claude Shannon im Rahmen der Vorbereitung auf die Dartmouth Conference geprägt. Darin beschrieben die Autoren Künstliche Intelligenz als die wissenschaftliche Disziplin, die davon ausgeht, dass sich menschliche Intelligenz so präzise beschreiben lässt, dass sie von Maschinen nachgebildet werden kann. Dieses Konzept bildete die Grundlage für die ein Jahr später abgehaltene Dartmouth Summer Research Conference on Artificial Intelligence im Jahr 1956, welche somit den beginn der Forschung im Bereich der \ac{KI} darstellt. \cite[\pagef 12]{mccarthy_proposal_2006}
+Der Begriff \glqq Künstliche Intelligenz\grqq{} wurde erstmals 1955 von John McCarthy, Marvin Minsky, Nathaniel Rochester und Claude Shannon im Rahmen der Vorbereitung auf die Dartmouth Conference geprägt. Darin beschrieben die Autoren Künstliche Intelligenz als die wissenschaftliche Disziplin, die davon ausgeht, dass sich menschliche Intelligenz so präzise beschreiben lässt, dass sie von Maschinen nachgebildet werden kann. Dieses Konzept bildete die Grundlage für die ein Jahr später abgehaltene Dartmouth Summer Research Conference on Artificial Intelligence (1956), welche somit den Beginn der Forschung im Bereich der \ac{KI} darstellt. \cite[\pagef 12]{mccarthy_proposal_2006}
 
-Mehr als fünf Jahrzehnte später konkretisierte John McCarthy den Begriff \ac{KI} erneut. Er beschrieb sie als eine Wissenschaft und Technik der Herstellung intelligenter Maschinen und insbesondere intelligenter Computerprogramme. In seiner Ausführung wird deutlich, dass \ac{KI} als eigenständige Disziplin verstanden wird, die zwar in engem Zusammenhang mit dem Verständnis menschlicher Intelligenz steht, sich jedoch nicht ausschließlich an biologisch nachvollziehbaren Prozessen orientiert. \cite[\pagef 2]{mccarthy_what_2007}
+Mehr als fünf Jahrzehnte später konkretisierte John McCarthy den Begriff \ac{KI} erneut. Er beschrieb sie als eine Wissenschaft und Technik der Herstellung intelligenter Maschinen, insbesondere intelligenter Computerprogramme. In seiner Ausführung wird deutlich, dass \ac{KI} als eigenständige Disziplin verstanden wird, die zwar in engem Zusammenhang mit dem Verständnis menschlicher Intelligenz steht, sich jedoch nicht ausschließlich an biologisch nachvollziehbaren Prozessen orientiert. \cite[\pagef 2]{mccarthy_what_2007}
 
 Allerdings existieren, neben der Definition von McCarthy, auch viele weitere Definitionen von \ac{KI}, die je nach Forschungsrichtung und Anwendungsgebiet variieren. Eine allgemein akzeptierte und einheitliche Definition von \ac{KI} gibt es daher nicht. Nichtsdestotrotz enthalten die meisten Definitionen gemeinsame Bestandteile und somit ähnliche Hauptaussagen. \cite[\pagef 9]{goudz_grundlagen_2024}
 
-Neben der 
+Die Definition des europäischen Parlaments beschreibt \ac{KI} als die \glqq [...]Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisch Denken, Lernen, Planen und Kreativität zu imitieren \grqq{} \cite{noauthor_was_2020}. 
+
+Eine weitere, in der Forschung weit verbreitete Definition ist von Russell und Norvig. Diese beschreiben \ac{KI} als das Forschungsgebiet, das sich mit der Entwicklung von Agenten befasst, die ihre Umgebung wahrnehmen und auf Basis dieser Wahrnehmungen selbstständig Handlungen ausführen, um festgelegte Ziele zu erreichen. \cite[\pagef 4]{russell_artificial_2016} Diese Definition rückt das Konzept des intelligenten Agenten in den Mittelpunkt und versteht Intelligenz nicht als Eigenschaft, sondern als Fähigkeit zum zielgerichteten Handeln. Aufgrund dieses handlungsorientierten Ansatzes bietet die Definition von Russell und Norvig einen geeigneten theoretischen Rahmen für die vorliegende Arbeit, da im weiteren Verlauf insbesondere der Einsatz von \ac{KI}-Agenten im Kontext von \ac{ERP}-Systemen untersucht wird. Da Agenten in dieser Arbeit eine zentrale Rolle einnehmen, erfolgt eine ausführlichere Betrachtung ihres Aufbaus und ihrer Funktionsweise im folgenden Kapitel. Die Definition von Russell und Norvig bildet somit die Arbeitsgrundlage dieser Arbeit, da sie das Konzept der \ac{KI} in direktem Zusammenhang mit dem Ansatz intelligenter Agenten beschreibt und damit eine geeignete Grundlage für die weitere Untersuchung bildet.
+
+%\subsubsubsection{Maschinelles Lernen, Deep Learning und Neuronale Netze}
+Ein wichtiger Teilbereich der \ac{KI} ist das maschinelle Lernen. Es beschreibt den Prozess, bei dem Systeme ihre Leistung bei der Ausführung bestimmter Aufgaben durch Erfahrung verbessern \cite[\pagef 2]{mitchell_machine_1997}. Ziel des maschinellen Lernens ist es, auf Basis vorhandener Daten eigenständig Muster und Zusammenhänge zu erkennen und dieses Wissen auf neue Daten anzuwenden, um Vorhersagen oder Entscheidungen zu treffen. Hierzu werden von \ac{KI}-Systemen Lernalgorithmen eingesetzt, die während des Lernprozesses eigenständig angepasst und optimiert werden, wodurch diese fortlaufend verbessert und große, komplexe Datenmengen analysiert und verarbeitet werden können. \cite[\pagef 13]{kreutzer_kunstliche_2023}
+
+
+
+% Ziel: nur die unbedingt notwendigen Basisbegriffe und Hinweise liefern. Ausführliche
+% technische Details zu Agenten, RAG, Transformern etc. folgen in den Kapiteln
+% "KI-Agenten" und "KI in ERP".
+%
+% Kurz-Checkliste (jede Zeile als 1–2 Sätze ausformulieren und belegen):
+% - Prägnante Definition von "Künstlicher Intelligenz" und kurze Abgrenzung zu
+%   Machine Learning / Deep Learning (je 1 Satz).
+% - Wichtige Begriffe: Modell, Training, Inferenz, Overfitting, Datenqualität (je 1 Satz).
+% - Ein Satz zu modernen Sprachmodellen (Transformer/LLM) mit Verweis: Details folgen
+%   im Kapitel zu KI-Agenten.
+% - Warum Daten in ERP-Kontext besonders wichtig sind (strukturierte Entitäten, Datenschutz).
+% - Kurzer Verweis auf Evaluation: was im Groben gemessen wird (Genauigkeit, Nützlichkeit,
+%   Nutzerakzeptanz) — detaillierte Metriken später.
+% - Kurz: ethische/Datenschutzhinweise (DSGVO-Relevanz, Auditability) als Hinweis auf
+%   vertiefende Abschnitte.
+%
+% Umsetzungshinweis: Pro Bullet 1–2 Sätze plus mindestens eine zitierfähige Quelle.
