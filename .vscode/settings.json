@@ -51,5 +51,6 @@
                 "%DOCFILE%"
             ]
         }
-    ]
+    ],
+    "latex-workshop.message.badbox.show": "none"
 }

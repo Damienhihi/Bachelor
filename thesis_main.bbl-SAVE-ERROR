@@ -19,6 +19,34 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{davenport_putting_1998}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=418715aadaf08f606ff3e5575fa44f4f}{%
+           family={Davenport},
+           familyi={D\bibinitperiod},
+           given={Thomas\bibnamedelima H},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{fullhash}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{fullhashraw}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{bibnamehash}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{authorbibnamehash}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{authornamehash}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{authorfullhash}{418715aadaf08f606ff3e5575fa44f4f}
+      \strng{authorfullhashraw}{418715aadaf08f606ff3e5575fa44f4f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Putting the Enterprise into the Enterprise System}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Davenport - 1998 - Putting the Enterprise into the Enterprise System.pdf:C\:\\Users\\damie\\Zotero\\storage\\LM4L6P45\\Davenport - 1998 - Putting the Enterprise into the Enterprise System.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{klaus_what_2000}{article}{}{}
       \name{author}{3}{}{%
         {{hash=e3088d19c5ab2bb007567c6823aa28c7}{%
@@ -45,8 +73,8 @@
       \strng{authornamehash}{dffab4cac4652bd6b9c97389e0dcb3a5}
       \strng{authorfullhash}{dffab4cac4652bd6b9c97389e0dcb3a5}
       \strng{authorfullhashraw}{dffab4cac4652bd6b9c97389e0dcb3a5}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Though enterprise resource planning ({ERP}) has gained some prominence in the information systems ({IS}) literature over the past few years and is a significant phenomenon in practice, through (a) historical analysis, (b) meta-analysis of representative {IS} literature, and (c) a survey of academic experts, we reveal dissenting views on the phenomenon. Given this diversity of perspectives, it is unlikely that at this stage a broadly agreed definition of {ERP} can be achieved. We thus seek to increase awareness of the issues and stimulate further discussion, with the ultimate aim being to: (1) aid communication amongst researchers and between researchers and practitioners; (2) inform development of teaching materials on {ERP} and related concepts in university curricula and in commercial education and training; and (3) aid communication amongst clients, consultants and vendors. Increased transparency of the {ERP}-concept within {IS} may also benefit other aligned fields of knowledge.}
@@ -71,7 +99,7 @@
       \verb 10.1023/A:1026543906354
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\BRNKAL24\\Klaus et al. - 2000 - What is ERP.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\BRNKAL24\\Klaus et al. - 2000 - What is ERP.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1023/A:1026543906354
@@ -80,6 +108,263 @@
       \verb https://doi.org/10.1023/A:1026543906354
       \endverb
       \keyw{enterprise resource planning,information system evolution,literature review,management information systems,management support systems,production planning information systems,transaction processing systems}
+    \endentry
+    \entry{mohta_implementing_2017}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=bc92f50e24fef1fc45f22008e0f7d74b}{%
+           family={Mohta},
+           familyi={M\bibinitperiod},
+           given={Rahul},
+           giveni={R\bibinitperiod}}}%
+        {{hash=335f06474d4f0bdfc766c70d21af4140}{%
+           family={Kasat},
+           familyi={K\bibinitperiod},
+           given={Yogesh},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=bf36a8afc7abf0db14f9488a1d7fc8d0}{%
+           family={Yadav},
+           familyi={Y\bibinitperiod},
+           given={J.\bibnamedelimi J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Packt Publishing Ltd}%
+      }
+      \strng{namehash}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{fullhash}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{fullhashraw}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{bibnamehash}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{authorbibnamehash}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{authornamehash}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{authorfullhash}{f1de73c422febcefd7d6d68a08d72729}
+      \strng{authorfullhashraw}{f1de73c422febcefd7d6d68a08d72729}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Harness the power of Dynamics 365 Operations and discover all you need to implement {itAbout} This {BookMaster} all the necessary tools and resources to evaluate Dynamics 365 for Operations, implement it, and proactively maintain it.Troubleshoot your problems effectively with your Dynamics 365 {partnerLearn} about architecture, deployment choices, integration, configuration and data migration, development, testing, reporting and {BI}, support, upgrading, and more.Who This Book Is {ForThis} book is for technology leaders, project managers solution architects, and consultants who are planning to implement, are in the process of implementing, or are currently upgrading to Dynamics 365 for Operations. This book will help you effectively learn and implement Dynamics 365 for Operations.What You Will {LearnLearn} about Microsoft Dynamics 365, it\&\#39;s offerings, plans and details of Finance and Operations, Enterprise {editionUnderstand} the methodology and the tool, architecture, and deployment {optionsEffectively} plan and manage configurations and data migration, functional design, and technical {designUnderstand} integration frameworks, development concepts, best practices, and recommendations while developing new {solutionsLearn} how to leverage intelligence and analytics through Power {BI}, machine learning, {IOT}, and Cortana {intelligenceMaster} testing, training, going live, upgrading, and how to get support during and after the {implementationIn} {DetailMicrosoft} Dynamics 365 for Finance and Operations, Enterprise edition, is a modern, cloud-first, mobile-first, {ERP} solution suitable for medium and large enterprise customers.This book will guide you through the entire life cycle of a implementation, helping you avoid common pitfalls while increasing your efficiency and effectiveness at every stage of the project.Starting with the foundations, the book introduces the Microsoft Dynamics 365 offerings, plans, and products. You will be taken through the various methodologies, architectures, and deployments so you can select, implement, and maintain Microsoft Dynamics 365 for Finance and Operations, Enterprise edition. You will delve in-depth into the various phases of implementation: project management, analysis, configuration, data migration, design, development, using Power {BI}, machine learning, Cortana analytics for intelligence, testing, training, and finally deployment, support cycles, and upgrading. This book focuses on providing you with information about the product and the various concepts and tools, along with real-life examples from the field and guidance that will empower you to execute and implement Dynamics 365 for Finance and Operations, Enterprise edition.Style and {approachThis} book is a step-by-step guide focusing on implementing Dynamics 365 Operations solutions for your organization.}
+      \field{day}{15}
+      \field{isbn}{978-1-78712-101-0}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{note}{Google-Books-{ID}: 4JlGDwAAQBAJ}
+      \field{pagetotal}{551}
+      \field{title}{Implementing Microsoft Dynamics 365 for Finance and Operations}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \keyw{Computers / Business \& Productivity Software / Business Intelligence,Computers / Distributed Systems / Cloud Computing,Computers / Business \& Productivity Software / General}
+    \endentry
+    \entry{milindav_abrufen_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=7da733dc517f4c2edc9ebd1cf7f20c78}{%
+           family={Milindav},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{fullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{fullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{bibnamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{authorbibnamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{authornamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{authorfullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \strng{authorfullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Eine Übersicht über Berichts- und Analyseoptionen, die in Dataverse- und Dynamics 365-Apps verfügbar sind.}
+      \field{langid}{german}
+      \field{title}{Abrufen von Einblicken aus Ihren Dataverse-Daten - Power Apps}
+      \field{urlday}{27}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\ZSHUF7I6\\data-get-insights-overview.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/de-de/power-apps/maker/data-platform/data-get-insights-overview
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/de-de/power-apps/maker/data-platform/data-get-insights-overview
+      \endverb
+    \endentry
+    \entry{cabeln_enable_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2f8758f3e59ffefb6473193a54a423f0}{%
+           family={cabeln},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{fullhash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{fullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{bibnamehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authorbibnamehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authornamehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
+      \field{extraname}{1}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
+      \field{langid}{english}
+      \field{title}{Enable Copilot capabilities in finance and operations apps - Finance \& Operations {|} Dynamics 365}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\3KAZJTB7\\enable-copilot.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
+      \endverb
+    \endentry
+    \entry{ramakrishnamoorthy_dual-write_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=20bd5f789b03315d75a41c392115a8bf}{%
+           family={{RamaKrishnamoorthy}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{fullhash}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{fullhashraw}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{bibnamehash}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{authorbibnamehash}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{authornamehash}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{authorfullhash}{20bd5f789b03315d75a41c392115a8bf}
+      \strng{authorfullhashraw}{20bd5f789b03315d75a41c392115a8bf}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn about dual-write, which provides near-real-time interaction between customer engagement apps and finance and operations apps.}
+      \field{langid}{english}
+      \field{title}{Dual-write overview - Finance \& Operations {|} Dynamics 365}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\ZKF7JUHD\\dual-write-overview.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview
+      \endverb
+    \endentry
+    \entry{jaredha_enable_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=cfcaa1d779d1f0990a9b8204d26ed9c9}{%
+           family={jaredha},
+           familyi={j\bibinitperiod}}}%
+      }
+      \strng{namehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{fullhash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{fullhashraw}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{bibnamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{authorbibnamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{authornamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{authorfullhash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \strng{authorfullhashraw}{cfcaa1d779d1f0990a9b8204d26ed9c9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn about how to enable finance and operations apps virtual entities in Microsoft Dataverse, including an overview on how to generate virtual entities.}
+      \field{langid}{english}
+      \field{title}{Enable Microsoft Dataverse virtual entities - Finance \& Operations {|} Dynamics 365}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\MWPXX3SU\\enable-virtual-entities.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities
+      \endverb
+    \endentry
+    \entry{cabeln_enable_nodate-1}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=2f8758f3e59ffefb6473193a54a423f0}{%
+           family={cabeln},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{fullhash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{fullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{bibnamehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authorbibnamehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authornamehash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
+      \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
+      \field{langid}{english}
+      \field{title}{Enable Copilot capabilities in finance and operations apps - Finance \& Operations {|} Dynamics 365}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\XBRR6GRP\\enable-copilot.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
+      \endverb
+    \endentry
+    \entry{iaanw_overview_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=42192fe26e7f6ee462d65b157127d12d}{%
+           family={iaanw},
+           familyi={i\bibinitperiod}}}%
+      }
+      \strng{namehash}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{fullhash}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{fullhashraw}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{bibnamehash}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{authorbibnamehash}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{authornamehash}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{authorfullhash}{42192fe26e7f6ee462d65b157127d12d}
+      \strng{authorfullhashraw}{42192fe26e7f6ee462d65b157127d12d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Build intelligent {AI} agents effortlessly with Microsoft Copilot Studio. Create, customize, and deploy agents across platforms using a low-code interface.}
+      \field{langid}{english}
+      \field{title}{Overview - Microsoft Copilot Studio}
+      \field{urlday}{28}
+      \field{urlmonth}{11}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\TRGGTMTF\\fundamentals-what-is-copilot-studio.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio
+      \endverb
     \endentry
     \entry{mccarthy_proposal_2006}{article}{}{}
       \name{author}{4}{}{%
@@ -112,8 +397,8 @@
       \strng{authornamehash}{c70aaea2568720f5f3d6d013ac42fe63}
       \strng{authorfullhash}{bb8209e2888b6f5e921daaf056d0f340}
       \strng{authorfullhashraw}{bb8209e2888b6f5e921daaf056d0f340}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The 1956 Dartmouth summer research project on artificial intelligence was initiated by this August 31, 1955 proposal, authored by John {McCarthy}, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. The original typescript consisted of 17 pages plus a title page. Copies of the typescript are housed in the archives at Dartmouth College and Stanford University. The first 5 papers state the proposal, and the remaining pages give qualifications and interests of the four who proposed the study. In the interest of brevity, this article reproduces only the proposal itself, along with the short autobiographical statements of the proposers.}
@@ -137,7 +422,7 @@
       \verb 10.1609/aimag.v27i4.1904
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\RT57ALDM\\McCarthy et al. - 2006 - A Proposal for the Dartmouth Summer Research Proje.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\RT57ALDM\\McCarthy et al. - 2006 - A Proposal for the Dartmouth Summer Research Proje.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904
@@ -162,8 +447,8 @@
       \strng{authornamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhashraw}{627c3779677d0eaf3312e5b67e8cbe0c}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article for the layman answers basic questions about artiﬁcial intelligence. The opinions expressed here are not all consensus opinion among researchers in {AI}.}
@@ -174,7 +459,7 @@
       \field{year}{2007}
       \field{dateera}{ce}
       \verb{file}
-      \verb McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\IK5KAZ5E\\McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:application/pdf
+      \verb McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:C\:\\Users\\damie\\Zotero\\storage\\IK5KAZ5E\\McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:application/pdf
       \endverb
     \endentry
     \entry{goudz_grundlagen_2024}{incollection}{}{}
@@ -220,8 +505,8 @@
       \strng{editornamehash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhashraw}{4ee8179c19742bb6e2e91eb2b28bce4b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Bis vor kurzem galt die Künstliche Intelligenz ({KI}) noch als eher ein abstraktes Konzept. Die Fortschritte vollzogen sich in atemberaubender Geschwindigkeit. Wir beginnen das aktuelle Kapitel mit der Definition und Einordnung des Begriffes „{KI}“. Der Abschnitt definiert weiterhin die relevanten Begriffe wie „starke {KI}“ oder „schwache {KI}“ und geht auf die drei Leistungsbestandteile (Neuronale Netze, Maschinelles Lernen, Deep Learning) ein. Darüber hinaus behandelt dieses Kapitel die wesentlichen Treiber der Künstlichen Intelligenz wie Big Data und das Internet der Dinge, die im Folgenden näher erläutert werden.}
@@ -241,7 +526,7 @@
       \verb 10.1007/978-3-658-44855-4_2
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\MCRFNRIN\\Goudz und Erdogan - 2024 - Grundlagen der KI.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\MCRFNRIN\\Goudz und Erdogan - 2024 - Grundlagen der KI.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/978-3-658-44855-4_2
@@ -249,11 +534,11 @@
       \verb{url}
       \verb https://doi.org/10.1007/978-3-658-44855-4_2
       \endverb
-      \keyw{Big Data,Internet of Things,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
+      \keyw{Internet of Things,Big Data,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
     \endentry
     \entry{noauthor_was_2020}{online}{}{}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz ({KI}) gilt als „zukunftsweisende Technologie“. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
       \field{day}{14}
@@ -268,7 +553,7 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZZ4CC4LX\\was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt.html:text/html
+      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\ZZ4CC4LX\\was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt
@@ -320,8 +605,8 @@
       \strng{editoranamehash}{754b502b2e716efb687a1f1b9e6d0345}
       \strng{editorafullhash}{754b502b2e716efb687a1f1b9e6d0345}
       \strng{editorafullhashraw}{754b502b2e716efb687a1f1b9e6d0345}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{Third edition, Global edition}
@@ -335,10 +620,318 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \verb{file}
-      \verb Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZMD7SFRM\\Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:application/pdf
+      \verb Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:C\:\\Users\\damie\\Zotero\\storage\\ZMD7SFRM\\Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{mitchell_machine_1997}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=d331eeb7f00e650950ccadcb9c47efec}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={Tom\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {{McGraw}-Hill}%
+      }
+      \strng{namehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{fullhash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{fullhashraw}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{bibnamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorbibnamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authornamehash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorfullhash}{d331eeb7f00e650950ccadcb9c47efec}
+      \strng{authorfullhashraw}{d331eeb7f00e650950ccadcb9c47efec}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Nachdr.}
+      \field{isbn}{978-0-07-042807-2 978-0-07-115467-3}
+      \field{langid}{english}
+      \field{pagetotal}{414}
+      \field{series}{{McGraw}-Hill series in Computer Science}
+      \field{title}{Machine learning}
+      \field{year}{1997}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Mitchell - 2013 - Machine learning.pdf:C\:\\Users\\damie\\Zotero\\storage\\A6K5KWTJ\\Mitchell - 2013 - Machine learning.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{kreutzer_kunstliche_2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=afd5fe6db85c66ec3bead52ae718514e}{%
+           family={Kreutzer},
+           familyi={K\bibinitperiod},
+           given={Ralf\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien Wiesbaden {GmbH}}%
+      }
+      \strng{namehash}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{fullhash}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{fullhashraw}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{bibnamehash}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{authorbibnamehash}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{authornamehash}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{authorfullhash}{afd5fe6db85c66ec3bead52ae718514e}
+      \strng{authorfullhashraw}{afd5fe6db85c66ec3bead52ae718514e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-3-658-42598-2}
+      \field{pagetotal}{1}
+      \field{shorttitle}{Künstliche Intelligenz Verstehen}
+      \field{title}{Künstliche Intelligenz Verstehen: Grundlagen - Use-Cases - Unternehmenseigene {KI}-Journey}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Kreutzer - 2023 - Künstliche Intelligenz Verstehen Grundlagen - Use.pdf:C\:\\Users\\damie\\Zotero\\storage\\Q5TEE49C\\Kreutzer - 2023 - Künstliche Intelligenz Verstehen Grundlagen - Use.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ertel_grundkurs_2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=0ad7b7b50f220390cbf1c36575c6a49a}{%
+           family={Ertel},
+           familyi={E\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vieweg}%
+      }
+      \strng{namehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{fullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{fullhashraw}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{bibnamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authorbibnamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authornamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authorfullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \strng{authorfullhashraw}{0ad7b7b50f220390cbf1c36575c6a49a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{6. Auflage}
+      \field{isbn}{978-3-658-44955-1}
+      \field{pagetotal}{1}
+      \field{series}{Computational Intelligence}
+      \field{shorttitle}{Grundkurs Künstliche Intelligenz}
+      \field{title}{Grundkurs Künstliche Intelligenz: eine praxisorientierte Einführung}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1007/978-3-658-44955-1
+      \endverb
+    \endentry
+    \entry{nwana_software_1996}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9c8632ab1d5057bd5c6dbd6f4dba4f05}{%
+           family={Nwana},
+           familyi={N\bibinitperiod},
+           given={Hyacinth\bibnamedelima S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{fullhash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{fullhashraw}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{bibnamehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{authorbibnamehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{authornamehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{authorfullhash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \strng{authorfullhashraw}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Agent software is a rapidly developing area of research. However, the overuse of the word “agent” has tended to mask the fact that, in reality, there is a truly heterogeneous body of research being carried out under this banner. This overview paper presents a typology of agents. Next, it places agents in context, defines them and then goes on, inter alia, to overview critically the rationales, hypotheses, goals, challenges and state-of-the-art demonstrators of the various agent types in our typology. Hence, it attempts to make explicit much of what is usually implicit in the agents literature. It also proceeds to overview some other general issues which pertain to all the types of agents in the typology. This paper largely reviews software agents, and it also contains some strong opinions that are not necessarily widely accepted by the agent community.}
+      \field{issn}{1469-8005, 0269-8889}
+      \field{journaltitle}{The Knowledge Engineering Review}
+      \field{langid}{english}
+      \field{month}{9}
+      \field{number}{3}
+      \field{shorttitle}{Software agents}
+      \field{title}{Software agents: an overview}
+      \field{urlday}{10}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{1996}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{205\bibrangedash 244}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1017/S026988890000789X
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/software-agents-an-overview/66832B4C8D509136A8E1AC2E61EB70D0
+      \endverb
+      \verb{url}
+      \verb https://www.cambridge.org/core/journals/knowledge-engineering-review/article/abs/software-agents-an-overview/66832B4C8D509136A8E1AC2E61EB70D0
+      \endverb
+    \endentry
+    \entry{koch_ki-agenten_2025}{incollection}{}{}
+      \name{author}{3}{}{%
+        {{hash=e019cfb1f7cece31069241168a391478}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0c3a0ccc8d9f60b79069184d2417b907}{%
+           family={Kohne},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8494bd65895f335546ad89478078748}{%
+           family={Brechbühler},
+           familyi={B\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=e019cfb1f7cece31069241168a391478}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=0c3a0ccc8d9f60b79069184d2417b907}{%
+           family={Kohne},
+           familyi={K\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c8494bd65895f335546ad89478078748}{%
+           family={Brechbühler},
+           familyi={B\bibinitperiod},
+           given={Nils},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{fullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{fullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{bibnamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{authorbibnamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{authornamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{authorfullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{authorfullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{editorbibnamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{editornamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{editorfullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \strng{editorfullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In diesem Kapitel wird zunächst in das Konzept der {KI}-Agenten eingeführt. Es ist für Unternehmen wichtig, sich mit diesen Systemen auseinanderzusetzen, da sie zukünftig viele interne und externe Aufgaben und Prozesse vollkommen autonom ausführen können. Dazu werden unterschiedliche {KI}-Agenten-Konzepte vorgestellt und beschrieben, wie die Agenten untereinander und mit weiteren Systemen interagieren und Daten sowie Informationen austauschen. Anschließend wird beschrieben, warum das Prompt Engineering in diesem Kontext so wichtig ist. Abschließend werden unterschiedliche Anwendungsfälle für {KI}-Agenten im Unternehmen vorgestellt.}
+      \field{booktitle}{Prompt Engineering im Unternehmen – eine Einführung: Wettbewerbsvorteile durch generative {KI} und Large Language Models}
+      \field{isbn}{978-3-658-47699-1}
+      \field{langid}{german}
+      \field{title}{{KI}-Agenten}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{109\bibrangedash 124}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-658-47699-1_7
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\86ELVR5P\\Koch et al. - 2025 - KI-Agenten.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-47699-1_7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-47699-1_7
+      \endverb
+    \endentry
+    \entry{karrenberg_technologische_2025}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=9efbe0c7d22c50bb628b4be07c9bdf73}{%
+           family={Karrenberg},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9efbe0c7d22c50bb628b4be07c9bdf73}{%
+           family={Karrenberg},
+           familyi={K\bibinitperiod},
+           given={Ulrich},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{fullhash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{fullhashraw}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{bibnamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{authorbibnamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{authornamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{authorfullhash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{authorfullhashraw}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{editorbibnamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{editornamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{editorfullhash}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \strng{editorfullhashraw}{9efbe0c7d22c50bb628b4be07c9bdf73}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{KI}-Agenten, oder {KI}-Agenten, repräsentieren eine fortschrittliche Form der künstlichen Intelligenz, die über die Fähigkeiten herkömmlicher {KI}-Systeme hinausgeht. Im Kern sind {KI}-Agenten {IT}-Systeme, die autonom Aufgaben erledigen können, indem sie ihre Umgebung kennen, Entscheidungen treffen und darauf basierend handeln. Sie sind somit in der Lage, komplexe Aufgaben zu bewältigen, die normalerweise menschliche Intelligenz erfordern würden.}
+      \field{booktitle}{Metamorphose unserer Gesellschaft durch {KI}-Agenten: Was bleibt vom Menschen, wenn Maschinen besser denken?}
+      \field{isbn}{978-3-662-72415-6}
+      \field{langid}{german}
+      \field{title}{Der technologische Aufstieg der {KI}-Agenten}
+      \field{urlday}{11}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{13\bibrangedash 23}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/978-3-662-72415-6_2
+      \endverb
+      \verb{file}
+      \verb 978-3-662-72415-6.pdf:C\:\\Users\\damie\\Zotero\\storage\\YTI9SHD2\\978-3-662-72415-6.pdf:application/pdf;Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\3Y83ZM65\\Karrenberg - 2025 - Der technologische Aufstieg der KI-Agenten.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-72415-6_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-72415-6_2
       \endverb
     \endentry
   \enddatalist
+  \missing{schwab_kunstliche_2023}
+  \missing{wortmann_evolution_1998}
 \endrefsection
 \endinput
 
