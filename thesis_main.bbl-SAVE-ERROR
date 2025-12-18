@@ -19,6 +19,294 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{nickel_wie_2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{hash=a0e9e3af6dd47a90485b94b86076ae8a}{%
+           family={Nickel},
+           familyi={N\bibinitperiod},
+           given={Kilian},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f3a4441d8647df460020cee353a7b463}{%
+           family={Hasenbeck},
+           familyi={H\bibinitperiod},
+           given={Felix},
+           giveni={F\bibinitperiod}}}%
+        {{hash=60fa16e2f174e7448337a89bdaecea65}{%
+           family={Andrä},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=2c983e6c08674d9836d678ce3a1d7c36}{%
+           family={Gold},
+           familyi={G\bibinitperiod},
+           given={Barbara},
+           giveni={B\bibinitperiod}}}%
+        {{hash=759c3c08b9fcaa6d0e431b29d2d1ec19}{%
+           family={Kolkmann},
+           familyi={K\bibinitperiod},
+           given={Hanna},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{328cdbe5e75779a9733c2b3ec87a461a}
+      \strng{fullhash}{b57a5e08ff0ba936ea0099a298ca0db1}
+      \strng{fullhashraw}{b57a5e08ff0ba936ea0099a298ca0db1}
+      \strng{bibnamehash}{b57a5e08ff0ba936ea0099a298ca0db1}
+      \strng{authorbibnamehash}{b57a5e08ff0ba936ea0099a298ca0db1}
+      \strng{authornamehash}{328cdbe5e75779a9733c2b3ec87a461a}
+      \strng{authorfullhash}{b57a5e08ff0ba936ea0099a298ca0db1}
+      \strng{authorfullhashraw}{b57a5e08ff0ba936ea0099a298ca0db1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{ERP}-Systeme bilden den Kern der Unternehmens-{IT}. Sie unterstützen unternehmensweite Prozesse und stellen die zentrale Datendrehscheibe dar. Während die Vorgänger moderner {ERP}-Systeme hauptsächlich in der Produktion größerer Industriebetriebe vorzufinden waren, sind {ERP}-Systeme heutzutage für zahlreiche Branchen und Unternehmensgrößen verfügbar und zunehmend auch für kleinere Unternehmen relevant. Die {ERP}-Einführung stellt ein teures und aufwändiges Projekt dar – diese Studie hat das Ziel, die Diskussion über dessen Gelingen zu bereichern.}
+      \field{langid}{german}
+      \field{note}{Publisher: Fraunhofer {IAIS}}
+      \field{title}{Wie eine {ERP}-Einführung gelingt}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.24406/publica-807
+      \endverb
+      \verb{urlraw}
+      \verb https://publica.fraunhofer.de/handle/publica/434539
+      \endverb
+      \verb{url}
+      \verb https://publica.fraunhofer.de/handle/publica/434539
+      \endverb
+    \endentry
+    \entry{hrischev_artificial_2023}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=888e27436b49b9ae40ccbb573275046a}{%
+           family={Hrischev},
+           familyi={H\bibinitperiod},
+           given={Radoslav},
+           giveni={R\bibinitperiod}}}%
+        {{hash=1eee6c8ee4cf1b0a70bbdd0734450fae}{%
+           family={Shakev},
+           familyi={S\bibinitperiod},
+           given={Nikola},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{fullhash}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{fullhashraw}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{bibnamehash}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{authorbibnamehash}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{authornamehash}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{authorfullhash}{b2b121c8980c06f45ee68e2c776b8b45}
+      \strng{authorfullhashraw}{b2b121c8980c06f45ee68e2c776b8b45}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The article presents a study of the implementation of Artiﬁcial Intelligence ({AI}) in Enterprise Resource Planning ({ERP}) systems. In recent years, with the digitization of manufacturing and the globalization of the economy, the implementation of {ERP} systems has become a necessary condition for the eﬀective functioning of the industry. Developers of {ERP} systems are using {AI} as a tool for functionality optimization. {SAP} Business Technology Platform ({SAP} {BTP}) is a modern cloud platform based on intelligent business management, a next-generation {ERP} system that helps achieve business results through integration and embedded tools with {AI}. The embedded applications with {AI} elements in {SAP} {BTP} are investigated. The main functionalities with builtin {AI} in modern {ERP} systems are presented.}
+      \field{day}{1}
+      \field{issn}{13125702}
+      \field{journaltitle}{Engineering Sciences}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{1}
+      \field{shortjournal}{Eng Sci}
+      \field{title}{Artificial {IntelligenceinEnterprise} Resource Planning Systems}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{{LX}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.7546/EngSci.LX.23.01.01
+      \endverb
+      \verb{file}
+      \verb Hrischev und Shakev - 2023 - Artificial IntelligenceinEnterprise Resource Plann.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\MARPJGKV\\Hrischev und Shakev - 2023 - Artificial IntelligenceinEnterprise Resource Plann.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://es.ims.bas.bg/Abstracts/A2023/a1/01-01.pdf
+      \endverb
+      \verb{url}
+      \verb http://es.ims.bas.bg/Abstracts/A2023/a1/01-01.pdf
+      \endverb
+    \endentry
+    \entry{deng_ai_2025}{article}{}{}
+      \name{author}{7}{}{%
+        {{hash=8d923837072577a37683d3e8bd4c6b96}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Zehang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4d6c1df678ed981554dbf74ff34e945e}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yongjian},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=859610bfa816bc149da42c69f0c4e75a}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Changzhou},
+           giveni={C\bibinitperiod}}}%
+        {{hash=4a22d6b42524b58024f2ba272b3eb420}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Wanlun},
+           giveni={W\bibinitperiod}}}%
+        {{hash=7d00abee2cb287d15d202f0da26e44af}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Junwu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=5bb3615c181515ce31285f07a652bbe6}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Sheng},
+           giveni={S\bibinitperiod}}}%
+        {{hash=baa983e0769e57b7f9a497fc98e9a245}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Yang},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd7fed66a83818190a6c3cc7960acdb3}
+      \strng{fullhash}{3f098246077c33f49716e65ebc3d88da}
+      \strng{fullhashraw}{3f098246077c33f49716e65ebc3d88da}
+      \strng{bibnamehash}{3f098246077c33f49716e65ebc3d88da}
+      \strng{authorbibnamehash}{3f098246077c33f49716e65ebc3d88da}
+      \strng{authornamehash}{fd7fed66a83818190a6c3cc7960acdb3}
+      \strng{authorfullhash}{3f098246077c33f49716e65ebc3d88da}
+      \strng{authorfullhashraw}{3f098246077c33f49716e65ebc3d88da}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{An Artificial Intelligence ({AI}) agent is a software entity that autonomously performs tasks or makes decisions based on pre-defined objectives and data inputs. {AI} agents, capable of perceiving user inputs, reasoning and planning tasks, and executing actions, have seen remarkable advancements in algorithm development and task performance. However, the security challenges they pose remain under-explored and unresolved. This survey delves into the emerging security threats faced by {AI} agents, categorizing them into four critical knowledge gaps: unpredictability of multi-step user inputs, complexity in internal executions, variability of operational environments, and interactions with untrusted external entities. By systematically reviewing these threats, this article highlights both the progress made and the existing limitations in safeguarding {AI} agents. The insights provided aim to inspire further research into addressing the security threats associated with {AI} agents, thereby fostering the development of more robust and secure {AI} agent applications.}
+      \field{day}{21}
+      \field{issn}{0360-0300}
+      \field{journaltitle}{{ACM} Comput. Surv.}
+      \field{month}{2}
+      \field{number}{7}
+      \field{shorttitle}{{AI} Agents Under Threat}
+      \field{title}{{AI} Agents Under Threat: A Survey of Key Security Challenges and Future Pathways}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{57}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{182:1\bibrangedash 182:36}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1145/3716628
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\IAJJGGKT\\Deng et al. - 2025 - AI Agents Under Threat A Survey of Key Security C.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://dl.acm.org/doi/10.1145/3716628
+      \endverb
+      \verb{url}
+      \verb https://dl.acm.org/doi/10.1145/3716628
+      \endverb
+    \endentry
+    \entry{gujar_role_2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=1aba3a9ba82fdd35f14e5e432c5a3e7c}{%
+           family={Gujar},
+           familyi={G\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{fullhash}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{fullhashraw}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{bibnamehash}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{authorbibnamehash}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{authornamehash}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{authorfullhash}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \strng{authorfullhashraw}{1aba3a9ba82fdd35f14e5e432c5a3e7c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Enterprise Resource Planning ({ERP}) systems have long been integral to organizational efficiency, integrating core processes such as supply chain management, finance, and human resources. However, with the advent of Artificial Intelligence ({AI}), particularly {AI} Agents and Customer Relationship Management ({CRM}) integration, the {ERP} landscape is poised for a paradigm shift. This paper explores the transformative potential of {AI} Agents in {ERP} systems, focusing on their role in enhancing {CRM} functionalities. By enabling hyper - personalization, predictive analytics, and seamless process automation, {AI} - driven {CRM} solutions within {ERP} systems promise to redefine operational efficiency, decision - making and customer engagement.}
+      \field{day}{27}
+      \field{issn}{23197064}
+      \field{journaltitle}{International Journal of Science and Research ({IJSR})}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{shortjournal}{{IJSR}}
+      \field{shorttitle}{The Role of {AI} Agents in {CRM} and {ERP} Integration}
+      \field{title}{The Role of {AI} Agents in {CRM} and {ERP} Integration: An Analysis}
+      \field{urlday}{17}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{14}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1032\bibrangedash 1037}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.21275/SR25217112600
+      \endverb
+      \verb{file}
+      \verb Gujar - 2025 - The Role of AI Agents in CRM and ERP Integration .pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\3GQEVV5F\\Gujar - 2025 - The Role of AI Agents in CRM and ERP Integration .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ijsr.net/getabstract.php?paperid=SR25217112600
+      \endverb
+      \verb{url}
+      \verb https://www.ijsr.net/getabstract.php?paperid=SR25217112600
+      \endverb
+    \endentry
+    \entry{spataro_announcing_2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=b517866ec6247c5bac5f1370d2bf4be7}{%
+           family={Spataro},
+           familyi={S\bibinitperiod},
+           given={Jared},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{fullhash}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{fullhashraw}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{bibnamehash}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{authorbibnamehash}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{authornamehash}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{authorfullhash}{b517866ec6247c5bac5f1370d2bf4be7}
+      \strng{authorfullhashraw}{b517866ec6247c5bac5f1370d2bf4be7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Announcing Microsoft Copilot Studio at Microsoft Ignite 2023, a low-code tool to customize Copilot for Microsoft 365 and build standalone copilots. Learn more.}
+      \field{day}{15}
+      \field{langid}{american}
+      \field{month}{11}
+      \field{title}{Announcing Microsoft Copilot Studio}
+      \field{titleaddon}{Microsoft 365 Blog}
+      \field{urlday}{17}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\JZC58CEU\\announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-stan.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/
+      \endverb
+      \verb{url}
+      \verb https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/
+      \endverb
+    \endentry
     \entry{davenport_putting_1998}{article}{}{}
       \name{author}{1}{}{%
         {{hash=418715aadaf08f606ff3e5575fa44f4f}{%
@@ -35,8 +323,8 @@
       \strng{authornamehash}{418715aadaf08f606ff3e5575fa44f4f}
       \strng{authorfullhash}{418715aadaf08f606ff3e5575fa44f4f}
       \strng{authorfullhashraw}{418715aadaf08f606ff3e5575fa44f4f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -44,7 +332,7 @@
       \field{year}{1998}
       \field{dateera}{ce}
       \verb{file}
-      \verb Davenport - 1998 - Putting the Enterprise into the Enterprise System.pdf:C\:\\Users\\damie\\Zotero\\storage\\LM4L6P45\\Davenport - 1998 - Putting the Enterprise into the Enterprise System.pdf:application/pdf
+      \verb Davenport - 1998 - Putting the Enterprise into the Enterprise System.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\LM4L6P45\\Davenport - 1998 - Putting the Enterprise into the Enterprise System.pdf:application/pdf
       \endverb
     \endentry
     \entry{klaus_what_2000}{article}{}{}
@@ -73,8 +361,8 @@
       \strng{authornamehash}{dffab4cac4652bd6b9c97389e0dcb3a5}
       \strng{authorfullhash}{dffab4cac4652bd6b9c97389e0dcb3a5}
       \strng{authorfullhashraw}{dffab4cac4652bd6b9c97389e0dcb3a5}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Though enterprise resource planning ({ERP}) has gained some prominence in the information systems ({IS}) literature over the past few years and is a significant phenomenon in practice, through (a) historical analysis, (b) meta-analysis of representative {IS} literature, and (c) a survey of academic experts, we reveal dissenting views on the phenomenon. Given this diversity of perspectives, it is unlikely that at this stage a broadly agreed definition of {ERP} can be achieved. We thus seek to increase awareness of the issues and stimulate further discussion, with the ultimate aim being to: (1) aid communication amongst researchers and between researchers and practitioners; (2) inform development of teaching materials on {ERP} and related concepts in university curricula and in commercial education and training; and (3) aid communication amongst clients, consultants and vendors. Increased transparency of the {ERP}-concept within {IS} may also benefit other aligned fields of knowledge.}
@@ -99,7 +387,7 @@
       \verb 10.1023/A:1026543906354
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\BRNKAL24\\Klaus et al. - 2000 - What is ERP.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\BRNKAL24\\Klaus et al. - 2000 - What is ERP.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1023/A:1026543906354
@@ -108,6 +396,304 @@
       \verb https://doi.org/10.1023/A:1026543906354
       \endverb
       \keyw{enterprise resource planning,information system evolution,literature review,management information systems,management support systems,production planning information systems,transaction processing systems}
+    \endentry
+    \entry{bititci_strategic_1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=8487d00235dc78103693e1648f91b86f}{%
+           family={Bititci},
+           familyi={B\bibinitperiod},
+           given={Umit\bibnamedelima S.},
+           giveni={U\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \name{editora}{1}{}{%
+        {{hash=0be17aaf6fedbae6a499d4a42fe3f5f8}{%
+           family={Carrie},
+           familyi={C\bibinitperiod},
+           given={Allan\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, {NY}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{8487d00235dc78103693e1648f91b86f}
+      \strng{fullhash}{8487d00235dc78103693e1648f91b86f}
+      \strng{fullhashraw}{8487d00235dc78103693e1648f91b86f}
+      \strng{bibnamehash}{8487d00235dc78103693e1648f91b86f}
+      \strng{authorbibnamehash}{8487d00235dc78103693e1648f91b86f}
+      \strng{authornamehash}{8487d00235dc78103693e1648f91b86f}
+      \strng{authorfullhash}{8487d00235dc78103693e1648f91b86f}
+      \strng{authorfullhashraw}{8487d00235dc78103693e1648f91b86f}
+      \strng{editorabibnamehash}{0be17aaf6fedbae6a499d4a42fe3f5f8}
+      \strng{editoranamehash}{0be17aaf6fedbae6a499d4a42fe3f5f8}
+      \strng{editorafullhash}{0be17aaf6fedbae6a499d4a42fe3f5f8}
+      \strng{editorafullhashraw}{0be17aaf6fedbae6a499d4a42fe3f5f8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{editoratype}{collaborator}
+      \field{isbn}{978-0-387-35321-0}
+      \field{number}{v.2}
+      \field{pagetotal}{1}
+      \field{series}{{IFIP} Advances in Information and Communication Technology Ser}
+      \field{shorttitle}{Strategic Management of the Manufacturing Value Chain}
+      \field{title}{Strategic Management of the Manufacturing Value Chain: Proceedings of the International Conference of the Manufacturing Value-Chain August '98, Troon, Scotland, {UK}}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Bititci - 1998 - Strategic Management of the Manufacturing Value Ch.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\AQ3BJZE6\\Bititci - 1998 - Strategic Management of the Manufacturing Value Ch.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{robert_jacobs_enterprise_2007}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4c9b768d0e933dd5c06ef9771e041a3f}{%
+           family={Robert\bibnamedelima Jacobs},
+           familyi={R\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d2647e99b2a682183a164fc2f8919eb3}{%
+           family={‘Ted’\bibnamedelimb Weston\bibnamedelima Jr.},
+           familyi={T\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={F.c.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{fullhash}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{fullhashraw}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{bibnamehash}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{authorbibnamehash}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{authornamehash}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{authorfullhash}{0729ba52078587d5c2028ec015ea04a3}
+      \strng{authorfullhashraw}{0729ba52078587d5c2028ec015ea04a3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This is a brief history of {ERP}—enterprise resource planning. Major {ERP} vendors are discussed as well as the major impact of developments in computer hardware and software on the industry. The industry consolidation that has recently occurred is also discussed. Interviews were conducted with Mr. Ed {McVaney}, founder of J.D. Edwards, Rick Allen, former {VP} of Finance and Administration, and Rick Snow, former Chief Legal Counsel of J.D. Edwards. Information was also obtained from Bill Robinson who held the position of “Industry Consultant” with {IBM} in the mid-1980s.}
+      \field{issn}{1873-1317}
+      \field{journaltitle}{Journal of Operations Management}
+      \field{langid}{english}
+      \field{note}{\_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1016/j.jom.2006.11.005}
+      \field{number}{2}
+      \field{title}{Enterprise resource planning ({ERP})—A brief history}
+      \field{urlday}{9}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{25}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{357\bibrangedash 363}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jom.2006.11.005
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\WZZ7W9QQ\\Robert Jacobs und ‘Ted’ Weston Jr. - 2007 - Enterprise resource planning (ERP)—A brief history.pdf:application/pdf;Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\GTHZUEFR\\j.jom.2006.11.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1016/j.jom.2006.11.005
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1016/j.jom.2006.11.005
+      \endverb
+      \keyw{{ERP},Data integration,Functional enterprise,Industry}
+    \endentry
+    \entry{chen_planning_2001}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=237be0216d49771d32eaf1f82c8afb0f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Injazz\bibnamedelima J.},
+           giveni={I\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{fullhash}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{fullhashraw}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{bibnamehash}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{authorbibnamehash}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{authornamehash}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{authorfullhash}{237be0216d49771d32eaf1f82c8afb0f}
+      \strng{authorfullhashraw}{237be0216d49771d32eaf1f82c8afb0f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The successful implementation of various enterprise resource planning ({ERP}) systems has provoked considerable interest over the last few years. Management has recently been enticed to look toward these new information technologies and philosophies of manufacturing for the key to survival or competitive edges. Although there is no shortage of glowing reports on the success of {ERP} installations, many companies have tossed millions of dollars in this direction with little to show for it. Since many of the {ERP} failures today can be attributed to inadequate planning prior to installation, we choose to analyze several critical planning issues including needs assessment and choosing a right {ERP} system, matching business process with the {ERP} system, understanding the organizational requirements, and economic and strategic justification. In addition, this study also identifies new windows of opportunity as well as challenges facing companies today as enterprise systems continue to evolve and expand.}
+      \field{day}{1}
+      \field{issn}{1463-7154}
+      \field{journaltitle}{Business Process Management Journal}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{5}
+      \field{shorttitle}{Planning for {ERP} systems}
+      \field{title}{Planning for {ERP} systems: analysis and future trend}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{7}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{374\bibrangedash 386}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1108/14637150110406768
+      \endverb
+      \verb{file}
+      \verb Chen - 2001 - Planning for ERP systems analysis and future tren.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\4KYCPBMB\\Chen - 2001 - Planning for ERP systems analysis and future tren.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.emerald.com/bpmj/article/7/5/374-386/258134
+      \endverb
+      \verb{url}
+      \verb http://www.emerald.com/bpmj/article/7/5/374-386/258134
+      \endverb
+    \endentry
+    \entry{kurbel_enterprise_2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=1d6c135dd99078762e4b38a33baa8397}{%
+           family={Kurbel},
+           familyi={K\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter {GmbH} \& Co {KG}}%
+      }
+      \strng{namehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{fullhash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{fullhashraw}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{bibnamehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authorbibnamehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authornamehash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authorfullhash}{1d6c135dd99078762e4b38a33baa8397}
+      \strng{authorfullhashraw}{1d6c135dd99078762e4b38a33baa8397}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Enterprise Resource Planning ({ERP}) und Supply Chain Management ({SCM}) gehören zu den Kernaufgaben eines Industrieunternehmens. Sie haben sich evolutionär aus der Produktionsplanung und -steuerung ({PPS}) herausentwickelt. Ein Großteil der betriebswirtschaftlichen, administrativen und teilweise auch technischen Aufgaben eines Industrieunternehmens wird heute durch {ERP}- und {SCM}-Systeme unterstützt. Das Buch erklärt die konzeptionellen Grundlagen der Systeme, zeigt auf, wie typische Geschäftsprozesse mit Hilfe praktischer Systeme (z.B. {SAP} {ERP}) durchgeführt werden, und behandelt aktuelle Entwicklungen wie Industrie 4.0. Fertigungsnahe und technische Anwendungssysteme werden mit ihren Schnitt stellen um {ERP} und {SCM} herum platziert. Die praktische Umsetzung theoretischer Konzepte illustrieren zahlreiche Anwendungsbeispiele.}
+      \field{day}{24}
+      \field{isbn}{978-3-11-044169-7}
+      \field{langid}{german}
+      \field{month}{5}
+      \field{note}{Google-Books-{ID}: {VSlBDAAAQBAJ}}
+      \field{pagetotal}{616}
+      \field{shorttitle}{Enterprise Resource Planning und Supply Chain Management in der Industrie}
+      \field{title}{Enterprise Resource Planning und Supply Chain Management in der Industrie: Von {MRP} bis Industrie 4.0}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \keyw{Business \& Economics / Information Management,Computers / Computer Science,Computers / Desktop Applications / General,Law / General,Social Science / Media Studies}
+    \endentry
+    \entry{sarferaz_erp-software_2023}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=73792d2b055a233154c8517a97bba61b}{%
+           family={Sarferaz},
+           familyi={S\bibinitperiod},
+           given={Siar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Vieweg. in Springer Fachmedien Wiesbaden {GmbH}}%
+      }
+      \strng{namehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \strng{bibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorbibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authornamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorfullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorfullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Intro -- Vorwort -- Haftungsausschluss -- Inhaltsverzeichnis -- Über den Autor -- Teil I Marktsicht -- 1 Herausforderungen und Merkmale von {ERP}-Systemen -- 1.1 Einführung -- 1.2 {ERP} Evolution -- 1.3 Merkmale moderner {ERP}-Systeme -- 1.4 Mehrwert für Unternehmen -- 1.5 Fazit -- 2 {ERP}-Marktanalyse -- 2.1 Einführung -- 2.2 Marktvolumen -- 2.3 Wettbewerber -- 2.4 Marktprognose -- 2.5 Fazit -- 3 Zukünftige {ERP}-Trends -- 3.1 Einführung -- 3.2 Datenfabrik -- 3.3 Autonomes {ERP} -- 3.4 Kompossibles {ERP} -- 3.5 Industrie 4.0 -- 3.6 Two-Tier {ERP} -- 3.7 Fazit -- Teil {II} Funktionale Sicht -- 4 Fachabteilungen und Unternehmensdomänen -- 4.1 Betriebswirtschaftliche Anforderung -- Wertschöpfungskette und Domänen -- Fachabteilungen und Prozesse -- Organisationsformen -- Organisationsstruktur -- Funktionale Organisation -- Spartenorganisation -- Matrixorganisation -- Prozessorganisation -- 4.2 Technische Umsetzung -- Objekte im {SAP} S/4HANA Organisationsmanagement -- Beziehungen im {SAP} S/4HANA Organisationsmanagement -- Aufbauorganisation im {SAP} S/4HANA Organisationsmanagement -- 4.3 Fazit -- 5 Stammdaten des Geschäftspartners -- 5.1 Betriebswirtschaftliche Anforderung -- 5.2 Technische Umsetzung -- Datenmodell -- Fiori-Anwendungen -- Datenschutz -- 5.3 Erweiterbarkeit und Integration -- 5.4 Fazit -- 6 Stammdaten des Produkts -- 6.1 Betriebswirtschaftliche Anforderung -- 6.2 Technische Umsetzung -- Finanzwesen -- Vertrieb -- Einkauf -- Produkthierarchie -- Datenmigration -- Produktstammdaten zwischen mehreren Systemen replizieren -- Produktstamm pflegen -- Erweiterbarkeit des Produktstamms -- Self-Service-Konfiguration -- 6.3 {SAP} Master Data Governance -- 6.4 Fazit -- 7 Stammdaten der Stückliste -- 7.1 Betriebswirtschaftliche Anforderung -- 7.2 Technische Umsetzung -- Strukturtypen von Stücklisten -- Arten von Stücklisten -- Klassensystem -- Variantenkonfiguration}
+      \field{edition}{1st ed}
+      \field{isbn}{978-3-658-40499-4}
+      \field{pagetotal}{1}
+      \field{shorttitle}{{ERP}-Software}
+      \field{title}{{ERP}-Software: Basierend Auf {SAP} S/4HANA}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Sarferaz - 2023 - ERP-Software Basierend Auf SAP S4HANA.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\UB3UUDGS\\Sarferaz - 2023 - ERP-Software Basierend Auf SAP S4HANA.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{abich_kunstliche_2022}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=c67b96923d5322d5ff34314796c474e4}{%
+           family={Abich},
+           familyi={A\bibinitperiod},
+           given={Viktor},
+           giveni={V\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b5187a454c46ded09431c96f37e3ad66}{%
+           family={Aichele},
+           familyi={A\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d5c62d8b0d9b7885ab4b2b119196e5e4}{%
+           family={Herrmann},
+           familyi={H\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{c67b96923d5322d5ff34314796c474e4}
+      \strng{fullhash}{c67b96923d5322d5ff34314796c474e4}
+      \strng{fullhashraw}{c67b96923d5322d5ff34314796c474e4}
+      \strng{bibnamehash}{c67b96923d5322d5ff34314796c474e4}
+      \strng{authorbibnamehash}{c67b96923d5322d5ff34314796c474e4}
+      \strng{authornamehash}{c67b96923d5322d5ff34314796c474e4}
+      \strng{authorfullhash}{c67b96923d5322d5ff34314796c474e4}
+      \strng{authorfullhashraw}{c67b96923d5322d5ff34314796c474e4}
+      \strng{editorbibnamehash}{29cf3bdb554338abdfd6803bb9509619}
+      \strng{editornamehash}{29cf3bdb554338abdfd6803bb9509619}
+      \strng{editorfullhash}{29cf3bdb554338abdfd6803bb9509619}
+      \strng{editorfullhashraw}{29cf3bdb554338abdfd6803bb9509619}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Jede Unternehmung besitzt softwaregestützte Werkzeuge zur Abbildung analoger und digitaler Prozesse. Dabei helfen diese Prozesse gezielt die Komplexität aus den einzelnen Sachverhalten zu vereinfachen und in einem entsprechenden Format wiederzugeben. Ein digitales Abbild eines Unternehmens entsteht. Allerdings kann dieses Format nur nach festgelegten Schemata die unterschiedlichen Datensätze klassifizieren, verifizieren und ausgeben und ist für weiterführende Ausprägungen technisch restriktiv zu behandeln. Um dieses Problem zukünftig zu überwinden wird der Ansatz {derKI} (Künstliche Intelligenz) als mögliches Werkzeug für Optimierungen angesehen. Mithilfe der {KI} kann die aktuelle Flut an Daten bestmöglich umgesetzt und zur Nutzung freigegeben werden. Diese Ausarbeitung stellt den Nutzen Anhand des führenden {ERP} Anbieters {SAP} vor und zeigt geeignete Beispiele mit Hinblick auf die konkrete Nutzung und Ausprägung im Echtbetrieb. Dabei sollen nicht nur die Potenziale dieser Technologie aufgezeigt werden, vielmehr sollen konkrete Vorbereitungsmaßnahmen und Indikatoren zur Veranschaulichung der aktuellen Möglichkeiten dienen. Diese Ausarbeitung wird unter den Gesichtspunkten der betriebswirtschaftlichen Kennzahlen ausgegeben und es wird nur vereinzelt auf technische Spezifikationen eingegangen.}
+      \field{booktitle}{Betriebswirtschaftliche {KI}-Anwendungen: Digitale Geschäftsmodelle auf Basis Künstlicher Intelligenz}
+      \field{isbn}{978-3-658-40099-6}
+      \field{langid}{german}
+      \field{title}{Künstliche Intelligenz im {ERP} Umfeld}
+      \field{urlday}{16}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{195\bibrangedash 222}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1007/978-3-658-40099-6_7
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\4WTXTQPW\\Abich - 2022 - Künstliche Intelligenz im ERP Umfeld.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-40099-6_7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-40099-6_7
+      \endverb
     \endentry
     \entry{mohta_implementing_2017}{book}{}{}
       \name{author}{3}{}{%
@@ -138,8 +724,8 @@
       \strng{authornamehash}{f1de73c422febcefd7d6d68a08d72729}
       \strng{authorfullhash}{f1de73c422febcefd7d6d68a08d72729}
       \strng{authorfullhashraw}{f1de73c422febcefd7d6d68a08d72729}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Harness the power of Dynamics 365 Operations and discover all you need to implement {itAbout} This {BookMaster} all the necessary tools and resources to evaluate Dynamics 365 for Operations, implement it, and proactively maintain it.Troubleshoot your problems effectively with your Dynamics 365 {partnerLearn} about architecture, deployment choices, integration, configuration and data migration, development, testing, reporting and {BI}, support, upgrading, and more.Who This Book Is {ForThis} book is for technology leaders, project managers solution architects, and consultants who are planning to implement, are in the process of implementing, or are currently upgrading to Dynamics 365 for Operations. This book will help you effectively learn and implement Dynamics 365 for Operations.What You Will {LearnLearn} about Microsoft Dynamics 365, it\&\#39;s offerings, plans and details of Finance and Operations, Enterprise {editionUnderstand} the methodology and the tool, architecture, and deployment {optionsEffectively} plan and manage configurations and data migration, functional design, and technical {designUnderstand} integration frameworks, development concepts, best practices, and recommendations while developing new {solutionsLearn} how to leverage intelligence and analytics through Power {BI}, machine learning, {IOT}, and Cortana {intelligenceMaster} testing, training, going live, upgrading, and how to get support during and after the {implementationIn} {DetailMicrosoft} Dynamics 365 for Finance and Operations, Enterprise edition, is a modern, cloud-first, mobile-first, {ERP} solution suitable for medium and large enterprise customers.This book will guide you through the entire life cycle of a implementation, helping you avoid common pitfalls while increasing your efficiency and effectiveness at every stage of the project.Starting with the foundations, the book introduces the Microsoft Dynamics 365 offerings, plans, and products. You will be taken through the various methodologies, architectures, and deployments so you can select, implement, and maintain Microsoft Dynamics 365 for Finance and Operations, Enterprise edition. You will delve in-depth into the various phases of implementation: project management, analysis, configuration, data migration, design, development, using Power {BI}, machine learning, Cortana analytics for intelligence, testing, training, and finally deployment, support cycles, and upgrading. This book focuses on providing you with information about the product and the various concepts and tools, along with real-life examples from the field and guidance that will empower you to execute and implement Dynamics 365 for Finance and Operations, Enterprise edition.Style and {approachThis} book is a step-by-step guide focusing on implementing Dynamics 365 Operations solutions for your organization.}
@@ -168,8 +754,8 @@
       \strng{authornamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
       \strng{authorfullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
       \strng{authorfullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eine Übersicht über Berichts- und Analyseoptionen, die in Dataverse- und Dynamics 365-Apps verfügbar sind.}
@@ -180,7 +766,7 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\ZSHUF7I6\\data-get-insights-overview.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZSHUF7I6\\data-get-insights-overview.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://learn.microsoft.com/de-de/power-apps/maker/data-platform/data-get-insights-overview
@@ -204,8 +790,8 @@
       \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
       \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
       \field{extraname}{1}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
@@ -216,7 +802,7 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\3KAZJTB7\\enable-copilot.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\XBRR6GRP\\enable-copilot.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
@@ -239,8 +825,8 @@
       \strng{authornamehash}{20bd5f789b03315d75a41c392115a8bf}
       \strng{authorfullhash}{20bd5f789b03315d75a41c392115a8bf}
       \strng{authorfullhashraw}{20bd5f789b03315d75a41c392115a8bf}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn about dual-write, which provides near-real-time interaction between customer engagement apps and finance and operations apps.}
@@ -251,7 +837,7 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\ZKF7JUHD\\dual-write-overview.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZKF7JUHD\\dual-write-overview.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview
@@ -274,8 +860,8 @@
       \strng{authornamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
       \strng{authorfullhash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
       \strng{authorfullhashraw}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn about how to enable finance and operations apps virtual entities in Microsoft Dataverse, including an overview on how to generate virtual entities.}
@@ -286,7 +872,7 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\MWPXX3SU\\enable-virtual-entities.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\MWPXX3SU\\enable-virtual-entities.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities
@@ -310,8 +896,8 @@
       \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
       \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
@@ -322,7 +908,7 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\XBRR6GRP\\enable-copilot.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\3KAZJTB7\\enable-copilot.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
@@ -345,8 +931,8 @@
       \strng{authornamehash}{42192fe26e7f6ee462d65b157127d12d}
       \strng{authorfullhash}{42192fe26e7f6ee462d65b157127d12d}
       \strng{authorfullhashraw}{42192fe26e7f6ee462d65b157127d12d}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Build intelligent {AI} agents effortlessly with Microsoft Copilot Studio. Create, customize, and deploy agents across platforms using a low-code interface.}
@@ -357,7 +943,7 @@
       \field{urlyear}{2025}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\TRGGTMTF\\fundamentals-what-is-copilot-studio.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\TRGGTMTF\\fundamentals-what-is-copilot-studio.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio
@@ -397,8 +983,8 @@
       \strng{authornamehash}{c70aaea2568720f5f3d6d013ac42fe63}
       \strng{authorfullhash}{bb8209e2888b6f5e921daaf056d0f340}
       \strng{authorfullhashraw}{bb8209e2888b6f5e921daaf056d0f340}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The 1956 Dartmouth summer research project on artificial intelligence was initiated by this August 31, 1955 proposal, authored by John {McCarthy}, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. The original typescript consisted of 17 pages plus a title page. Copies of the typescript are housed in the archives at Dartmouth College and Stanford University. The first 5 papers state the proposal, and the remaining pages give qualifications and interests of the four who proposed the study. In the interest of brevity, this article reproduces only the proposal itself, along with the short autobiographical statements of the proposers.}
@@ -422,7 +1008,7 @@
       \verb 10.1609/aimag.v27i4.1904
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\RT57ALDM\\McCarthy et al. - 2006 - A Proposal for the Dartmouth Summer Research Proje.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\RT57ALDM\\McCarthy et al. - 2006 - A Proposal for the Dartmouth Summer Research Proje.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1904
@@ -447,8 +1033,8 @@
       \strng{authornamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhashraw}{627c3779677d0eaf3312e5b67e8cbe0c}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article for the layman answers basic questions about artiﬁcial intelligence. The opinions expressed here are not all consensus opinion among researchers in {AI}.}
@@ -459,7 +1045,7 @@
       \field{year}{2007}
       \field{dateera}{ce}
       \verb{file}
-      \verb McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:C\:\\Users\\damie\\Zotero\\storage\\IK5KAZ5E\\McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:application/pdf
+      \verb McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\IK5KAZ5E\\McCarthy - WHAT IS ARTIFICIAL INTELLIGENCE.pdf:application/pdf
       \endverb
     \endentry
     \entry{goudz_grundlagen_2024}{incollection}{}{}
@@ -505,8 +1091,8 @@
       \strng{editornamehash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhashraw}{4ee8179c19742bb6e2e91eb2b28bce4b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Bis vor kurzem galt die Künstliche Intelligenz ({KI}) noch als eher ein abstraktes Konzept. Die Fortschritte vollzogen sich in atemberaubender Geschwindigkeit. Wir beginnen das aktuelle Kapitel mit der Definition und Einordnung des Begriffes „{KI}“. Der Abschnitt definiert weiterhin die relevanten Begriffe wie „starke {KI}“ oder „schwache {KI}“ und geht auf die drei Leistungsbestandteile (Neuronale Netze, Maschinelles Lernen, Deep Learning) ein. Darüber hinaus behandelt dieses Kapitel die wesentlichen Treiber der Künstlichen Intelligenz wie Big Data und das Internet der Dinge, die im Folgenden näher erläutert werden.}
@@ -526,7 +1112,7 @@
       \verb 10.1007/978-3-658-44855-4_2
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\MCRFNRIN\\Goudz und Erdogan - 2024 - Grundlagen der KI.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\MCRFNRIN\\Goudz und Erdogan - 2024 - Grundlagen der KI.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/978-3-658-44855-4_2
@@ -534,11 +1120,11 @@
       \verb{url}
       \verb https://doi.org/10.1007/978-3-658-44855-4_2
       \endverb
-      \keyw{Internet of Things,Big Data,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
+      \keyw{Big Data,Internet of Things,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
     \endentry
     \entry{noauthor_was_2020}{online}{}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz ({KI}) gilt als „zukunftsweisende Technologie“. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
       \field{day}{14}
@@ -553,7 +1139,7 @@
       \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
-      \verb Snapshot:C\:\\Users\\damie\\Zotero\\storage\\ZZ4CC4LX\\was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt.html:text/html
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZZ4CC4LX\\was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt.html:text/html
       \endverb
       \verb{urlraw}
       \verb https://www.europarl.europa.eu/topics/de/article/20200827STO85804/was-ist-kunstliche-intelligenz-und-wie-wird-sie-genutzt
@@ -605,8 +1191,8 @@
       \strng{editoranamehash}{754b502b2e716efb687a1f1b9e6d0345}
       \strng{editorafullhash}{754b502b2e716efb687a1f1b9e6d0345}
       \strng{editorafullhashraw}{754b502b2e716efb687a1f1b9e6d0345}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{Third edition, Global edition}
@@ -620,7 +1206,7 @@
       \field{year}{2016}
       \field{dateera}{ce}
       \verb{file}
-      \verb Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:C\:\\Users\\damie\\Zotero\\storage\\ZMD7SFRM\\Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:application/pdf
+      \verb Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZMD7SFRM\\Russell und Norvig - 2016 - Artificial intelligence a modern approach.pdf:application/pdf
       \endverb
     \endentry
     \entry{mitchell_machine_1997}{book}{}{}
@@ -645,8 +1231,8 @@
       \strng{authornamehash}{d331eeb7f00e650950ccadcb9c47efec}
       \strng{authorfullhash}{d331eeb7f00e650950ccadcb9c47efec}
       \strng{authorfullhashraw}{d331eeb7f00e650950ccadcb9c47efec}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Nachdr.}
@@ -658,7 +1244,7 @@
       \field{year}{1997}
       \field{dateera}{ce}
       \verb{file}
-      \verb Mitchell - 2013 - Machine learning.pdf:C\:\\Users\\damie\\Zotero\\storage\\A6K5KWTJ\\Mitchell - 2013 - Machine learning.pdf:application/pdf
+      \verb Mitchell - 2013 - Machine learning.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\A6K5KWTJ\\Mitchell - 2013 - Machine learning.pdf:application/pdf
       \endverb
     \endentry
     \entry{kreutzer_kunstliche_2023}{book}{}{}
@@ -683,8 +1269,8 @@
       \strng{authornamehash}{afd5fe6db85c66ec3bead52ae718514e}
       \strng{authorfullhash}{afd5fe6db85c66ec3bead52ae718514e}
       \strng{authorfullhashraw}{afd5fe6db85c66ec3bead52ae718514e}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{2nd ed}
@@ -695,8 +1281,438 @@
       \field{year}{2023}
       \field{dateera}{ce}
       \verb{file}
-      \verb Kreutzer - 2023 - Künstliche Intelligenz Verstehen Grundlagen - Use.pdf:C\:\\Users\\damie\\Zotero\\storage\\Q5TEE49C\\Kreutzer - 2023 - Künstliche Intelligenz Verstehen Grundlagen - Use.pdf:application/pdf
+      \verb Kreutzer - 2023 - Künstliche Intelligenz Verstehen Grundlagen - Use.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\Q5TEE49C\\Kreutzer - 2023 - Künstliche Intelligenz Verstehen Grundlagen - Use.pdf:application/pdf
       \endverb
+    \endentry
+    \entry{haykin_neural_1999}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=91e57481898b943d6a72a1deba06a6a9}{%
+           family={Haykin},
+           familyi={H\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Delhi}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education}%
+      }
+      \strng{namehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{fullhash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{fullhashraw}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{bibnamehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authorbibnamehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authornamehash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authorfullhash}{91e57481898b943d6a72a1deba06a6a9}
+      \strng{authorfullhashraw}{91e57481898b943d6a72a1deba06a6a9}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{edition}{2nd ed}
+      \field{isbn}{978-81-7808-300-1}
+      \field{note}{{OCLC}: 643435359}
+      \field{shorttitle}{Neural networks}
+      \field{title}{Neural networks: a comprehensive foundation}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\UVKXXBE8\\Haykin - 1999 - Neural networks a comprehensive foundation.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{asadollahfardi_artificial_2015}{incollection}{}{}
+      \name{author}{1}{}{%
+        {{hash=d31e8b348bb58445891da3c33defa0ea}{%
+           family={Asadollahfardi},
+           familyi={A\bibinitperiod},
+           given={Gholamreza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d31e8b348bb58445891da3c33defa0ea}{%
+           family={Asadollahfardi},
+           familyi={A\bibinitperiod},
+           given={Gholamreza},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{fullhash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{fullhashraw}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{bibnamehash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{authorbibnamehash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{authornamehash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{authorfullhash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{authorfullhashraw}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{editorbibnamehash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{editornamehash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{editorfullhash}{d31e8b348bb58445891da3c33defa0ea}
+      \strng{editorfullhashraw}{d31e8b348bb58445891da3c33defa0ea}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Often in water quality management, understanding the relationship between input and output data might be a complicated process. In this situation Data Driven Models using information and collected data (input data) find out the relationship between inputs and outputs. In this regard, Artificial Neural Network ({ANN}) is one of the Data Driven Models which has recently been applied as a tool for modeling complicated processes. In this chapter, after reviewing the developing process of {ANN} in water quality management, the theory of the {ANN} is mentioned in detail for both static and dynamic methods. Data preparation, learning rate and model efficiency including selection of number of neurons in hiding layer which has a minimum error in learning rate and network efficiency is described in detail. At the end step, as a case study water quality of Zaribar Lake located in the Northwestern part of Iran, using Multilayer Perceptron ({MLP}) neural network method are described.}
+      \field{booktitle}{Water Quality Management: Assessment and Interpretation}
+      \field{isbn}{978-3-662-44725-3}
+      \field{langid}{english}
+      \field{title}{Artificial Neural Network}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{77\bibrangedash 91}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/978-3-662-44725-3_5
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\RYA376GK\\Asadollahfardi - 2015 - Artificial Neural Network.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-662-44725-3_5
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-662-44725-3_5
+      \endverb
+      \keyw{Artificial Neural Network,Artificial Neural Network Model,Back Propagation,Hide Layer,Water Quality Management}
+    \endentry
+    \entry{ruhlig_deep_2014}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=3cd892d672c7d965507b2e56ffeed176}{%
+           family={Ruhlig},
+           familyi={R\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{fullhash}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{fullhashraw}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{bibnamehash}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{authorbibnamehash}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{authornamehash}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{authorfullhash}{3cd892d672c7d965507b2e56ffeed176}
+      \strng{authorfullhashraw}{3cd892d672c7d965507b2e56ffeed176}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Deep Learning ist ein relativ neuer Ansatz im Bereich des maschinellen Lernens, einem Teilgebiet der künstlichen Intelligenz. Das Fachgebiet des maschinellen Lernens beschäftigt sich allgemein mit Verfahren, mit deren Hilfe Computer selbständig bestimmte Sachverhalte lernen können, z.B. ob auf einem Bild ein bestimmtes Gesicht abgebildet ist. Deep Learning zeichnet sich dadurch aus, dass der Lernprozess hier in Form von mehreren Ebenen hierarchisch organisiert ist. Höhere Ebenen beinhalten dabei zunehmend abstraktere und komplexere Konzepte, die auf den jeweiligen Konzepten der niedrigeren Ebenen basieren.}
+      \field{journaltitle}{Europäische Sicherheit \& Technik : {ES} \& T}
+      \field{langid}{german}
+      \field{title}{Deep Learning}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.24406/publica-fhg-237455
+      \endverb
+      \verb{urlraw}
+      \verb https://publica.fraunhofer.de/handle/publica/237455
+      \endverb
+      \verb{url}
+      \verb https://publica.fraunhofer.de/handle/publica/237455
+      \endverb
+    \endentry
+    \entry{goodfellow_deep_2016}{book}{}{}
+      \name{author}{3}{}{%
+        {{hash=5d2585c11210cf1d4512e6e0a03ec315}{%
+           family={Goodfellow},
+           familyi={G\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=40a8e4774982146adc2688546f54efb2}{%
+           family={Bengio},
+           familyi={B\bibinitperiod},
+           given={Yoshua},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=ccec1ccd2e1aa86960eb2e872c6b7020}{%
+           family={Courville},
+           familyi={C\bibinitperiod},
+           given={Aaron},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, Mass}%
+      }
+      \list{publisher}{1}{%
+        {The {MIT} press}%
+      }
+      \strng{namehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{fullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{fullhashraw}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{bibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorbibnamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authornamehash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
+      \strng{authorfullhashraw}{3ae53fe582e8a815b118d26947eaa326}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-262-03561-3}
+      \field{series}{Adaptive computation and machine learning}
+      \field{title}{Deep learning}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Goodfellow et al. - 2016 - Deep learning.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\IFXDHIN9\\Goodfellow et al. - 2016 - Deep learning.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{vaswani_attention_2017}{inproceedings}{}{}
+      \name{author}{8}{}{%
+        {{hash=7f28e84700536646dd6620a0db07ad09}{%
+           family={Vaswani},
+           familyi={V\bibinitperiod},
+           given={Ashish},
+           giveni={A\bibinitperiod}}}%
+        {{hash=62efade83d70f0323fe248755e6c90c5}{%
+           family={Shazeer},
+           familyi={S\bibinitperiod},
+           given={Noam},
+           giveni={N\bibinitperiod}}}%
+        {{hash=06649ebab1ea5cac0250746a19764975}{%
+           family={Parmar},
+           familyi={P\bibinitperiod},
+           given={Niki},
+           giveni={N\bibinitperiod}}}%
+        {{hash=831027ee0ebf22375e2a86afc1881909}{%
+           family={Uszkoreit},
+           familyi={U\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2fd2982e30ebcec93ec1cf76e0d797fd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Llion},
+           giveni={L\bibinitperiod}}}%
+        {{hash=27b07e4eacbf4ef7a1438e3badb7dd8d}{%
+           family={Gomez},
+           familyi={G\bibinitperiod},
+           given={Aidan\bibnamedelima N},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=540fcd72e1fa4bbed46604f4e6cff817}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Ł\bibnamedelima ukasz},
+           giveni={Ł\bibinitperiod\bibinitdelim u\bibinitperiod}}}%
+        {{hash=95595a0fefb86187cbc36e551017d332}{%
+           family={Polosukhin},
+           familyi={P\bibinitperiod},
+           given={Illia},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{fullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{fullhashraw}{cb26e47f6b8133865271fc8483132297}
+      \strng{bibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authorbibnamehash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
+      \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
+      \strng{authorfullhashraw}{cb26e47f6b8133865271fc8483132297}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Neural Information Processing Systems}
+      \field{title}{Attention is All you Need}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{30}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\IIVHVHVX\\Vaswani et al. - 2017 - Attention is All you Need.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+      \endverb
+      \verb{url}
+      \verb https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html
+      \endverb
+    \endentry
+    \entry{zhao_survey_2023}{book}{}{}
+      \name{author}{20}{}{%
+        {{hash=fb0e581824be79d06854f5dc77e5cc24}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Wayne},
+           giveni={W\bibinitperiod}}}%
+        {{hash=09d5d500b34786c94a128e6f131300c6}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Kun},
+           giveni={K\bibinitperiod}}}%
+        {{hash=61e8fdcb88a206129a7f4343493854ef}{%
+           family={Junyi},
+           familyi={J\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f254095e21b042f20f291c9519db0024}{%
+           family={Tianyi},
+           familyi={T\bibinitperiod},
+           given={Tang},
+           giveni={T\bibinitperiod}}}%
+        {{hash=66a2746de95223ec2e9e78a901ee1cf8}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaolei},
+           giveni={X\bibinitperiod}}}%
+        {{hash=678f15f5b4dbc1aaed429148209c1670}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Yupeng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=8562df4cc1bfda084b6452e14b97695f}{%
+           family={Min},
+           familyi={M\bibinitperiod},
+           given={Yingqian},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=66e96b863923db3bc1db16a09cac3390}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Beichen},
+           giveni={B\bibinitperiod}}}%
+        {{hash=c8c6aaec4b7602bed8057718ff85cf50}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3e9c75837177b3f19580db0d34a05273}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Zican},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=8b52fd6470026437f20bf1d0e1302c61}{%
+           family={Du},
+           familyi={D\bibinitperiod},
+           given={Yifan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7c12c6bb81a430b19d464d25687cbb9c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Chen},
+           giveni={C\bibinitperiod}}}%
+        {{hash=e6a4c63d4fa7aa7e88a4945488e9e901}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yushuo},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d7c54e1ab3bee583739e4680a3468f41}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Zhipeng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=cc99c740260c641786a83c5c0f63f879}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Jinhao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e264ac8fc96cdfd270409514441211ba}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Ruiyang},
+           giveni={R\bibinitperiod}}}%
+        {{hash=de4f40f58ec11067811bb3cfff116450}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Yifan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b26374d4fa3f66d7e5b787db7f8b46fc}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Xinyu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=eb761f0ec974830dfebae92d776d3bbe}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zikang},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=5ff29ba5ea8e6fdd73a84f998eec45f2}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Ji-Rong},
+           giveni={J\bibinithyphendelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{225da8f00d8ecab8ccc3ef50defd1069}
+      \strng{fullhash}{7511cea034999abf7d76ad64aed48690}
+      \strng{fullhashraw}{7511cea034999abf7d76ad64aed48690}
+      \strng{bibnamehash}{7511cea034999abf7d76ad64aed48690}
+      \strng{authorbibnamehash}{7511cea034999abf7d76ad64aed48690}
+      \strng{authornamehash}{225da8f00d8ecab8ccc3ef50defd1069}
+      \strng{authorfullhash}{7511cea034999abf7d76ad64aed48690}
+      \strng{authorfullhashraw}{7511cea034999abf7d76ad64aed48690}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Language is essentially a complex, intricate system of human expressions governed by grammatical rules. It poses a significant challenge to develop capable {AI} algorithms for comprehending and grasping a language. As a major approach, language modeling has been widely studied for language understanding and generation in the past two decades, evolving from statistical language models to neural language models. Recently, pre-trained language models ({PLMs}) have been proposed by pre-training Transformer models over large-scale corpora, showing strong capabilities in solving various {NLP} tasks. Since researchers have found that model scaling can lead to performance improvement, they further study the scaling effect by increasing the model size to an even larger size. Interestingly, when the parameter scale exceeds a certain level, these enlarged language models not only achieve a significant performance improvement but also show some special abilities that are not present in small-scale language models. To discriminate the difference in parameter scale, the research community has coined the term large language models ({LLM}) for the {PLMs} of significant size. Recently, the research on {LLMs} has been largely advanced by both academia and industry, and a remarkable progress is the launch of {ChatGPT}, which has attracted widespread attention from society. The technical evolution of {LLMs} has been making an important impact on the entire {AI} community, which would revolutionize the way how we develop and use {AI} algorithms. In this survey, we review the recent advances of {LLMs} by introducing the background, key findings, and mainstream techniques. In particular, we focus on four major aspects of {LLMs}, namely pre-training, adaptation tuning, utilization, and capacity evaluation. Besides, we also summarize the available resources for developing {LLMs} and discuss the remaining issues for future directions.}
+      \field{day}{31}
+      \field{month}{3}
+      \field{title}{A Survey of Large Language Models}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.48550/arXiv.2303.18223
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\Z2FWND2Z\\Zhao et al. - 2023 - A Survey of Large Language Models.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{ozdemir_praxiseinstieg_2024}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=67a0eb46c9269a1b1e9dabb3f03c378d}{%
+           family={Ozdemir},
+           familyi={O\bibinitperiod},
+           given={Sinan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly}%
+      }
+      \strng{namehash}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{fullhash}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{fullhashraw}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{bibnamehash}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{authorbibnamehash}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{authornamehash}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{authorfullhash}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \strng{authorfullhashraw}{67a0eb46c9269a1b1e9dabb3f03c378d}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Der Schnellstart in die praktische Arbeit mit {LLMs} Das Buch bietet einen Überblick über zentrale Konzepte und Techniken von {LLMs} wie z.B. {ChatGPT} und zeigt das Potenzial von Open-Source- und Closed-Source-Modellen Es erläutert, wie Large Language Models funktionieren und wie sie für Aufgaben des Natural Language Processing ({NLP}) genutzt werden Auch für interessierte Nicht-Data-Scientists mit Python-Kenntnissen verständlich Themen z.B.: die {ChatGPT}-{API}, Prompt-Engineering, Chatbot-Personas, Cloud-Bereitstellung; deckt auch {GPT}-4 ab Large Language Models ({LLMs}) wie {ChatGPT} sind enorm leistungsfähig, aber auch sehr komplex. Praktikerinnen und Praktiker stehen daher vor vielfältigen Herausforderungen, wenn sie {LLMs} in ihre eigenen Anwendungen integrieren wollen. In dieser Einführung räumt Data Scientist und {KI}-Unternehmer Sinan Ozdemir diese Hürden aus dem Weg und bietet einen Leitfaden für den Einsatz von {LLMs} zur Lösung praktischer Probleme des Natural Language Processings. Sinan Ozdemir hat alles zusammengestellt, was Sie für den Einstieg benötigen: Schritt-für-Schritt-Anleitungen, Best Practices, Fallstudien aus der Praxis, Übungen und vieles mehr. Er stellt die Funktionsweise von {LLMs} vor und unterstützt Sie so dabei, das für Ihre Anwendung passende Modell und geeignete Datenformate und Parameter auszuwählen. Dabei zeigt er das Potenzial sowohl von Closed-Source- als auch von Open-Source-{LLMs} wie {GPT}-3, {GPT}-4 und {ChatGPT}, {BERT} und T5, {GPT}-J und {GPT}-Neo, Cohere sowie {BART}. Lernen Sie die Schlüsselkonzepte kennen: Transfer Learning, Feintuning, Attention, Embeddings, Tokenisierung und mehr Nutzen Sie {APIs} und Python, um {LLMs} an Ihre Anforderungen anzupassen Beherrschen Sie Prompt-Engineering-Techniken wie Ausgabe-Strukturierung, Gedankenketten und Few-Shot-Prompting Passen Sie {LLM}-Embeddings an, um eine Empfehlungsengine mit eigenen Benutzerdaten neu zu erstellen Konstruieren Sie multimodale Transformer-Architekturen mithilfe von Open-Source-{LLMs} Optimieren Sie {LLMs} mit Reinforcement Learning from Human and {AI} Feedback ({RLHF}/{RLAIF}) Deployen Sie Prompts und benutzerdefinierte, feingetunte {LLMs} in die Cloud}
+      \field{day}{14}
+      \field{isbn}{978-3-96010-853-5}
+      \field{langid}{german}
+      \field{month}{5}
+      \field{note}{Google-Books-{ID}: \_FMCEQAAQBAJ}
+      \field{pagetotal}{274}
+      \field{shorttitle}{Praxiseinstieg Large Language Models}
+      \field{title}{Praxiseinstieg Large Language Models: Strategien und Best Practices für den Einsatz von {ChatGPT} und anderen {LLMs}}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Ozdemir - 2024 - Praxiseinstieg Large Language Models Strategien u.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\7KHASDFN\\Ozdemir - 2024 - Praxiseinstieg Large Language Models Strategien u.pdf:application/pdf
+      \endverb
+      \keyw{Computers / Artificial Intelligence / Natural Language Processing}
     \endentry
     \entry{ertel_grundkurs_2024}{book}{}{}
       \name{author}{1}{}{%
@@ -720,8 +1736,8 @@
       \strng{authornamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
       \strng{authorfullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
       \strng{authorfullhashraw}{0ad7b7b50f220390cbf1c36575c6a49a}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{6. Auflage}
@@ -752,8 +1768,8 @@
       \strng{authornamehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
       \strng{authorfullhash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
       \strng{authorfullhashraw}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Agent software is a rapidly developing area of research. However, the overuse of the word “agent” has tended to mask the fact that, in reality, there is a truly heterogeneous body of research being carried out under this banner. This overview paper presents a typology of agents. Next, it places agents in context, defines them and then goes on, inter alia, to overview critically the rationales, hypotheses, goals, challenges and state-of-the-art demonstrators of the various agent types in our typology. Hence, it attempts to make explicit much of what is usually implicit in the agents literature. It also proceeds to overview some other general issues which pertain to all the types of agents in the typology. This paper largely reviews software agents, and it also contains some strong opinions that are not necessarily widely accepted by the agent community.}
@@ -836,8 +1852,8 @@
       \strng{editornamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In diesem Kapitel wird zunächst in das Konzept der {KI}-Agenten eingeführt. Es ist für Unternehmen wichtig, sich mit diesen Systemen auseinanderzusetzen, da sie zukünftig viele interne und externe Aufgaben und Prozesse vollkommen autonom ausführen können. Dazu werden unterschiedliche {KI}-Agenten-Konzepte vorgestellt und beschrieben, wie die Agenten untereinander und mit weiteren Systemen interagieren und Daten sowie Informationen austauschen. Anschließend wird beschrieben, warum das Prompt Engineering in diesem Kontext so wichtig ist. Abschließend werden unterschiedliche Anwendungsfälle für {KI}-Agenten im Unternehmen vorgestellt.}
@@ -857,7 +1873,7 @@
       \verb 10.1007/978-3-658-47699-1_7
       \endverb
       \verb{file}
-      \verb Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\86ELVR5P\\Koch et al. - 2025 - KI-Agenten.pdf:application/pdf
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\86ELVR5P\\Koch et al. - 2025 - KI-Agenten.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/978-3-658-47699-1_7
@@ -899,8 +1915,8 @@
       \strng{editornamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
       \strng{editorfullhash}{9efbe0c7d22c50bb628b4be07c9bdf73}
       \strng{editorfullhashraw}{9efbe0c7d22c50bb628b4be07c9bdf73}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{{KI}-Agenten, oder {KI}-Agenten, repräsentieren eine fortschrittliche Form der künstlichen Intelligenz, die über die Fähigkeiten herkömmlicher {KI}-Systeme hinausgeht. Im Kern sind {KI}-Agenten {IT}-Systeme, die autonom Aufgaben erledigen können, indem sie ihre Umgebung kennen, Entscheidungen treffen und darauf basierend handeln. Sie sind somit in der Lage, komplexe Aufgaben zu bewältigen, die normalerweise menschliche Intelligenz erfordern würden.}
@@ -920,7 +1936,7 @@
       \verb 10.1007/978-3-662-72415-6_2
       \endverb
       \verb{file}
-      \verb 978-3-662-72415-6.pdf:C\:\\Users\\damie\\Zotero\\storage\\YTI9SHD2\\978-3-662-72415-6.pdf:application/pdf;Full Text PDF:C\:\\Users\\damie\\Zotero\\storage\\3Y83ZM65\\Karrenberg - 2025 - Der technologische Aufstieg der KI-Agenten.pdf:application/pdf
+      \verb 978-3-662-72415-6.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\YTI9SHD2\\978-3-662-72415-6.pdf:application/pdf;Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\3Y83ZM65\\Karrenberg - 2025 - Der technologische Aufstieg der KI-Agenten.pdf:application/pdf
       \endverb
       \verb{urlraw}
       \verb https://doi.org/10.1007/978-3-662-72415-6_2
@@ -929,8 +1945,494 @@
       \verb https://doi.org/10.1007/978-3-662-72415-6_2
       \endverb
     \endentry
+    \entry{xi_rise_2025}{article}{}{}
+      \name{author}{28}{}{%
+        {{hash=06459fedf50e092e97038ab0c1178a30}{%
+           family={Xi},
+           familyi={X\bibinitperiod},
+           given={Zhiheng},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=4a528bb3d4c833da97a59bd3c5c80196}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Wenxiang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b10fcfadf669bd48a908e04f32864424}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Xin},
+           giveni={X\bibinitperiod}}}%
+        {{hash=01f0db4a278a227b9e648b692c8841bc}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=b35e48c6f464425950dac9939849c8bc}{%
+           family={Ding},
+           familyi={D\bibinitperiod},
+           given={Yiwen},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=e16962e61be569e8bc3cd578a671909a}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Boyang},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7a56aedb5f6ad175a5340edc7bf6267e}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Ming},
+           giveni={M\bibinitperiod}}}%
+        {{hash=14863a722fc491cf3d30d178312383ff}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Junzhe},
+           giveni={J\bibinitperiod}}}%
+        {{hash=983f21b2479df68760e3ef3582036dd0}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Senjie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=dc16e7a4cfcbebc1062423614fe0c7a8}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Enyu},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3eb401cf5f155a9cec0b71ae34fc395a}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Rui},
+           giveni={R\bibinitperiod}}}%
+        {{hash=32c86a1d5887947f9304cf26bf315236}{%
+           family={Fan},
+           familyi={F\bibinitperiod},
+           given={Xiaoran},
+           giveni={X\bibinitperiod}}}%
+        {{hash=bd7d15d79ca36b953d99a1a0aaccb94a}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=360ab9cfcdf1236d712c66d738313eb2}{%
+           family={Xiong},
+           familyi={X\bibinitperiod},
+           given={Limao},
+           giveni={L\bibinitperiod}}}%
+        {{hash=86718cd959eccc231b89841a6abbde4c}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yuhao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=03667c77e7cf778d255902d49861bfea}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Weiran},
+           giveni={W\bibinitperiod}}}%
+        {{hash=785aa6e8ad9c46215ad1620098c7e3d4}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Changhao},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6342435045147584cda7db2fd1aca272}{%
+           family={Zou},
+           familyi={Z\bibinitperiod},
+           given={Yicheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=52a8f10a78d12d7362765b71ce0de5c5}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiangyang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=4c2b885402ec6b7d7973130bc4d9e964}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Zhangyue},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=b68839c2ad3ad80baf18292bbe1ab92b}{%
+           family={Dou},
+           familyi={D\bibinitperiod},
+           given={Shihan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bbd768819cfe1ef3e51fd7ddf7400aea}{%
+           family={Weng},
+           familyi={W\bibinitperiod},
+           given={Rongxiang},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7ab8c1e23e9a5618932b576a032a4c4e}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Wenjuan},
+           giveni={W\bibinitperiod}}}%
+        {{hash=41e1885572caa2858e99dbd7b588d9a3}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Yongyan},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9057ec1bc6c2faaf12dfb4b37a8d37d0}{%
+           family={Qiu},
+           familyi={Q\bibinitperiod},
+           given={Xipeng},
+           giveni={X\bibinitperiod}}}%
+        {{hash=ed0f3403ef6238bb67876d4c6ad27464}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Xuanjing},
+           giveni={X\bibinitperiod}}}%
+        {{hash=16a6bb056f6786baa492ae9c2e59ac22}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=b25a5d5a8d6747402f334b2819331749}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Tao},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e423dc8697bf2e388c1f1182149c0a6}
+      \strng{fullhash}{5050bd3b41453bc9f40b9d957faa848e}
+      \strng{fullhashraw}{5050bd3b41453bc9f40b9d957faa848e}
+      \strng{bibnamehash}{5050bd3b41453bc9f40b9d957faa848e}
+      \strng{authorbibnamehash}{5050bd3b41453bc9f40b9d957faa848e}
+      \strng{authornamehash}{0e423dc8697bf2e388c1f1182149c0a6}
+      \strng{authorfullhash}{5050bd3b41453bc9f40b9d957faa848e}
+      \strng{authorfullhashraw}{5050bd3b41453bc9f40b9d957faa848e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{For a long time, researchers have sought artificial intelligence ({AI}) that matches or exceeds human intelligence. {AI} agents, which are artificial entities capable of sensing the environment, making decisions, and taking actions, are seen as a means to achieve this goal. Extensive efforts have been made to develop {AI} agents, with a primary focus on refining algorithms or training strategies to enhance specific skills or particular task performance. The field, however, lacks a sufficiently general and powerful model to serve as a foundation for building general agents adaptable to diverse scenarios. With their versatile capabilities, large language models ({LLMs}) pave a promising path for the development of general {AI} agents, and substantial progress has been made in the realm of {LLM}-based agents. In this article, we conduct a comprehensive survey on {LLM}-based agents, covering their construction frameworks, application scenarios, and the exploration of societies built upon {LLM}-based agents. We also conclude some potential future directions and open problems in this flourishing field.}
+      \field{day}{17}
+      \field{issn}{1869-1919}
+      \field{journaltitle}{Science China Information Sciences}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{number}{2}
+      \field{shortjournal}{Sci. China Inf. Sci.}
+      \field{shorttitle}{The rise and potential of large language model based agents}
+      \field{title}{The rise and potential of large language model based agents: a survey}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{68}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{121101}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1007/s11432-024-4222-0
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\UAGBTDAI\\Xi et al. - 2025 - The rise and potential of large language model bas.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s11432-024-4222-0
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s11432-024-4222-0
+      \endverb
+      \keyw{natural language processing,agent society,{AI} agents,large language models,{LLM}-based agents}
+    \endentry
+    \entry{snyder_literature_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=97e1885e69f2ff2a85292e9e3b93c171}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{fullhash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{fullhashraw}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{bibnamehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authorbibnamehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authornamehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authorfullhash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authorfullhashraw}{97e1885e69f2ff2a85292e9e3b93c171}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Knowledge production within the field of business research is accelerating at a tremendous speed while at the same time remaining fragmented and interdisciplinary. This makes it hard to keep up with state-of-the-art and to be at the forefront of research, as well as to assess the collective evidence in a particular area of business research. This is why the literature review as a research method is more relevant than ever. Traditional literature reviews often lack thoroughness and rigor and are conducted ad hoc, rather than following a specific methodology. Therefore, questions can be raised about the quality and trustworthiness of these types of reviews. This paper discusses literature review as a methodology for conducting research and offers an overview of different types of reviews, as well as some guidelines to how to both conduct and evaluate a literature review paper. It also discusses common pitfalls and how to get literature reviews published.}
+      \field{day}{1}
+      \field{issn}{0148-2963}
+      \field{journaltitle}{Journal of Business Research}
+      \field{month}{11}
+      \field{shortjournal}{Journal of Business Research}
+      \field{shorttitle}{Literature review as a research methodology}
+      \field{title}{Literature review as a research methodology: An overview and guidelines}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{104}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{333\bibrangedash 339}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jbusres.2019.07.039
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\H5GHCLWU\\S0148296319304564.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0148296319304564
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0148296319304564
+      \endverb
+      \keyw{Literature review,Integrative review,Research methodology,Synthesis,Systematic review}
+    \endentry
+    \entry{page_prisma_2021}{article}{}{}
+      \name{author}{26}{}{%
+        {{hash=016b86afb0a98379bf77b3f074f34761}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8c647eae0c93ec008ebe092eb144eeee}{%
+           family={{McKenzie}},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
+           family={Bossuyt},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fa885033d820893c45692b99c8b4bbc6}{%
+           family={Boutron},
+           familyi={B\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8fd2430e75c6bb84661c811e408f6377}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Tammy\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9da5818ae381747539d8a98ecf2d13b1}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
+           family={Shamseer},
+           familyi={S\bibinitperiod},
+           given={Larissa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=640f8392f6a7388c779d2b60fdd93350}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ca61686dc125837a0d9741be62f3427}{%
+           family={Akl},
+           familyi={A\bibinitperiod},
+           given={Elie\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e822c8724e88eb518ec5eb8015bbaab0}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Sue\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=01e789422f68da54234ac2f1e791eac4}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
+           family={Glanville},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18acccd95580a48bd6c5f4010bb058a7}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={Jeremy\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
+           family={Hróbjartsson},
+           familyi={H\bibinitperiod},
+           given={Asbjørn},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
+           family={Lalu},
+           familyi={L\bibinitperiod},
+           given={Manoj\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0100456cf4ced53a2aab31f2c3055f6a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tianjing},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6e270d436c864242b119a3605283c8bf}{%
+           family={Loder},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d149e7026acd95db856d30314dba9a9e}{%
+           family={Mayo-Wilson},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
+           family={{McDonald}},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b7314b4cde4c01764b4b3580e015b768}{%
+           family={{McGuinness}},
+           familyi={M\bibinitperiod},
+           given={Luke\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d600e9a8a01053464e53fc2aadeb009b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Lesley\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
+           family={Tricco},
+           familyi={T\bibinitperiod},
+           given={Andrea\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=75fdbaed8e43fddb210da313631d8639}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Vivian\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=792d7051a4c2169e6aac0073ce62ba8e}{%
+           family={Whiting},
+           familyi={W\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{fullhash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{fullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{bibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authorbibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authorfullhash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authorfullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{<}p{>}The Preferred Reporting Items for Systematic reviews and Meta-Analyses ({PRISMA}) statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did, and what they found. Over the past decade, advances in systematic review methodology and terminology have necessitated an update to the guideline. The {PRISMA} 2020 statement replaces the 2009 statement and includes new reporting guidance that reflects advances in methods to identify, select, appraise, and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. In this article, we present the {PRISMA} 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the {PRISMA} 2020 abstract checklist, and the revised flow diagrams for original and updated reviews.{<}/p{>}}
+      \field{day}{29}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{{BMJ}}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{note}{Publisher: British Medical Journal Publishing Group Section: Research Methods \&amp; Reporting}
+      \field{shortjournal}{{BMJ}}
+      \field{shorttitle}{The {PRISMA} 2020 statement}
+      \field{title}{The {PRISMA} 2020 statement: an updated guideline for reporting systematic reviews}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{372}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{n71}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj.n71
+      \endverb
+      \verb{file}
+      \verb Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\MJC5Y7GU\\Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bmj.com/content/372/bmj.n71
+      \endverb
+      \verb{url}
+      \verb https://www.bmj.com/content/372/bmj.n71
+      \endverb
+    \endentry
+    \entry{hevner_design_2010}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
+           family={Hevner},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
+           family={Hevner},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, {MA}}%
+      }
+      \list{publisher}{1}{%
+        {Springer {US}}%
+      }
+      \strng{namehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{fullhash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{fullhashraw}{aec596f25e71075259e73bc2be95a95e}
+      \strng{bibnamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authorbibnamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authornamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authorfullhash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editorbibnamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editornamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editorfullhash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Design activities are central to most applied disciplines. Research in design has a long history in many fields including architecture, engineering, education, psychology, and the fine arts (Cross 2001). The computing and information technology ({CIT}) field since its advent in the late 1940s has appropriated many of the ideas, concepts, and methods of design science that have originated in these other disciplines. However, information systems ({IS}) as composed of inherently mutable and adaptable hardware, software, and human interfaces provide many unique and challenging design problems that call for new and creative ideas.}
+      \field{booktitle}{Design Research in Information Systems: Theory and Practice}
+      \field{isbn}{978-1-4419-5653-8}
+      \field{langid}{english}
+      \field{title}{Design Science Research in Information Systems}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9\bibrangedash 22}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/978-1-4419-5653-8_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4419-5653-8_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4419-5653-8_2
+      \endverb
+      \keyw{Design Cycle,Design Science,Group Decision Support System,Information System,Research Cycle}
+    \endentry
   \enddatalist
-  \missing{schwab_kunstliche_2023}
   \missing{wortmann_evolution_1998}
 \endrefsection
 \endinput
