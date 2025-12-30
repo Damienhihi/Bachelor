@@ -1,0 +1,71 @@
+\section{Problem- und Anforderungsanalyse}
+%Einleitung in das Kapitel
+Dieses Kapitel stellt die Ergebnisse der im Rahmen der ersten Phase des \ac{DSR} durchgeführten Problemidentifikation dar. Grundlage bilden die im Rahmen dieser Arbeit geführten Experteninterviews. Ziel des Kapitels ist es, den identifizierten Use Case für den Einsatz eines \ac{KI}-Agenten in \ac{D365FnSCM} darzustellen und darauf aufbauend die funktionalen sowie nicht-funktionalen Anforderungen abzuleiten.
+
+%Unterkapitel
+\subsection{Beschreibung des Use Case}
+Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage ein zeitintensiver und fehleranfälliger Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. 
+
+Ein wesentlicher Problembereich innerhalb dieses Prozesses ist die Artikelsuche. Diese ist ein wiederkehrendes Thema und trägt maßgeblich zum zeitlichen Aufwand bei der Angebotsanlage dar, weil oft nicht direkt alle notwendigen Daten zur Identifikation der richtigen Artikel vorliegen. 
+Darüber hinaus wird ein erhöhter manueller Aufwand bei wiederkehrenden Tätigkeiten beschrieben. Bestimmte Aufgaben lassen sich systemseitig nicht kopieren, da dazu keine technische Möglichkeit besteht. Was insbesondere bei Projekten mit mehreren Mandanten einen hohen zeitlichen Aufwand darstellt.
+
+Ein weiter Aspekt ist die Nutzung des Systems durch neue Anwender. Neue Nutzer tendieren oft dazu Angebote nicht korrekt anzulegen, wodurch der gesamte Vertriebsprozess von Beginn an gestört wird, wodurch es im Nachhinein zu Mehrarbeit kommt, da diese Fehler korrigiert werden müssen. 
+
+Die Auswahl dieses Use Cases begründet sich insbesondere durch einen hohen Nutzen mit einer geringen Komplexität. Durch die hohe Nutzung der Angebotsfunktionen in \ac{D365FnSCM} ist ein großer Mehrwert für die Anwender möglich. 
+
+\subsection{Ergebnisse der qualitativen Inhaltsanalyse}
+
+Die Auswertung der Experteninterviews hat zur Identifikation verschiedener Probleme und Erwartungen geführt, die im Folgenden dargestellt werden.
+
+\subsubsection{Identifizierte Probleme}
+Das erste Problem ist die generelle Zeitintensität der Angebotsanlage in \ac{D365FnSCM}. Hierbei sind verschiedene Ursachen identifiziert worden, die zu einem erhöhten Zeitaufwand führen. Die erste Ursache, ist, dass viele Angebotsfelder, welche für die Erstellung eines Angebots gewünscht sind, nicht systemseitig als notwendig gekennzeichnet werden, wodurch diese manuell rausgesucht und ausgefüllt werden müssen. Ein wichtiges Beispiel hierfür ist die Referenznummer, falls bei einem Angebot eine Bestellung verknüpft werden soll. Eine weitere Ursache für die Zeitintensität ist die zuvor beschriebene Artikelsuche. Diese reagiert sehr träge und gibt viele mögliche Treffer auf einmal zurück, wodurch es dauern kann den richtigen Artikel zu identifizieren. 
+Zusätzlich ist die Artikelsuche nicht nur auf Grund der Zeitintensität ein Problem, sondern auch ein generelles Problem, da bei Fehlangaben in der Artikelsuche, wie beispielsweise eine falsche Schreibweise, gar keine passenden Treffer zurückgegeben werden. Dieses Problem wird darüber hinaus dadurch verschärft, dass manchmal nicht alle notwendigen Informationen zur Identifikation des richtigen Artikels vorliegen.
+
+Durch diese Probleme ergibt sich im Insgesamten das Problem, dass Angebote in \ac{D365FnSCM} sehr langsam aber auch falsch angelegt werden. Durch dieses falsche anlegen von Angeboten entstehen im weiteren Vertriebsprozess Mehrarbeiten, da diese Fehler im nachhinein korrigiert werden müssen. Wie bereits beim Use Case beschrieben, ist dies insbesondere bei neuen Anwendern ein Problem, da diese oft nicht wissen, wie ein Angebot korrekt anzulegen ist.
+
+\subsubsection{Erwartungen}
+Neben den identifizierten Problemen wurden im Rahmen der Interviews auch verschiedene Erwartungen im Hinblick auf eine Unterstützung der Angebotsanlage durch einen \ac{KI}-Agenten geäußert, welche sowohl auf den Problemen aufbauen, aber auch unabhängig davon entstanden sind. Die Interviewpartner bringen zum Ausdruck, dass eine starke Unterstützung bei der Befüllung des Angebotskopfes sowie wichtige Angebotsfeldern als wünschenswert erachtet wird. Dabei wird insbesondere die korrekte Übernahme relevanter Informationen, wie beispielsweise Debitoren- oder Referenznummern sowie abweichender Lieferadressen genannt.
+
+Darüber hinaus wird die Erwartung geäußert, dass auftretende Fehler während der Angebotsanlage nachvollziehbar dargestellt werden. Dieses Verdeutlichen des Fehlers wird als hilfreich angesehen, um den Nutzer zu unterstützen Korrekturen vornehmen zu können.
+
+Aufbauend auf dem Problem der Artikelsuche äußern die Interviewpartner den Wunsch nach einer Unterstützung bei der Identifikation des richtigen Artikels auf Basis vorhandener Informationen. In diesem Zusammenhang wird auch die Berücksichtigung historischer Preisinformationen als sinnvoll genannt, um Preise anhand von früheren Angeboten in der Preisfindung einbeziehen zu können. Zusätzlich wird die Berücksichtigung von Mengenvorgaben bei Artikeln als unterstützender Aspekt genannt, da bestimmte Artikel nur in festgelegten Mengen bestellt werden dürfen.
+
+Eine weitere Erwartung betrifft die Möglichkeit, nachträgliche Korrekturen während der Angebotsanlage vorzunehmen, falls Fehler erkannt werden. Darüber hinaus wird erwartet, dass der \ac{KI}-Agent als Chat interface zur Verfügung stehen und schlussendlich sowohl von den Vertrieblern als auch von den Kunden selber genutzt werden können um ein Angebot zu erstellen.
+
+Wichtig ist ebenfalls, dass die Nutzung des \ac{KI}-Agenten möglichst einfach und intuitiv gestaltet erartet wird, da bei Lösungen immer von dem Nutzer ausgegangen werden muss, welcher technisch nicht allzu versiert ist. 
+
+
+\subsubsection{Risiken und Bedenken}
+Neben den zuvor beschriebenen Problemen und Erwartungen wurden im Rahmen der Interviews auch diverse Risiken und Bedenken identifiziert.
+Das erste und größte Risiko ist das Anlegen von falschen Angeboten durch den \ac{KI}-Agenten, was verschiedene Probleme nach sich ziehen kann. Zu aller erst greift natürlich das gleiche Problem wie bei der falschen manuellen Angebotsanlage, dass im weiteren Vertriebsprozess Mehrarbeit entsteht, da die Fehler korrigiert werden müssen. Darüber hinaus kann es aber auch zu einem Demotivation bei den Nutzern kommen, wenn diese mit dem \ac{KI}-Agenten arbeiten und dieser immer wieder falsche Angebote anlegt. Dadurch kann es passieren, dass die Nutzer den \ac{KI}-Agenten nicht mehr verwenden wollen und auch nachhaltig eher skeptisch gegenüber \ac{KI}-Lösungen eingestellt sind. 
+
+\subsubsection{Funktionale Anforderungen}
+Auf Basis der identifizierten Probleme und Erwartungen sowie weiterer Aussagen der Interviewpartner lassen sich verschiedene funktionale Anforderungen an den \ac{KI}-Agenten ableiten. Der \ac{KI}-Agent soll Anwender bei der Anlage von Angeboten in \ac{D365FnSCM} unterstützen, indem er relevante Angebotsdaten im Angebotskopf erfasst und korrekt befüllt. Hierzu zählen insbesondere zentrale Felder wie die Debitorennummer, die Referenznummer sowie gegebenenfalls abweichende Lieferadressen oder Kontaktdaten.
+
+Darüber hinaus soll der \ac{KI}-Agent Anwender bei der Identifikation geeigneter Artikel unterstützen. Der Agent soll Artikel auf Basis vorhandener Informationen vorschlagen und die Artikelsuche vereinfachen, insbesondere in Fällen, in denen nicht alle relevanten Informationen vollständig vorliegen.
+
+Ein weiterer funktionaler Aspekt betrifft den Umgang mit Fehlern während der Angebotsanlage. Der \ac{KI}-Agent soll auftretende Fehler erkennen und nachvollziehbar darstellen, sodass diese für den Anwender verständlich erläutert werden. Dadurch sollen notwendige Korrekturen effizient vorgenommen werden können. Zusätzlich soll der Agent die nachträgliche Korrektur bereits eingegebener Angebotsdaten ermöglichen und Anwender auf fehlende Informationen hinweisen, damit diese ergänzt werden können.
+
+Zudem soll der \ac{KI}-Agent Anwender bei der Preisfindung unterstützen, indem historische Angebots- und Preisinformationen berücksichtigt werden. In diesem Zusammenhang soll geprüft werden, ob der Kunde den entsprechenden Artikel bereits zuvor erworben hat und zu welchem Preis dies erfolgt ist.
+
+Weiterhin soll der \ac{KI}-Agent bei der Hinzufügung von Artikeln zu einem Angebot überprüfen, ob für den jeweiligen Artikel Mengenvorgaben hinterlegt sind. Sofern entsprechende Vorgaben existieren, soll der Anwender darauf hingewiesen und gefragt werden, ob diese berücksichtigt werden sollen.
+
+Die Interaktion mit dem \ac{KI}-Agenten soll über eine Chat-basierte Schnittstelle erfolgen, die es ermöglicht, den Angebotsprozess schrittweise zu begleiten und Eingaben sowie Korrekturen während der Angebotserstellung vorzunehmen.
+
+Schließlich soll der \ac{KI}-Agent auf verschiedene Stammdaten aus \ac{D365FnSCM} zugreifen können, um relevante Informationen für die Angebotsanlage sowie für die Artikel- und Preissuche zu nutzen. Hierzu zählen insbesondere Artikelstammdaten, Angebotsdaten und Kundendaten.
+
+
+\subsubsection{Nicht-funktionale Anforderungen}
+Neben den funktionalen Anforderungen ergeben sich aus den identifizierten Risiken, Erwartungen und weiteren Aussagen auch verschiedene nicht-funktionale Anforderungen an den \ac{KI}-Agenten. Diese betreffen insbesondere Aspekte der Nachvollziehbarkeit, Zuverlässigkeit, Nutzerakzeptanz sowie der Benutzerfreundlichkeit.
+
+Der \ac{KI}-Agent soll nachvollziehbare Entscheidungen treffen und diese für den Anwender verständlich darstellen, insbesondere im Fall fehlerhafter oder unvollständiger Eingaben.
+
+Darüber hinaus soll der \ac{KI}-Agent zuverlässige und konsistente Ergebnisse liefern, um fehlerhafte Angebotsanlagen und daraus resultierende Nacharbeiten zu vermeiden.
+
+Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz unterstützen, indem er Anwender bei der Angebotsanlage unterstützt und nicht als zusätzliche Fehlerquelle wahrgenommen wird.
+
+Zuletzt soll die Nutzung des \ac{KI}-Agenten einfach und intuitiv gestaltet sein, sodass auch technisch weniger versierte Anwender ohne umfangreiche Einarbeitung mit dem System arbeiten können.
+
+
+
+

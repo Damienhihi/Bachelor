@@ -307,6 +307,510 @@
       \verb https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/
       \endverb
     \endentry
+    \entry{snyder_literature_2019}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=97e1885e69f2ff2a85292e9e3b93c171}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={Hannah},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{fullhash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{fullhashraw}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{bibnamehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authorbibnamehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authornamehash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authorfullhash}{97e1885e69f2ff2a85292e9e3b93c171}
+      \strng{authorfullhashraw}{97e1885e69f2ff2a85292e9e3b93c171}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Knowledge production within the field of business research is accelerating at a tremendous speed while at the same time remaining fragmented and interdisciplinary. This makes it hard to keep up with state-of-the-art and to be at the forefront of research, as well as to assess the collective evidence in a particular area of business research. This is why the literature review as a research method is more relevant than ever. Traditional literature reviews often lack thoroughness and rigor and are conducted ad hoc, rather than following a specific methodology. Therefore, questions can be raised about the quality and trustworthiness of these types of reviews. This paper discusses literature review as a methodology for conducting research and offers an overview of different types of reviews, as well as some guidelines to how to both conduct and evaluate a literature review paper. It also discusses common pitfalls and how to get literature reviews published.}
+      \field{day}{1}
+      \field{issn}{0148-2963}
+      \field{journaltitle}{Journal of Business Research}
+      \field{month}{11}
+      \field{shortjournal}{Journal of Business Research}
+      \field{shorttitle}{Literature review as a research methodology}
+      \field{title}{Literature review as a research methodology: An overview and guidelines}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{104}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{333\bibrangedash 339}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.jbusres.2019.07.039
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\H5GHCLWU\\S0148296319304564.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0148296319304564
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0148296319304564
+      \endverb
+      \keyw{Literature review,Integrative review,Research methodology,Synthesis,Systematic review}
+    \endentry
+    \entry{page_prisma_2021}{article}{}{}
+      \name{author}{26}{}{%
+        {{hash=016b86afb0a98379bf77b3f074f34761}{%
+           family={Page},
+           familyi={P\bibinitperiod},
+           given={Matthew\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8c647eae0c93ec008ebe092eb144eeee}{%
+           family={{McKenzie}},
+           familyi={M\bibinitperiod},
+           given={Joanne\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
+           family={Bossuyt},
+           familyi={B\bibinitperiod},
+           given={Patrick\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=fa885033d820893c45692b99c8b4bbc6}{%
+           family={Boutron},
+           familyi={B\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod}}}%
+        {{hash=8fd2430e75c6bb84661c811e408f6377}{%
+           family={Hoffmann},
+           familyi={H\bibinitperiod},
+           given={Tammy\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=9da5818ae381747539d8a98ecf2d13b1}{%
+           family={Mulrow},
+           familyi={M\bibinitperiod},
+           given={Cynthia\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
+           family={Shamseer},
+           familyi={S\bibinitperiod},
+           given={Larissa},
+           giveni={L\bibinitperiod}}}%
+        {{hash=640f8392f6a7388c779d2b60fdd93350}{%
+           family={Tetzlaff},
+           familyi={T\bibinitperiod},
+           given={Jennifer\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4ca61686dc125837a0d9741be62f3427}{%
+           family={Akl},
+           familyi={A\bibinitperiod},
+           given={Elie\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e822c8724e88eb518ec5eb8015bbaab0}{%
+           family={Brennan},
+           familyi={B\bibinitperiod},
+           given={Sue\bibnamedelima E.},
+           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=01e789422f68da54234ac2f1e791eac4}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Roger},
+           giveni={R\bibinitperiod}}}%
+        {{hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
+           family={Glanville},
+           familyi={G\bibinitperiod},
+           given={Julie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=18acccd95580a48bd6c5f4010bb058a7}{%
+           family={Grimshaw},
+           familyi={G\bibinitperiod},
+           given={Jeremy\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
+           family={Hróbjartsson},
+           familyi={H\bibinitperiod},
+           given={Asbjørn},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
+           family={Lalu},
+           familyi={L\bibinitperiod},
+           given={Manoj\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0100456cf4ced53a2aab31f2c3055f6a}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Tianjing},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6e270d436c864242b119a3605283c8bf}{%
+           family={Loder},
+           familyi={L\bibinitperiod},
+           given={Elizabeth\bibnamedelima W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d149e7026acd95db856d30314dba9a9e}{%
+           family={Mayo-Wilson},
+           familyi={M\bibinithyphendelim W\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
+           family={{McDonald}},
+           familyi={M\bibinitperiod},
+           given={Steve},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b7314b4cde4c01764b4b3580e015b768}{%
+           family={{McGuinness}},
+           familyi={M\bibinitperiod},
+           given={Luke\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d600e9a8a01053464e53fc2aadeb009b}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Lesley\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
+           family={Tricco},
+           familyi={T\bibinitperiod},
+           given={Andrea\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=75fdbaed8e43fddb210da313631d8639}{%
+           family={Welch},
+           familyi={W\bibinitperiod},
+           given={Vivian\bibnamedelima A.},
+           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=792d7051a4c2169e6aac0073ce62ba8e}{%
+           family={Whiting},
+           familyi={W\bibinitperiod},
+           given={Penny},
+           giveni={P\bibinitperiod}}}%
+        {{hash=af56ff14657d1110bff4b784198b0505}{%
+           family={Moher},
+           familyi={M\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{fullhash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{fullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{bibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authorbibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
+      \strng{authorfullhash}{b37368b8b0982e5c110334919bd2e0e1}
+      \strng{authorfullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{{<}p{>}The Preferred Reporting Items for Systematic reviews and Meta-Analyses ({PRISMA}) statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did, and what they found. Over the past decade, advances in systematic review methodology and terminology have necessitated an update to the guideline. The {PRISMA} 2020 statement replaces the 2009 statement and includes new reporting guidance that reflects advances in methods to identify, select, appraise, and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. In this article, we present the {PRISMA} 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the {PRISMA} 2020 abstract checklist, and the revised flow diagrams for original and updated reviews.{<}/p{>}}
+      \field{day}{29}
+      \field{issn}{1756-1833}
+      \field{journaltitle}{{BMJ}}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{note}{Publisher: British Medical Journal Publishing Group Section: Research Methods \&amp; Reporting}
+      \field{shortjournal}{{BMJ}}
+      \field{shorttitle}{The {PRISMA} 2020 statement}
+      \field{title}{The {PRISMA} 2020 statement: an updated guideline for reporting systematic reviews}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{372}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{n71}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1136/bmj.n71
+      \endverb
+      \verb{file}
+      \verb Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\MJC5Y7GU\\Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bmj.com/content/372/bmj.n71
+      \endverb
+      \verb{url}
+      \verb https://www.bmj.com/content/372/bmj.n71
+      \endverb
+    \endentry
+    \entry{hevner_design_2010}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
+           family={Hevner},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
+           family={Hevner},
+           familyi={H\bibinitperiod},
+           given={Alan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, {MA}}%
+      }
+      \list{publisher}{1}{%
+        {Springer {US}}%
+      }
+      \strng{namehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{fullhash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{fullhashraw}{aec596f25e71075259e73bc2be95a95e}
+      \strng{bibnamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authorbibnamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authornamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authorfullhash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{authorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editorbibnamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editornamehash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editorfullhash}{aec596f25e71075259e73bc2be95a95e}
+      \strng{editorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Design activities are central to most applied disciplines. Research in design has a long history in many fields including architecture, engineering, education, psychology, and the fine arts (Cross 2001). The computing and information technology ({CIT}) field since its advent in the late 1940s has appropriated many of the ideas, concepts, and methods of design science that have originated in these other disciplines. However, information systems ({IS}) as composed of inherently mutable and adaptable hardware, software, and human interfaces provide many unique and challenging design problems that call for new and creative ideas.}
+      \field{booktitle}{Design Research in Information Systems: Theory and Practice}
+      \field{isbn}{978-1-4419-5653-8}
+      \field{langid}{english}
+      \field{title}{Design Science Research in Information Systems}
+      \field{urlday}{18}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2010}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{9\bibrangedash 22}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1007/978-1-4419-5653-8_2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-4419-5653-8_2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-4419-5653-8_2
+      \endverb
+      \keyw{Design Cycle,Design Science,Group Decision Support System,Information System,Research Cycle}
+    \endentry
+    \entry{peffers_design_2007}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=3127efe8cdd4557b7228a8724f568529}{%
+           family={Peffers},
+           familyi={P\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+        {{hash=8b17b21a3e4c61d1302f46cba38c6e50}{%
+           family={Tuunanen},
+           familyi={T\bibinitperiod},
+           given={Tuure},
+           giveni={T\bibinitperiod}}}%
+        {{hash=33ad207ea3031c6d744a31f5bc43c547}{%
+           family={Rothenberger},
+           familyi={R\bibinitperiod},
+           given={Marcus\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
+           family={Chatterjee},
+           familyi={C\bibinitperiod},
+           given={Samir},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
+      \strng{fullhash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{fullhashraw}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{bibnamehash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authorbibnamehash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authornamehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
+      \strng{authorfullhash}{0d82c455b50c2b184d97697dac2e8660}
+      \strng{authorfullhashraw}{0d82c455b50c2b184d97697dac2e8660}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The paper motivates, presents, demonstrates in use, and evaluates a methodology for conducting design science ({DS}) research in information systems ({IS}). {DS} is of importance in a discipline oriented to the creation of successful artifacts. Several researchers have pioneered {DS} research in {IS}, yet over the past 15 years, little {DS} research has been done within the discipline. The lack of a methodology to serve as a commonly accepted framework for {DS} research and of a template for its presentation may have contributed to its slow adoption. The design science research methodology ({DSRM}) presented here incorporates principles, practices, and procedures required to carry out such research and meets three objectives: it is consistent with prior literature, it provides a nominal process model for doing {DS} research, and it provides a mental model for presenting and evaluating {DS} research in {IS}. The {DS} process includes six steps: problem identification and motivation, definition of the objectives for a solution, design and development, demonstration, evaluation, and communication. We demonstrate and evaluate the methodology by presenting four case studies in terms of the {DSRM}, including cases that present the design of a database to support health assessment methods, a software reuse measure, an Internet video telephony application, and an {IS} planning method. The designed methodology effectively satisfies the three objectives and has the potential to help aid the acceptance of {DS} research in the {IS} discipline.}
+      \field{day}{1}
+      \field{issn}{0742-1222}
+      \field{journaltitle}{Journal of Management Information Systems}
+      \field{month}{12}
+      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.2753/{MIS}0742-1222240302}
+      \field{number}{3}
+      \field{title}{A Design Science Research Methodology for Information Systems Research}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{volume}{24}
+      \field{year}{2007}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{45\bibrangedash 77}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.2753/MIS0742-1222240302
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.2753/MIS0742-1222240302
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.2753/MIS0742-1222240302
+      \endverb
+      \keyw{case study,design science,design science research,design theory,mental model,methodology,process model}
+    \endentry
+    \entry{osterle_memorandum_2010}{article}{}{}
+      \name{author}{10}{}{%
+        {{hash=5e8e4a3d1a5ed8d5d8d4cde224ce6589}{%
+           family={Österle},
+           familyi={Ö\bibinitperiod},
+           given={Hubert},
+           giveni={H\bibinitperiod}}}%
+        {{hash=8cdc40448cfff3a37807d63b1f93f1b2}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+        {{hash=57caadb2ed286617eaa172791eb0c37a}{%
+           family={Ulrich},
+           familyi={U\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+        {{hash=4b7024ad91d26df00a73444c3028e564}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=9ca796a3dc1bca9e63ec8766fe0b695d}{%
+           family={Karagiannis},
+           familyi={K\bibinitperiod},
+           given={Dimitris},
+           giveni={D\bibinitperiod}}}%
+        {{hash=97558c30684fb70538b0efcd39836dfd}{%
+           family={Krcmar},
+           familyi={K\bibinitperiod},
+           given={Helmut},
+           giveni={H\bibinitperiod}}}%
+        {{hash=51ec38edaa291ff068b8b32d4374c57f}{%
+           family={Loos},
+           familyi={L\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=85cb0075023ecdcd5477885da4861038}{%
+           family={Mertens},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0f2b8d969e6aa0ef4272d432d49e9ae5}{%
+           family={Oberweis},
+           familyi={O\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b0b28284f1077f57b75154acc5ec9ff2}{%
+           family={Sinz},
+           familyi={S\bibinitperiod},
+           given={Elmar\bibnamedelima J},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{f6eb29017859c851998305729eb956d3}
+      \strng{fullhash}{6c0229a5ddd79745971f3a2ca63370f5}
+      \strng{fullhashraw}{6c0229a5ddd79745971f3a2ca63370f5}
+      \strng{bibnamehash}{6c0229a5ddd79745971f3a2ca63370f5}
+      \strng{authorbibnamehash}{6c0229a5ddd79745971f3a2ca63370f5}
+      \strng{authornamehash}{f6eb29017859c851998305729eb956d3}
+      \strng{authorfullhash}{6c0229a5ddd79745971f3a2ca63370f5}
+      \strng{authorfullhashraw}{6c0229a5ddd79745971f3a2ca63370f5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Memorandum zur gestaltungsorientierten Wirtschaftsinformatik}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{mayring_qualitative_2019}{incollection}{}{}
+      \name{author}{2}{}{%
+        {{hash=354e18c4014b84fb9bd1af1fc4d7371e}{%
+           family={Mayring},
+           familyi={M\bibinitperiod},
+           given={Philipp},
+           giveni={P\bibinitperiod}}}%
+        {{hash=72b15a8e9cb07d00749f1c8c0f5e92ee}{%
+           family={Fenzl},
+           familyi={F\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0261d1837dffcaf5e3582e1e6f01aeaa}{%
+           family={Baur},
+           familyi={B\bibinitperiod},
+           given={Nina},
+           giveni={N\bibinitperiod}}}%
+        {{hash=9b63a5766c877d465f4d5669bd898b42}{%
+           family={Blasius},
+           familyi={B\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Wiesbaden}%
+      }
+      \list{publisher}{1}{%
+        {Springer Fachmedien}%
+      }
+      \strng{namehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{fullhash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{fullhashraw}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{bibnamehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authorbibnamehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authornamehash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authorfullhash}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{authorfullhashraw}{ad3a7432b48ffbb316cb4204d3982989}
+      \strng{editorbibnamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editornamehash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editorfullhash}{3e347cdcc7b6277be59b54152b579a12}
+      \strng{editorfullhashraw}{3e347cdcc7b6277be59b54152b579a12}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Qualitative Inhaltsanalyse stellt eine Auswertungsmethode dar, die Texte bearbeitet, welche im Rahmen sozialwissenschaftlicher Forschungsprojekte in der Datenerhebung anfallen, z.B. Transkripte von offenen Interviews (Helfferich, Kapitel 44 in diesem Band) oder Fokusgruppen (Vogl, Kapitel 46 in diesem Band), offene Fragen aus standardisierten Befragungen (Züll/Menold, Kapitel 59 in diesem Band), Beobachtungsprotokolle aus Feldstudien (Thierbach/Petschick, Kapitel 84 in diesem Band), Dokumente (Ernst, Kapitel 81 in diesem Band), Akten (Salheiser, Kapitel 80 in diesem Band), Zeitungsartikel (Klein, Kapitel 82 in diesem Band) und Internetmaterialien.}
+      \field{booktitle}{Handbuch Methoden der empirischen Sozialforschung}
+      \field{isbn}{978-3-658-21308-4}
+      \field{langid}{german}
+      \field{title}{Qualitative Inhaltsanalyse}
+      \field{urlday}{23}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{633\bibrangedash 648}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1007/978-3-658-21308-4_42
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\STH6CM96\\Mayring und Fenzl - 2019 - Qualitative Inhaltsanalyse.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-3-658-21308-4_42
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-3-658-21308-4_42
+      \endverb
+    \endentry
     \entry{davenport_putting_1998}{article}{}{}
       \name{author}{1}{}{%
         {{hash=418715aadaf08f606ff3e5575fa44f4f}{%
@@ -323,8 +827,8 @@
       \strng{authornamehash}{418715aadaf08f606ff3e5575fa44f4f}
       \strng{authorfullhash}{418715aadaf08f606ff3e5575fa44f4f}
       \strng{authorfullhashraw}{418715aadaf08f606ff3e5575fa44f4f}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -361,8 +865,8 @@
       \strng{authornamehash}{dffab4cac4652bd6b9c97389e0dcb3a5}
       \strng{authorfullhash}{dffab4cac4652bd6b9c97389e0dcb3a5}
       \strng{authorfullhashraw}{dffab4cac4652bd6b9c97389e0dcb3a5}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Though enterprise resource planning ({ERP}) has gained some prominence in the information systems ({IS}) literature over the past few years and is a significant phenomenon in practice, through (a) historical analysis, (b) meta-analysis of representative {IS} literature, and (c) a survey of academic experts, we reveal dissenting views on the phenomenon. Given this diversity of perspectives, it is unlikely that at this stage a broadly agreed definition of {ERP} can be achieved. We thus seek to increase awareness of the issues and stimulate further discussion, with the ultimate aim being to: (1) aid communication amongst researchers and between researchers and practitioners; (2) inform development of teaching materials on {ERP} and related concepts in university curricula and in commercial education and training; and (3) aid communication amongst clients, consultants and vendors. Increased transparency of the {ERP}-concept within {IS} may also benefit other aligned fields of knowledge.}
@@ -430,8 +934,8 @@
       \strng{editoranamehash}{0be17aaf6fedbae6a499d4a42fe3f5f8}
       \strng{editorafullhash}{0be17aaf6fedbae6a499d4a42fe3f5f8}
       \strng{editorafullhashraw}{0be17aaf6fedbae6a499d4a42fe3f5f8}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{editoratype}{collaborator}
@@ -468,8 +972,8 @@
       \strng{authornamehash}{0729ba52078587d5c2028ec015ea04a3}
       \strng{authorfullhash}{0729ba52078587d5c2028ec015ea04a3}
       \strng{authorfullhashraw}{0729ba52078587d5c2028ec015ea04a3}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This is a brief history of {ERP}—enterprise resource planning. Major {ERP} vendors are discussed as well as the major impact of developments in computer hardware and software on the industry. The industry consolidation that has recently occurred is also discussed. Interviews were conducted with Mr. Ed {McVaney}, founder of J.D. Edwards, Rick Allen, former {VP} of Finance and Administration, and Rick Snow, former Chief Legal Counsel of J.D. Edwards. Information was also obtained from Bill Robinson who held the position of “Industry Consultant” with {IBM} in the mid-1980s.}
@@ -518,8 +1022,8 @@
       \strng{authornamehash}{237be0216d49771d32eaf1f82c8afb0f}
       \strng{authorfullhash}{237be0216d49771d32eaf1f82c8afb0f}
       \strng{authorfullhashraw}{237be0216d49771d32eaf1f82c8afb0f}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The successful implementation of various enterprise resource planning ({ERP}) systems has provoked considerable interest over the last few years. Management has recently been enticed to look toward these new information technologies and philosophies of manufacturing for the key to survival or competitive edges. Although there is no shortage of glowing reports on the success of {ERP} installations, many companies have tossed millions of dollars in this direction with little to show for it. Since many of the {ERP} failures today can be attributed to inadequate planning prior to installation, we choose to analyze several critical planning issues including needs assessment and choosing a right {ERP} system, matching business process with the {ERP} system, understanding the organizational requirements, and economic and strategic justification. In addition, this study also identifies new windows of opportunity as well as challenges facing companies today as enterprise systems continue to evolve and expand.}
@@ -572,8 +1076,8 @@
       \strng{authornamehash}{1d6c135dd99078762e4b38a33baa8397}
       \strng{authorfullhash}{1d6c135dd99078762e4b38a33baa8397}
       \strng{authorfullhashraw}{1d6c135dd99078762e4b38a33baa8397}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Enterprise Resource Planning ({ERP}) und Supply Chain Management ({SCM}) gehören zu den Kernaufgaben eines Industrieunternehmens. Sie haben sich evolutionär aus der Produktionsplanung und -steuerung ({PPS}) herausentwickelt. Ein Großteil der betriebswirtschaftlichen, administrativen und teilweise auch technischen Aufgaben eines Industrieunternehmens wird heute durch {ERP}- und {SCM}-Systeme unterstützt. Das Buch erklärt die konzeptionellen Grundlagen der Systeme, zeigt auf, wie typische Geschäftsprozesse mit Hilfe praktischer Systeme (z.B. {SAP} {ERP}) durchgeführt werden, und behandelt aktuelle Entwicklungen wie Industrie 4.0. Fertigungsnahe und technische Anwendungssysteme werden mit ihren Schnitt stellen um {ERP} und {SCM} herum platziert. Die praktische Umsetzung theoretischer Konzepte illustrieren zahlreiche Anwendungsbeispiele.}
@@ -611,8 +1115,8 @@
       \strng{authornamehash}{73792d2b055a233154c8517a97bba61b}
       \strng{authorfullhash}{73792d2b055a233154c8517a97bba61b}
       \strng{authorfullhashraw}{73792d2b055a233154c8517a97bba61b}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Intro -- Vorwort -- Haftungsausschluss -- Inhaltsverzeichnis -- Über den Autor -- Teil I Marktsicht -- 1 Herausforderungen und Merkmale von {ERP}-Systemen -- 1.1 Einführung -- 1.2 {ERP} Evolution -- 1.3 Merkmale moderner {ERP}-Systeme -- 1.4 Mehrwert für Unternehmen -- 1.5 Fazit -- 2 {ERP}-Marktanalyse -- 2.1 Einführung -- 2.2 Marktvolumen -- 2.3 Wettbewerber -- 2.4 Marktprognose -- 2.5 Fazit -- 3 Zukünftige {ERP}-Trends -- 3.1 Einführung -- 3.2 Datenfabrik -- 3.3 Autonomes {ERP} -- 3.4 Kompossibles {ERP} -- 3.5 Industrie 4.0 -- 3.6 Two-Tier {ERP} -- 3.7 Fazit -- Teil {II} Funktionale Sicht -- 4 Fachabteilungen und Unternehmensdomänen -- 4.1 Betriebswirtschaftliche Anforderung -- Wertschöpfungskette und Domänen -- Fachabteilungen und Prozesse -- Organisationsformen -- Organisationsstruktur -- Funktionale Organisation -- Spartenorganisation -- Matrixorganisation -- Prozessorganisation -- 4.2 Technische Umsetzung -- Objekte im {SAP} S/4HANA Organisationsmanagement -- Beziehungen im {SAP} S/4HANA Organisationsmanagement -- Aufbauorganisation im {SAP} S/4HANA Organisationsmanagement -- 4.3 Fazit -- 5 Stammdaten des Geschäftspartners -- 5.1 Betriebswirtschaftliche Anforderung -- 5.2 Technische Umsetzung -- Datenmodell -- Fiori-Anwendungen -- Datenschutz -- 5.3 Erweiterbarkeit und Integration -- 5.4 Fazit -- 6 Stammdaten des Produkts -- 6.1 Betriebswirtschaftliche Anforderung -- 6.2 Technische Umsetzung -- Finanzwesen -- Vertrieb -- Einkauf -- Produkthierarchie -- Datenmigration -- Produktstammdaten zwischen mehreren Systemen replizieren -- Produktstamm pflegen -- Erweiterbarkeit des Produktstamms -- Self-Service-Konfiguration -- 6.3 {SAP} Master Data Governance -- 6.4 Fazit -- 7 Stammdaten der Stückliste -- 7.1 Betriebswirtschaftliche Anforderung -- 7.2 Technische Umsetzung -- Strukturtypen von Stücklisten -- Arten von Stücklisten -- Klassensystem -- Variantenkonfiguration}
@@ -665,8 +1169,8 @@
       \strng{editornamehash}{29cf3bdb554338abdfd6803bb9509619}
       \strng{editorfullhash}{29cf3bdb554338abdfd6803bb9509619}
       \strng{editorfullhashraw}{29cf3bdb554338abdfd6803bb9509619}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Jede Unternehmung besitzt softwaregestützte Werkzeuge zur Abbildung analoger und digitaler Prozesse. Dabei helfen diese Prozesse gezielt die Komplexität aus den einzelnen Sachverhalten zu vereinfachen und in einem entsprechenden Format wiederzugeben. Ein digitales Abbild eines Unternehmens entsteht. Allerdings kann dieses Format nur nach festgelegten Schemata die unterschiedlichen Datensätze klassifizieren, verifizieren und ausgeben und ist für weiterführende Ausprägungen technisch restriktiv zu behandeln. Um dieses Problem zukünftig zu überwinden wird der Ansatz {derKI} (Künstliche Intelligenz) als mögliches Werkzeug für Optimierungen angesehen. Mithilfe der {KI} kann die aktuelle Flut an Daten bestmöglich umgesetzt und zur Nutzung freigegeben werden. Diese Ausarbeitung stellt den Nutzen Anhand des führenden {ERP} Anbieters {SAP} vor und zeigt geeignete Beispiele mit Hinblick auf die konkrete Nutzung und Ausprägung im Echtbetrieb. Dabei sollen nicht nur die Potenziale dieser Technologie aufgezeigt werden, vielmehr sollen konkrete Vorbereitungsmaßnahmen und Indikatoren zur Veranschaulichung der aktuellen Möglichkeiten dienen. Diese Ausarbeitung wird unter den Gesichtspunkten der betriebswirtschaftlichen Kennzahlen ausgegeben und es wird nur vereinzelt auf technische Spezifikationen eingegangen.}
@@ -724,8 +1228,8 @@
       \strng{authornamehash}{f1de73c422febcefd7d6d68a08d72729}
       \strng{authorfullhash}{f1de73c422febcefd7d6d68a08d72729}
       \strng{authorfullhashraw}{f1de73c422febcefd7d6d68a08d72729}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Harness the power of Dynamics 365 Operations and discover all you need to implement {itAbout} This {BookMaster} all the necessary tools and resources to evaluate Dynamics 365 for Operations, implement it, and proactively maintain it.Troubleshoot your problems effectively with your Dynamics 365 {partnerLearn} about architecture, deployment choices, integration, configuration and data migration, development, testing, reporting and {BI}, support, upgrading, and more.Who This Book Is {ForThis} book is for technology leaders, project managers solution architects, and consultants who are planning to implement, are in the process of implementing, or are currently upgrading to Dynamics 365 for Operations. This book will help you effectively learn and implement Dynamics 365 for Operations.What You Will {LearnLearn} about Microsoft Dynamics 365, it\&\#39;s offerings, plans and details of Finance and Operations, Enterprise {editionUnderstand} the methodology and the tool, architecture, and deployment {optionsEffectively} plan and manage configurations and data migration, functional design, and technical {designUnderstand} integration frameworks, development concepts, best practices, and recommendations while developing new {solutionsLearn} how to leverage intelligence and analytics through Power {BI}, machine learning, {IOT}, and Cortana {intelligenceMaster} testing, training, going live, upgrading, and how to get support during and after the {implementationIn} {DetailMicrosoft} Dynamics 365 for Finance and Operations, Enterprise edition, is a modern, cloud-first, mobile-first, {ERP} solution suitable for medium and large enterprise customers.This book will guide you through the entire life cycle of a implementation, helping you avoid common pitfalls while increasing your efficiency and effectiveness at every stage of the project.Starting with the foundations, the book introduces the Microsoft Dynamics 365 offerings, plans, and products. You will be taken through the various methodologies, architectures, and deployments so you can select, implement, and maintain Microsoft Dynamics 365 for Finance and Operations, Enterprise edition. You will delve in-depth into the various phases of implementation: project management, analysis, configuration, data migration, design, development, using Power {BI}, machine learning, Cortana analytics for intelligence, testing, training, and finally deployment, support cycles, and upgrading. This book focuses on providing you with information about the product and the various concepts and tools, along with real-life examples from the field and guidance that will empower you to execute and implement Dynamics 365 for Finance and Operations, Enterprise edition.Style and {approachThis} book is a step-by-step guide focusing on implementing Dynamics 365 Operations solutions for your organization.}
@@ -754,8 +1258,8 @@
       \strng{authornamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
       \strng{authorfullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
       \strng{authorfullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eine Übersicht über Berichts- und Analyseoptionen, die in Dataverse- und Dynamics 365-Apps verfügbar sind.}
@@ -790,8 +1294,8 @@
       \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
       \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
       \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
@@ -825,8 +1329,8 @@
       \strng{authornamehash}{20bd5f789b03315d75a41c392115a8bf}
       \strng{authorfullhash}{20bd5f789b03315d75a41c392115a8bf}
       \strng{authorfullhashraw}{20bd5f789b03315d75a41c392115a8bf}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn about dual-write, which provides near-real-time interaction between customer engagement apps and finance and operations apps.}
@@ -860,8 +1364,8 @@
       \strng{authornamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
       \strng{authorfullhash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
       \strng{authorfullhashraw}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn about how to enable finance and operations apps virtual entities in Microsoft Dataverse, including an overview on how to generate virtual entities.}
@@ -896,8 +1400,8 @@
       \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
       \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
@@ -931,8 +1435,8 @@
       \strng{authornamehash}{42192fe26e7f6ee462d65b157127d12d}
       \strng{authorfullhash}{42192fe26e7f6ee462d65b157127d12d}
       \strng{authorfullhashraw}{42192fe26e7f6ee462d65b157127d12d}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Build intelligent {AI} agents effortlessly with Microsoft Copilot Studio. Create, customize, and deploy agents across platforms using a low-code interface.}
@@ -983,8 +1487,8 @@
       \strng{authornamehash}{c70aaea2568720f5f3d6d013ac42fe63}
       \strng{authorfullhash}{bb8209e2888b6f5e921daaf056d0f340}
       \strng{authorfullhashraw}{bb8209e2888b6f5e921daaf056d0f340}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The 1956 Dartmouth summer research project on artificial intelligence was initiated by this August 31, 1955 proposal, authored by John {McCarthy}, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. The original typescript consisted of 17 pages plus a title page. Copies of the typescript are housed in the archives at Dartmouth College and Stanford University. The first 5 papers state the proposal, and the remaining pages give qualifications and interests of the four who proposed the study. In the interest of brevity, this article reproduces only the proposal itself, along with the short autobiographical statements of the proposers.}
@@ -1033,8 +1537,8 @@
       \strng{authornamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhashraw}{627c3779677d0eaf3312e5b67e8cbe0c}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article for the layman answers basic questions about artiﬁcial intelligence. The opinions expressed here are not all consensus opinion among researchers in {AI}.}
@@ -1091,8 +1595,8 @@
       \strng{editornamehash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhashraw}{4ee8179c19742bb6e2e91eb2b28bce4b}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Bis vor kurzem galt die Künstliche Intelligenz ({KI}) noch als eher ein abstraktes Konzept. Die Fortschritte vollzogen sich in atemberaubender Geschwindigkeit. Wir beginnen das aktuelle Kapitel mit der Definition und Einordnung des Begriffes „{KI}“. Der Abschnitt definiert weiterhin die relevanten Begriffe wie „starke {KI}“ oder „schwache {KI}“ und geht auf die drei Leistungsbestandteile (Neuronale Netze, Maschinelles Lernen, Deep Learning) ein. Darüber hinaus behandelt dieses Kapitel die wesentlichen Treiber der Künstlichen Intelligenz wie Big Data und das Internet der Dinge, die im Folgenden näher erläutert werden.}
@@ -1123,8 +1627,8 @@
       \keyw{Big Data,Internet of Things,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
     \endentry
     \entry{noauthor_was_2020}{online}{}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz ({KI}) gilt als „zukunftsweisende Technologie“. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
       \field{day}{14}
@@ -1191,8 +1695,8 @@
       \strng{editoranamehash}{754b502b2e716efb687a1f1b9e6d0345}
       \strng{editorafullhash}{754b502b2e716efb687a1f1b9e6d0345}
       \strng{editorafullhashraw}{754b502b2e716efb687a1f1b9e6d0345}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{Third edition, Global edition}
@@ -1231,8 +1735,8 @@
       \strng{authornamehash}{d331eeb7f00e650950ccadcb9c47efec}
       \strng{authorfullhash}{d331eeb7f00e650950ccadcb9c47efec}
       \strng{authorfullhashraw}{d331eeb7f00e650950ccadcb9c47efec}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{Nachdr.}
@@ -1269,8 +1773,8 @@
       \strng{authornamehash}{afd5fe6db85c66ec3bead52ae718514e}
       \strng{authorfullhash}{afd5fe6db85c66ec3bead52ae718514e}
       \strng{authorfullhashraw}{afd5fe6db85c66ec3bead52ae718514e}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{2nd ed}
@@ -1306,8 +1810,8 @@
       \strng{authornamehash}{91e57481898b943d6a72a1deba06a6a9}
       \strng{authorfullhash}{91e57481898b943d6a72a1deba06a6a9}
       \strng{authorfullhashraw}{91e57481898b943d6a72a1deba06a6a9}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{2nd ed}
@@ -1354,8 +1858,8 @@
       \strng{editornamehash}{d31e8b348bb58445891da3c33defa0ea}
       \strng{editorfullhash}{d31e8b348bb58445891da3c33defa0ea}
       \strng{editorfullhashraw}{d31e8b348bb58445891da3c33defa0ea}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Often in water quality management, understanding the relationship between input and output data might be a complicated process. In this situation Data Driven Models using information and collected data (input data) find out the relationship between inputs and outputs. In this regard, Artificial Neural Network ({ANN}) is one of the Data Driven Models which has recently been applied as a tool for modeling complicated processes. In this chapter, after reviewing the developing process of {ANN} in water quality management, the theory of the {ANN} is mentioned in detail for both static and dynamic methods. Data preparation, learning rate and model efficiency including selection of number of neurons in hiding layer which has a minimum error in learning rate and network efficiency is described in detail. At the end step, as a case study water quality of Zaribar Lake located in the Northwestern part of Iran, using Multilayer Perceptron ({MLP}) neural network method are described.}
@@ -1401,8 +1905,8 @@
       \strng{authornamehash}{3cd892d672c7d965507b2e56ffeed176}
       \strng{authorfullhash}{3cd892d672c7d965507b2e56ffeed176}
       \strng{authorfullhashraw}{3cd892d672c7d965507b2e56ffeed176}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Deep Learning ist ein relativ neuer Ansatz im Bereich des maschinellen Lernens, einem Teilgebiet der künstlichen Intelligenz. Das Fachgebiet des maschinellen Lernens beschäftigt sich allgemein mit Verfahren, mit deren Hilfe Computer selbständig bestimmte Sachverhalte lernen können, z.B. ob auf einem Bild ein bestimmtes Gesicht abgebildet ist. Deep Learning zeichnet sich dadurch aus, dass der Lernprozess hier in Form von mehreren Ebenen hierarchisch organisiert ist. Höhere Ebenen beinhalten dabei zunehmend abstraktere und komplexere Konzepte, die auf den jeweiligen Konzepten der niedrigeren Ebenen basieren.}
@@ -1457,8 +1961,8 @@
       \strng{authornamehash}{3ae53fe582e8a815b118d26947eaa326}
       \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
       \strng{authorfullhashraw}{3ae53fe582e8a815b118d26947eaa326}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-262-03561-3}
@@ -1524,8 +2028,8 @@
       \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
       \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
       \strng{authorfullhashraw}{cb26e47f6b8133865271fc8483132297}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Advances in Neural Information Processing Systems}
@@ -1658,8 +2162,8 @@
       \strng{authornamehash}{225da8f00d8ecab8ccc3ef50defd1069}
       \strng{authorfullhash}{7511cea034999abf7d76ad64aed48690}
       \strng{authorfullhashraw}{7511cea034999abf7d76ad64aed48690}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Language is essentially a complex, intricate system of human expressions governed by grammatical rules. It poses a significant challenge to develop capable {AI} algorithms for comprehending and grasping a language. As a major approach, language modeling has been widely studied for language understanding and generation in the past two decades, evolving from statistical language models to neural language models. Recently, pre-trained language models ({PLMs}) have been proposed by pre-training Transformer models over large-scale corpora, showing strong capabilities in solving various {NLP} tasks. Since researchers have found that model scaling can lead to performance improvement, they further study the scaling effect by increasing the model size to an even larger size. Interestingly, when the parameter scale exceeds a certain level, these enlarged language models not only achieve a significant performance improvement but also show some special abilities that are not present in small-scale language models. To discriminate the difference in parameter scale, the research community has coined the term large language models ({LLM}) for the {PLMs} of significant size. Recently, the research on {LLMs} has been largely advanced by both academia and industry, and a remarkable progress is the launch of {ChatGPT}, which has attracted widespread attention from society. The technical evolution of {LLMs} has been making an important impact on the entire {AI} community, which would revolutionize the way how we develop and use {AI} algorithms. In this survey, we review the recent advances of {LLMs} by introducing the background, key findings, and mainstream techniques. In particular, we focus on four major aspects of {LLMs}, namely pre-training, adaptation tuning, utilization, and capacity evaluation. Besides, we also summarize the available resources for developing {LLMs} and discuss the remaining issues for future directions.}
@@ -1694,8 +2198,8 @@
       \strng{authornamehash}{67a0eb46c9269a1b1e9dabb3f03c378d}
       \strng{authorfullhash}{67a0eb46c9269a1b1e9dabb3f03c378d}
       \strng{authorfullhashraw}{67a0eb46c9269a1b1e9dabb3f03c378d}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Der Schnellstart in die praktische Arbeit mit {LLMs} Das Buch bietet einen Überblick über zentrale Konzepte und Techniken von {LLMs} wie z.B. {ChatGPT} und zeigt das Potenzial von Open-Source- und Closed-Source-Modellen Es erläutert, wie Large Language Models funktionieren und wie sie für Aufgaben des Natural Language Processing ({NLP}) genutzt werden Auch für interessierte Nicht-Data-Scientists mit Python-Kenntnissen verständlich Themen z.B.: die {ChatGPT}-{API}, Prompt-Engineering, Chatbot-Personas, Cloud-Bereitstellung; deckt auch {GPT}-4 ab Large Language Models ({LLMs}) wie {ChatGPT} sind enorm leistungsfähig, aber auch sehr komplex. Praktikerinnen und Praktiker stehen daher vor vielfältigen Herausforderungen, wenn sie {LLMs} in ihre eigenen Anwendungen integrieren wollen. In dieser Einführung räumt Data Scientist und {KI}-Unternehmer Sinan Ozdemir diese Hürden aus dem Weg und bietet einen Leitfaden für den Einsatz von {LLMs} zur Lösung praktischer Probleme des Natural Language Processings. Sinan Ozdemir hat alles zusammengestellt, was Sie für den Einstieg benötigen: Schritt-für-Schritt-Anleitungen, Best Practices, Fallstudien aus der Praxis, Übungen und vieles mehr. Er stellt die Funktionsweise von {LLMs} vor und unterstützt Sie so dabei, das für Ihre Anwendung passende Modell und geeignete Datenformate und Parameter auszuwählen. Dabei zeigt er das Potenzial sowohl von Closed-Source- als auch von Open-Source-{LLMs} wie {GPT}-3, {GPT}-4 und {ChatGPT}, {BERT} und T5, {GPT}-J und {GPT}-Neo, Cohere sowie {BART}. Lernen Sie die Schlüsselkonzepte kennen: Transfer Learning, Feintuning, Attention, Embeddings, Tokenisierung und mehr Nutzen Sie {APIs} und Python, um {LLMs} an Ihre Anforderungen anzupassen Beherrschen Sie Prompt-Engineering-Techniken wie Ausgabe-Strukturierung, Gedankenketten und Few-Shot-Prompting Passen Sie {LLM}-Embeddings an, um eine Empfehlungsengine mit eigenen Benutzerdaten neu zu erstellen Konstruieren Sie multimodale Transformer-Architekturen mithilfe von Open-Source-{LLMs} Optimieren Sie {LLMs} mit Reinforcement Learning from Human and {AI} Feedback ({RLHF}/{RLAIF}) Deployen Sie Prompts und benutzerdefinierte, feingetunte {LLMs} in die Cloud}
@@ -1736,8 +2240,8 @@
       \strng{authornamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
       \strng{authorfullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
       \strng{authorfullhashraw}{0ad7b7b50f220390cbf1c36575c6a49a}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{6. Auflage}
@@ -1768,8 +2272,8 @@
       \strng{authornamehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
       \strng{authorfullhash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
       \strng{authorfullhashraw}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Agent software is a rapidly developing area of research. However, the overuse of the word “agent” has tended to mask the fact that, in reality, there is a truly heterogeneous body of research being carried out under this banner. This overview paper presents a typology of agents. Next, it places agents in context, defines them and then goes on, inter alia, to overview critically the rationales, hypotheses, goals, challenges and state-of-the-art demonstrators of the various agent types in our typology. Hence, it attempts to make explicit much of what is usually implicit in the agents literature. It also proceeds to overview some other general issues which pertain to all the types of agents in the typology. This paper largely reviews software agents, and it also contains some strong opinions that are not necessarily widely accepted by the agent community.}
@@ -1852,8 +2356,8 @@
       \strng{editornamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In diesem Kapitel wird zunächst in das Konzept der {KI}-Agenten eingeführt. Es ist für Unternehmen wichtig, sich mit diesen Systemen auseinanderzusetzen, da sie zukünftig viele interne und externe Aufgaben und Prozesse vollkommen autonom ausführen können. Dazu werden unterschiedliche {KI}-Agenten-Konzepte vorgestellt und beschrieben, wie die Agenten untereinander und mit weiteren Systemen interagieren und Daten sowie Informationen austauschen. Anschließend wird beschrieben, warum das Prompt Engineering in diesem Kontext so wichtig ist. Abschließend werden unterschiedliche Anwendungsfälle für {KI}-Agenten im Unternehmen vorgestellt.}
@@ -1915,8 +2419,8 @@
       \strng{editornamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
       \strng{editorfullhash}{9efbe0c7d22c50bb628b4be07c9bdf73}
       \strng{editorfullhashraw}{9efbe0c7d22c50bb628b4be07c9bdf73}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{{KI}-Agenten, oder {KI}-Agenten, repräsentieren eine fortschrittliche Form der künstlichen Intelligenz, die über die Fähigkeiten herkömmlicher {KI}-Systeme hinausgeht. Im Kern sind {KI}-Agenten {IT}-Systeme, die autonom Aufgaben erledigen können, indem sie ihre Umgebung kennen, Entscheidungen treffen und darauf basierend handeln. Sie sind somit in der Lage, komplexe Aufgaben zu bewältigen, die normalerweise menschliche Intelligenz erfordern würden.}
@@ -2096,8 +2600,8 @@
       \strng{authornamehash}{0e423dc8697bf2e388c1f1182149c0a6}
       \strng{authorfullhash}{5050bd3b41453bc9f40b9d957faa848e}
       \strng{authorfullhashraw}{5050bd3b41453bc9f40b9d957faa848e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{For a long time, researchers have sought artificial intelligence ({AI}) that matches or exceeds human intelligence. {AI} agents, which are artificial entities capable of sensing the environment, making decisions, and taking actions, are seen as a means to achieve this goal. Extensive efforts have been made to develop {AI} agents, with a primary focus on refining algorithms or training strategies to enhance specific skills or particular task performance. The field, however, lacks a sufficiently general and powerful model to serve as a foundation for building general agents adaptable to diverse scenarios. With their versatile capabilities, large language models ({LLMs}) pave a promising path for the development of general {AI} agents, and substantial progress has been made in the realm of {LLM}-based agents. In this article, we conduct a comprehensive survey on {LLM}-based agents, covering their construction frameworks, application scenarios, and the exploration of societies built upon {LLM}-based agents. We also conclude some potential future directions and open problems in this flourishing field.}
@@ -2133,306 +2637,8 @@
       \endverb
       \keyw{natural language processing,agent society,{AI} agents,large language models,{LLM}-based agents}
     \endentry
-    \entry{snyder_literature_2019}{article}{}{}
-      \name{author}{1}{}{%
-        {{hash=97e1885e69f2ff2a85292e9e3b93c171}{%
-           family={Snyder},
-           familyi={S\bibinitperiod},
-           given={Hannah},
-           giveni={H\bibinitperiod}}}%
-      }
-      \strng{namehash}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{fullhash}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{fullhashraw}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{bibnamehash}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{authorbibnamehash}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{authornamehash}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{authorfullhash}{97e1885e69f2ff2a85292e9e3b93c171}
-      \strng{authorfullhashraw}{97e1885e69f2ff2a85292e9e3b93c171}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{Knowledge production within the field of business research is accelerating at a tremendous speed while at the same time remaining fragmented and interdisciplinary. This makes it hard to keep up with state-of-the-art and to be at the forefront of research, as well as to assess the collective evidence in a particular area of business research. This is why the literature review as a research method is more relevant than ever. Traditional literature reviews often lack thoroughness and rigor and are conducted ad hoc, rather than following a specific methodology. Therefore, questions can be raised about the quality and trustworthiness of these types of reviews. This paper discusses literature review as a methodology for conducting research and offers an overview of different types of reviews, as well as some guidelines to how to both conduct and evaluate a literature review paper. It also discusses common pitfalls and how to get literature reviews published.}
-      \field{day}{1}
-      \field{issn}{0148-2963}
-      \field{journaltitle}{Journal of Business Research}
-      \field{month}{11}
-      \field{shortjournal}{Journal of Business Research}
-      \field{shorttitle}{Literature review as a research methodology}
-      \field{title}{Literature review as a research methodology: An overview and guidelines}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2025}
-      \field{volume}{104}
-      \field{year}{2019}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{333\bibrangedash 339}
-      \range{pages}{7}
-      \verb{doi}
-      \verb 10.1016/j.jbusres.2019.07.039
-      \endverb
-      \verb{file}
-      \verb ScienceDirect Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\H5GHCLWU\\S0148296319304564.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.sciencedirect.com/science/article/pii/S0148296319304564
-      \endverb
-      \verb{url}
-      \verb https://www.sciencedirect.com/science/article/pii/S0148296319304564
-      \endverb
-      \keyw{Literature review,Integrative review,Research methodology,Synthesis,Systematic review}
-    \endentry
-    \entry{page_prisma_2021}{article}{}{}
-      \name{author}{26}{}{%
-        {{hash=016b86afb0a98379bf77b3f074f34761}{%
-           family={Page},
-           familyi={P\bibinitperiod},
-           given={Matthew\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=8c647eae0c93ec008ebe092eb144eeee}{%
-           family={{McKenzie}},
-           familyi={M\bibinitperiod},
-           given={Joanne\bibnamedelima E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
-           family={Bossuyt},
-           familyi={B\bibinitperiod},
-           given={Patrick\bibnamedelima M.},
-           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=fa885033d820893c45692b99c8b4bbc6}{%
-           family={Boutron},
-           familyi={B\bibinitperiod},
-           given={Isabelle},
-           giveni={I\bibinitperiod}}}%
-        {{hash=8fd2430e75c6bb84661c811e408f6377}{%
-           family={Hoffmann},
-           familyi={H\bibinitperiod},
-           given={Tammy\bibnamedelima C.},
-           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=9da5818ae381747539d8a98ecf2d13b1}{%
-           family={Mulrow},
-           familyi={M\bibinitperiod},
-           given={Cynthia\bibnamedelima D.},
-           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
-           family={Shamseer},
-           familyi={S\bibinitperiod},
-           given={Larissa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=640f8392f6a7388c779d2b60fdd93350}{%
-           family={Tetzlaff},
-           familyi={T\bibinitperiod},
-           given={Jennifer\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=4ca61686dc125837a0d9741be62f3427}{%
-           family={Akl},
-           familyi={A\bibinitperiod},
-           given={Elie\bibnamedelima A.},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=e822c8724e88eb518ec5eb8015bbaab0}{%
-           family={Brennan},
-           familyi={B\bibinitperiod},
-           given={Sue\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=01e789422f68da54234ac2f1e791eac4}{%
-           family={Chou},
-           familyi={C\bibinitperiod},
-           given={Roger},
-           giveni={R\bibinitperiod}}}%
-        {{hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
-           family={Glanville},
-           familyi={G\bibinitperiod},
-           given={Julie},
-           giveni={J\bibinitperiod}}}%
-        {{hash=18acccd95580a48bd6c5f4010bb058a7}{%
-           family={Grimshaw},
-           familyi={G\bibinitperiod},
-           given={Jeremy\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
-           family={Hróbjartsson},
-           familyi={H\bibinitperiod},
-           given={Asbjørn},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
-           family={Lalu},
-           familyi={L\bibinitperiod},
-           given={Manoj\bibnamedelima M.},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0100456cf4ced53a2aab31f2c3055f6a}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Tianjing},
-           giveni={T\bibinitperiod}}}%
-        {{hash=6e270d436c864242b119a3605283c8bf}{%
-           family={Loder},
-           familyi={L\bibinitperiod},
-           given={Elizabeth\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=d149e7026acd95db856d30314dba9a9e}{%
-           family={Mayo-Wilson},
-           familyi={M\bibinithyphendelim W\bibinitperiod},
-           given={Evan},
-           giveni={E\bibinitperiod}}}%
-        {{hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
-           family={{McDonald}},
-           familyi={M\bibinitperiod},
-           given={Steve},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b7314b4cde4c01764b4b3580e015b768}{%
-           family={{McGuinness}},
-           familyi={M\bibinitperiod},
-           given={Luke\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=d600e9a8a01053464e53fc2aadeb009b}{%
-           family={Stewart},
-           familyi={S\bibinitperiod},
-           given={Lesley\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
-           family={Thomas},
-           familyi={T\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
-           family={Tricco},
-           familyi={T\bibinitperiod},
-           given={Andrea\bibnamedelima C.},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=75fdbaed8e43fddb210da313631d8639}{%
-           family={Welch},
-           familyi={W\bibinitperiod},
-           given={Vivian\bibnamedelima A.},
-           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=792d7051a4c2169e6aac0073ce62ba8e}{%
-           family={Whiting},
-           familyi={W\bibinitperiod},
-           given={Penny},
-           giveni={P\bibinitperiod}}}%
-        {{hash=af56ff14657d1110bff4b784198b0505}{%
-           family={Moher},
-           familyi={M\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
-      \strng{fullhash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{fullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{bibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{authorbibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
-      \strng{authorfullhash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{authorfullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{{<}p{>}The Preferred Reporting Items for Systematic reviews and Meta-Analyses ({PRISMA}) statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did, and what they found. Over the past decade, advances in systematic review methodology and terminology have necessitated an update to the guideline. The {PRISMA} 2020 statement replaces the 2009 statement and includes new reporting guidance that reflects advances in methods to identify, select, appraise, and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. In this article, we present the {PRISMA} 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the {PRISMA} 2020 abstract checklist, and the revised flow diagrams for original and updated reviews.{<}/p{>}}
-      \field{day}{29}
-      \field{issn}{1756-1833}
-      \field{journaltitle}{{BMJ}}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{note}{Publisher: British Medical Journal Publishing Group Section: Research Methods \&amp; Reporting}
-      \field{shortjournal}{{BMJ}}
-      \field{shorttitle}{The {PRISMA} 2020 statement}
-      \field{title}{The {PRISMA} 2020 statement: an updated guideline for reporting systematic reviews}
-      \field{urlday}{8}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{volume}{372}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{n71}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1136/bmj.n71
-      \endverb
-      \verb{file}
-      \verb Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\MJC5Y7GU\\Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.bmj.com/content/372/bmj.n71
-      \endverb
-      \verb{url}
-      \verb https://www.bmj.com/content/372/bmj.n71
-      \endverb
-    \endentry
-    \entry{hevner_design_2010}{incollection}{}{}
-      \name{author}{2}{}{%
-        {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
-           family={Hevner},
-           familyi={H\bibinitperiod},
-           given={Alan},
-           giveni={A\bibinitperiod}}}%
-        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
-           family={Chatterjee},
-           familyi={C\bibinitperiod},
-           given={Samir},
-           giveni={S\bibinitperiod}}}%
-      }
-      \name{editor}{2}{}{%
-        {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
-           family={Hevner},
-           familyi={H\bibinitperiod},
-           given={Alan},
-           giveni={A\bibinitperiod}}}%
-        {{hash=edf3e165ce4429b30d49e353a7d1417a}{%
-           family={Chatterjee},
-           familyi={C\bibinitperiod},
-           given={Samir},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boston, {MA}}%
-      }
-      \list{publisher}{1}{%
-        {Springer {US}}%
-      }
-      \strng{namehash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{fullhash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{fullhashraw}{aec596f25e71075259e73bc2be95a95e}
-      \strng{bibnamehash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{authorbibnamehash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{authornamehash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{authorfullhash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{authorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
-      \strng{editorbibnamehash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{editornamehash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{editorfullhash}{aec596f25e71075259e73bc2be95a95e}
-      \strng{editorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Design activities are central to most applied disciplines. Research in design has a long history in many fields including architecture, engineering, education, psychology, and the fine arts (Cross 2001). The computing and information technology ({CIT}) field since its advent in the late 1940s has appropriated many of the ideas, concepts, and methods of design science that have originated in these other disciplines. However, information systems ({IS}) as composed of inherently mutable and adaptable hardware, software, and human interfaces provide many unique and challenging design problems that call for new and creative ideas.}
-      \field{booktitle}{Design Research in Information Systems: Theory and Practice}
-      \field{isbn}{978-1-4419-5653-8}
-      \field{langid}{english}
-      \field{title}{Design Science Research in Information Systems}
-      \field{urlday}{18}
-      \field{urlmonth}{12}
-      \field{urlyear}{2025}
-      \field{year}{2010}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{9\bibrangedash 22}
-      \range{pages}{14}
-      \verb{doi}
-      \verb 10.1007/978-1-4419-5653-8_2
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/978-1-4419-5653-8_2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/978-1-4419-5653-8_2
-      \endverb
-      \keyw{Design Cycle,Design Science,Group Decision Support System,Information System,Research Cycle}
-    \endentry
   \enddatalist
+  \missing{mayring_qualitative_2015}
   \missing{wortmann_evolution_1998}
 \endrefsection
 \endinput

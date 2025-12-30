@@ -1,8 +1,21 @@
-\section{Anwendung des Design Science Research Ansatzes}
+\section{Entwicklung des KI-Agenten}
 %Einleitung in das Kapitel
+Aufbauen auf die in Kapitel 5 definierten Anforderungen wird in diesem Kapitel die Entwicklung des \ac{KI}-Agenten beschrieben. Dabei werden zu beginn die Ziele des \ac{KI}-Agenten auf Grundlage der funktionalen und nicht-funktionalen Anforderungen festgelegt. Auf Basis dieser Ziele wird anschließend der Entwurf für die Entwicklung des \ac{KI}-Agenten erstellt, welcher die Architektur, die benötigten Datenquellen sowie die Interaktionsmöglichkeiten mit dem Nutzer umfasst. Darauf aufbauend erfolgt die eigentliche Entwicklung und Implementierung des \ac{KI}-Agenten. Abschließend wird der entwickelte \ac{KI}-Agent getestet und evaluiert, um dessen Funktionalität und Praxistauglichkeit zu überprüfen.
 
 %Unterkapitel
-\subsection{Anforderungsanalyse}
+\subsection{Ziele des KI-Agenten}
+Durch die in Kapitel 5 identifizierten funktionalen und nicht-funktionalen Anforderungen lassen sich klare Ziele für den \ac{KI}-Agenten ableiten, jedoch ist wichtig zu erwähnen, dass nicht alle definierten Anforderungen vollständig umgesetzt werden. Dies liegt sowohl daran, dass der Umfang dieser Arbeit begrenzt ist und somit keine vollumfängliche Entwicklung eines \ac{KI}-Agenten zulässt, als auch daran, dass von den Interviewten klargestellt wurde, dass zum Start und initialen Testen ein reduzierter aber dafür funktionsumfang als ausreichend erachtet wird. 
+Die im Folgenden definierten Ziele dienen als Grundlage für die anschließende Entwicklung und Implementierung des Agenten.
+
+Das Grundlegende Ziel des \ac{KI}-Agenten ist es, Anwender bei der Anlage von Angeboten in \ac{D365FnSCM} gezielt zu unterstützen und den Angebotsprozess effizienter und weniger fehleranfällig zu gestalten. Der KI-Agent soll insbesondere dazu beitragen, den manuellen Aufwand bei der Angebotserstellung zu reduzieren und Anwender bei wiederkehrenden sowie zeitintensiven Tätigkeiten zu entlasten. Um dieses Ziel zu erreichen, werden verschiedene Unterziele definiert.
+
+Das Wichtigste Unterziel des \ac{KI}-Agenten ist es, zu ermöglichen, dass Nutzer mit dem Agenten die Möglichkeit haben Angebotsköpfe inklusive dazugehöriger Felder wie beispielsweise die Debitorennummer oder die Referenznummer anzulegen. Darüber hinaus soll der Agent die Möglichkeit haben Artikel anhand von Artikelnummern oder Beschreibungen zu identifizieren und diese automatisch in das Angebot einzufügen.
+
+Zudem hat der Agent das Ziel, Anwender bei der Preisfindung zu unterstützen, indem relevante historische Angebots- und Preisinformationen durchsucht werden können, um so passende Preise für die aktuellen Angebote zu ermitteln. Darüber hinaus soll der KI-Agent Anwender aktiv auf fehlende oder inkonsistente Informationen hinweisen und so eine frühzeitige Korrektur ermöglichen.
+
+Ein weiteres Ziel ist die Bereitstellung des \ac{KI}-Agenten in Form eines Chat-Interfaces, über das die zuvor beschriebenen Unterstützungsfunktionen umgesetzt werden sollen. Über dieses Interface sollen Anwender während der Angebotsanlage mit dem Agenten interagieren und sowohl die Anlage von Angebotsköpfen als auch die Identifikation von Artikeln und die Unterstützung bei der Preisfindung schrittweise durchführen können. Das Wichtigste ist hierbei ist, dass hierbei die Anwendung des \ac{KI}-Agenten intuitiv und einfach gestaltet ist, um eine hohe Akzeptanz bei den Anwendern zu gewährleisten.
+
+
 \subsection{Entwurf der Entwicklung}
 \subsection{Entwicklung und Implementierung}
 \subsection{Test und Evaluation}
