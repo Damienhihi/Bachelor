@@ -358,183 +358,6 @@
       \endverb
       \keyw{Literature review,Integrative review,Research methodology,Synthesis,Systematic review}
     \endentry
-    \entry{page_prisma_2021}{article}{}{}
-      \name{author}{26}{}{%
-        {{hash=016b86afb0a98379bf77b3f074f34761}{%
-           family={Page},
-           familyi={P\bibinitperiod},
-           given={Matthew\bibnamedelima J.},
-           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
-        {{hash=8c647eae0c93ec008ebe092eb144eeee}{%
-           family={{McKenzie}},
-           familyi={M\bibinitperiod},
-           given={Joanne\bibnamedelima E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=c342b2f9e98d8bcaabcbd5ec10522ad4}{%
-           family={Bossuyt},
-           familyi={B\bibinitperiod},
-           given={Patrick\bibnamedelima M.},
-           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=fa885033d820893c45692b99c8b4bbc6}{%
-           family={Boutron},
-           familyi={B\bibinitperiod},
-           given={Isabelle},
-           giveni={I\bibinitperiod}}}%
-        {{hash=8fd2430e75c6bb84661c811e408f6377}{%
-           family={Hoffmann},
-           familyi={H\bibinitperiod},
-           given={Tammy\bibnamedelima C.},
-           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=9da5818ae381747539d8a98ecf2d13b1}{%
-           family={Mulrow},
-           familyi={M\bibinitperiod},
-           given={Cynthia\bibnamedelima D.},
-           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
-        {{hash=d1c6b0b224969ed1ccfe648b31dc7de4}{%
-           family={Shamseer},
-           familyi={S\bibinitperiod},
-           given={Larissa},
-           giveni={L\bibinitperiod}}}%
-        {{hash=640f8392f6a7388c779d2b60fdd93350}{%
-           family={Tetzlaff},
-           familyi={T\bibinitperiod},
-           given={Jennifer\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=4ca61686dc125837a0d9741be62f3427}{%
-           family={Akl},
-           familyi={A\bibinitperiod},
-           given={Elie\bibnamedelima A.},
-           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=e822c8724e88eb518ec5eb8015bbaab0}{%
-           family={Brennan},
-           familyi={B\bibinitperiod},
-           given={Sue\bibnamedelima E.},
-           giveni={S\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=01e789422f68da54234ac2f1e791eac4}{%
-           family={Chou},
-           familyi={C\bibinitperiod},
-           given={Roger},
-           giveni={R\bibinitperiod}}}%
-        {{hash=19c8626c5dbf0aaa5ca05c6fa19ad49f}{%
-           family={Glanville},
-           familyi={G\bibinitperiod},
-           given={Julie},
-           giveni={J\bibinitperiod}}}%
-        {{hash=18acccd95580a48bd6c5f4010bb058a7}{%
-           family={Grimshaw},
-           familyi={G\bibinitperiod},
-           given={Jeremy\bibnamedelima M.},
-           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=aa6b6295cc5b496c1858297b2a62fa5f}{%
-           family={Hróbjartsson},
-           familyi={H\bibinitperiod},
-           given={Asbjørn},
-           giveni={A\bibinitperiod}}}%
-        {{hash=0a2541509ccb6793b91fce2cf0f72dcc}{%
-           family={Lalu},
-           familyi={L\bibinitperiod},
-           given={Manoj\bibnamedelima M.},
-           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=0100456cf4ced53a2aab31f2c3055f6a}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Tianjing},
-           giveni={T\bibinitperiod}}}%
-        {{hash=6e270d436c864242b119a3605283c8bf}{%
-           family={Loder},
-           familyi={L\bibinitperiod},
-           given={Elizabeth\bibnamedelima W.},
-           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
-        {{hash=d149e7026acd95db856d30314dba9a9e}{%
-           family={Mayo-Wilson},
-           familyi={M\bibinithyphendelim W\bibinitperiod},
-           given={Evan},
-           giveni={E\bibinitperiod}}}%
-        {{hash=4ed61e5ea9f906c20e5e737e3d84c854}{%
-           family={{McDonald}},
-           familyi={M\bibinitperiod},
-           given={Steve},
-           giveni={S\bibinitperiod}}}%
-        {{hash=b7314b4cde4c01764b4b3580e015b768}{%
-           family={{McGuinness}},
-           familyi={M\bibinitperiod},
-           given={Luke\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=d600e9a8a01053464e53fc2aadeb009b}{%
-           family={Stewart},
-           familyi={S\bibinitperiod},
-           given={Lesley\bibnamedelima A.},
-           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=1ad8d835a95f8df394e6faf5d8e0548f}{%
-           family={Thomas},
-           familyi={T\bibinitperiod},
-           given={James},
-           giveni={J\bibinitperiod}}}%
-        {{hash=0b396572e13e5a8b08e1ee1d493aaa2a}{%
-           family={Tricco},
-           familyi={T\bibinitperiod},
-           given={Andrea\bibnamedelima C.},
-           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=75fdbaed8e43fddb210da313631d8639}{%
-           family={Welch},
-           familyi={W\bibinitperiod},
-           given={Vivian\bibnamedelima A.},
-           giveni={V\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=792d7051a4c2169e6aac0073ce62ba8e}{%
-           family={Whiting},
-           familyi={W\bibinitperiod},
-           given={Penny},
-           giveni={P\bibinitperiod}}}%
-        {{hash=af56ff14657d1110bff4b784198b0505}{%
-           family={Moher},
-           familyi={M\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{69c1efa4f6ab0deea3df12876fea0709}
-      \strng{fullhash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{fullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{bibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{authorbibnamehash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{authornamehash}{69c1efa4f6ab0deea3df12876fea0709}
-      \strng{authorfullhash}{b37368b8b0982e5c110334919bd2e0e1}
-      \strng{authorfullhashraw}{b37368b8b0982e5c110334919bd2e0e1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{{<}p{>}The Preferred Reporting Items for Systematic reviews and Meta-Analyses ({PRISMA}) statement, published in 2009, was designed to help systematic reviewers transparently report why the review was done, what the authors did, and what they found. Over the past decade, advances in systematic review methodology and terminology have necessitated an update to the guideline. The {PRISMA} 2020 statement replaces the 2009 statement and includes new reporting guidance that reflects advances in methods to identify, select, appraise, and synthesise studies. The structure and presentation of the items have been modified to facilitate implementation. In this article, we present the {PRISMA} 2020 27-item checklist, an expanded checklist that details reporting recommendations for each item, the {PRISMA} 2020 abstract checklist, and the revised flow diagrams for original and updated reviews.{<}/p{>}}
-      \field{day}{29}
-      \field{issn}{1756-1833}
-      \field{journaltitle}{{BMJ}}
-      \field{langid}{english}
-      \field{month}{3}
-      \field{note}{Publisher: British Medical Journal Publishing Group Section: Research Methods \&amp; Reporting}
-      \field{shortjournal}{{BMJ}}
-      \field{shorttitle}{The {PRISMA} 2020 statement}
-      \field{title}{The {PRISMA} 2020 statement: an updated guideline for reporting systematic reviews}
-      \field{urlday}{8}
-      \field{urlmonth}{6}
-      \field{urlyear}{2025}
-      \field{volume}{372}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \field{pages}{n71}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1136/bmj.n71
-      \endverb
-      \verb{file}
-      \verb Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\MJC5Y7GU\\Page et al. - 2021 - The PRISMA 2020 statement an updated guideline for reporting systematic reviews.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.bmj.com/content/372/bmj.n71
-      \endverb
-      \verb{url}
-      \verb https://www.bmj.com/content/372/bmj.n71
-      \endverb
-    \endentry
     \entry{hevner_design_2010}{incollection}{}{}
       \name{author}{2}{}{%
         {{hash=d9ddca3b1b7af0f96d62a62424bd939a}{%
@@ -578,8 +401,8 @@
       \strng{editornamehash}{aec596f25e71075259e73bc2be95a95e}
       \strng{editorfullhash}{aec596f25e71075259e73bc2be95a95e}
       \strng{editorfullhashraw}{aec596f25e71075259e73bc2be95a95e}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Design activities are central to most applied disciplines. Research in design has a long history in many fields including architecture, engineering, education, psychology, and the fine arts (Cross 2001). The computing and information technology ({CIT}) field since its advent in the late 1940s has appropriated many of the ideas, concepts, and methods of design science that have originated in these other disciplines. However, information systems ({IS}) as composed of inherently mutable and adaptable hardware, software, and human interfaces provide many unique and challenging design problems that call for new and creative ideas.}
@@ -637,8 +460,8 @@
       \strng{authornamehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
       \strng{authorfullhash}{0d82c455b50c2b184d97697dac2e8660}
       \strng{authorfullhashraw}{0d82c455b50c2b184d97697dac2e8660}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The paper motivates, presents, demonstrates in use, and evaluates a methodology for conducting design science ({DS}) research in information systems ({IS}). {DS} is of importance in a discipline oriented to the creation of successful artifacts. Several researchers have pioneered {DS} research in {IS}, yet over the past 15 years, little {DS} research has been done within the discipline. The lack of a methodology to serve as a commonly accepted framework for {DS} research and of a template for its presentation may have contributed to its slow adoption. The design science research methodology ({DSRM}) presented here incorporates principles, practices, and procedures required to carry out such research and meets three objectives: it is consistent with prior literature, it provides a nominal process model for doing {DS} research, and it provides a mental model for presenting and evaluating {DS} research in {IS}. The {DS} process includes six steps: problem identification and motivation, definition of the objectives for a solution, design and development, demonstration, evaluation, and communication. We demonstrate and evaluate the methodology by presenting four case studies in terms of the {DSRM}, including cases that present the design of a database to support health assessment methods, a software reuse measure, an Internet video telephony application, and an {IS} planning method. The designed methodology effectively satisfies the three objectives and has the potential to help aid the acceptance of {DS} research in the {IS} discipline.}
@@ -730,8 +553,8 @@
       \strng{authornamehash}{f6eb29017859c851998305729eb956d3}
       \strng{authorfullhash}{6c0229a5ddd79745971f3a2ca63370f5}
       \strng{authorfullhashraw}{6c0229a5ddd79745971f3a2ca63370f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Memorandum zur gestaltungsorientierten Wirtschaftsinformatik}
@@ -972,8 +795,8 @@
       \strng{authornamehash}{0729ba52078587d5c2028ec015ea04a3}
       \strng{authorfullhash}{0729ba52078587d5c2028ec015ea04a3}
       \strng{authorfullhashraw}{0729ba52078587d5c2028ec015ea04a3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This is a brief history of {ERP}—enterprise resource planning. Major {ERP} vendors are discussed as well as the major impact of developments in computer hardware and software on the industry. The industry consolidation that has recently occurred is also discussed. Interviews were conducted with Mr. Ed {McVaney}, founder of J.D. Edwards, Rick Allen, former {VP} of Finance and Administration, and Rick Snow, former Chief Legal Counsel of J.D. Edwards. Information was also obtained from Bill Robinson who held the position of “Industry Consultant” with {IBM} in the mid-1980s.}
@@ -1115,6 +938,7 @@
       \strng{authornamehash}{73792d2b055a233154c8517a97bba61b}
       \strng{authorfullhash}{73792d2b055a233154c8517a97bba61b}
       \strng{authorfullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
@@ -1258,8 +1082,8 @@
       \strng{authornamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
       \strng{authorfullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
       \strng{authorfullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Eine Übersicht über Berichts- und Analyseoptionen, die in Dataverse- und Dynamics 365-Apps verfügbar sind.}
@@ -1456,6 +1280,165 @@
       \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/fundamentals-what-is-copilot-studio
       \endverb
     \endentry
+    \entry{noauthor_copilot_nodate}{online}{}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{title}{Copilot Studio Fundamentals - Copilot Studio Agent Academy}
+      \field{urlday}{30}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Copilot Studio Fundamentals - Copilot Studio Agent Academy:C\:\\Users\\xgwsdab\\Zotero\\storage\\HLV6XFXH\\02-copilot-studio-fundamentals.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://microsoft.github.io/agent-academy/recruit/02-copilot-studio-fundamentals/
+      \endverb
+      \verb{url}
+      \verb https://microsoft.github.io/agent-academy/recruit/02-copilot-studio-fundamentals/
+      \endverb
+    \endentry
+    \entry{henryjammes_topics_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=8ccf2eb5942cfd253697eb0d5c16bfca}{%
+           family={{HenryJammes}},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{fullhash}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{fullhashraw}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{bibnamehash}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{authorbibnamehash}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{authornamehash}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{authorfullhash}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \strng{authorfullhashraw}{8ccf2eb5942cfd253697eb0d5c16bfca}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Understand the different types of topics comprised in agents you create with Microsoft Copilot Studio.}
+      \field{langid}{english}
+      \field{title}{Topics in Copilot Studio - Microsoft Copilot Studio}
+      \field{urlday}{30}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\RBTJ34HG\\topics-overview.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/topics-overview
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/topics-overview
+      \endverb
+    \endentry
+    \entry{garypretty_add_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=e465f5f1e7232a6f9855b14c7ec98b12}{%
+           family={garypretty},
+           familyi={g\bibinitperiod}}}%
+      }
+      \strng{namehash}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{fullhash}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{fullhashraw}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{bibnamehash}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{authorbibnamehash}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{authornamehash}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{authorfullhash}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \strng{authorfullhashraw}{e465f5f1e7232a6f9855b14c7ec98b12}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Extend your Microsoft Copilot Studio agent with tools to automatically respond to users with generative answers.}
+      \field{langid}{english}
+      \field{title}{Add tools to custom agents - Microsoft Copilot Studio}
+      \field{urlday}{30}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\R93B25ZP\\advanced-plugin-actions.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-plugin-actions
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-plugin-actions
+      \endverb
+    \endentry
+    \entry{mssqlgirl_knowledge_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=3cad283eadc5da7ff19b6dcae4898148}{%
+           family={{MsSQLGirl}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{fullhash}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{fullhashraw}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{bibnamehash}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{authorbibnamehash}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{authornamehash}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{authorfullhash}{3cad283eadc5da7ff19b6dcae4898148}
+      \strng{authorfullhashraw}{3cad283eadc5da7ff19b6dcae4898148}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learn how knowledge sources in Microsoft Copilot Studio enhance generative answers by integrating enterprise data, websites, and external systems.}
+      \field{langid}{english}
+      \field{title}{Knowledge sources summary - Microsoft Copilot Studio}
+      \field{urlday}{30}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\A3CZR8RX\\knowledge-copilot-studio.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-copilot-studio
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-copilot-studio
+      \endverb
+    \endentry
+    \entry{relnotes_add_nodate}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=d2b70fc121f3dab046b476fbfcd7f7ab}{%
+           family={relnotes},
+           familyi={r\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{fullhash}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{fullhashraw}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{bibnamehash}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{authorbibnamehash}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{authornamehash}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{authorfullhash}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \strng{authorfullhashraw}{d2b70fc121f3dab046b476fbfcd7f7ab}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Add Finance and Operations data from Dynamics 365 as a knowledge source to your agent to allow {AI} reasoning and improve operational decision making.}
+      \field{langid}{english}
+      \field{title}{Add Finance and Operations virtual tables as a knowledge source}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2025}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\Z2ZCB28U\\add-finance-operations-virtual-tables-as-knowledge-source.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://learn.microsoft.com/en-us/power-platform/release-plan/2025wave1/microsoft-copilot-studio/add-finance-operations-virtual-tables-as-knowledge-source
+      \endverb
+      \verb{url}
+      \verb https://learn.microsoft.com/en-us/power-platform/release-plan/2025wave1/microsoft-copilot-studio/add-finance-operations-virtual-tables-as-knowledge-source
+      \endverb
+    \endentry
     \entry{mccarthy_proposal_2006}{article}{}{}
       \name{author}{4}{}{%
         {{hash=627c3779677d0eaf3312e5b67e8cbe0c}{%
@@ -1487,8 +1470,8 @@
       \strng{authornamehash}{c70aaea2568720f5f3d6d013ac42fe63}
       \strng{authorfullhash}{bb8209e2888b6f5e921daaf056d0f340}
       \strng{authorfullhashraw}{bb8209e2888b6f5e921daaf056d0f340}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The 1956 Dartmouth summer research project on artificial intelligence was initiated by this August 31, 1955 proposal, authored by John {McCarthy}, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. The original typescript consisted of 17 pages plus a title page. Copies of the typescript are housed in the archives at Dartmouth College and Stanford University. The first 5 papers state the proposal, and the remaining pages give qualifications and interests of the four who proposed the study. In the interest of brevity, this article reproduces only the proposal itself, along with the short autobiographical statements of the proposers.}
@@ -1537,8 +1520,8 @@
       \strng{authornamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhashraw}{627c3779677d0eaf3312e5b67e8cbe0c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article for the layman answers basic questions about artiﬁcial intelligence. The opinions expressed here are not all consensus opinion among researchers in {AI}.}
@@ -1595,8 +1578,8 @@
       \strng{editornamehash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhash}{4ee8179c19742bb6e2e91eb2b28bce4b}
       \strng{editorfullhashraw}{4ee8179c19742bb6e2e91eb2b28bce4b}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Bis vor kurzem galt die Künstliche Intelligenz ({KI}) noch als eher ein abstraktes Konzept. Die Fortschritte vollzogen sich in atemberaubender Geschwindigkeit. Wir beginnen das aktuelle Kapitel mit der Definition und Einordnung des Begriffes „{KI}“. Der Abschnitt definiert weiterhin die relevanten Begriffe wie „starke {KI}“ oder „schwache {KI}“ und geht auf die drei Leistungsbestandteile (Neuronale Netze, Maschinelles Lernen, Deep Learning) ein. Darüber hinaus behandelt dieses Kapitel die wesentlichen Treiber der Künstlichen Intelligenz wie Big Data und das Internet der Dinge, die im Folgenden näher erläutert werden.}
@@ -1627,8 +1610,8 @@
       \keyw{Big Data,Internet of Things,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
     \endentry
     \entry{noauthor_was_2020}{online}{}{}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{abstract}{Künstliche Intelligenz ({KI}) gilt als „zukunftsweisende Technologie“. Doch was eigentlich ist künstliche Intelligenz und wie verändert sie unser Leben?}
       \field{day}{14}
@@ -1810,8 +1793,8 @@
       \strng{authornamehash}{91e57481898b943d6a72a1deba06a6a9}
       \strng{authorfullhash}{91e57481898b943d6a72a1deba06a6a9}
       \strng{authorfullhashraw}{91e57481898b943d6a72a1deba06a6a9}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{2nd ed}
@@ -1858,8 +1841,8 @@
       \strng{editornamehash}{d31e8b348bb58445891da3c33defa0ea}
       \strng{editorfullhash}{d31e8b348bb58445891da3c33defa0ea}
       \strng{editorfullhashraw}{d31e8b348bb58445891da3c33defa0ea}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Often in water quality management, understanding the relationship between input and output data might be a complicated process. In this situation Data Driven Models using information and collected data (input data) find out the relationship between inputs and outputs. In this regard, Artificial Neural Network ({ANN}) is one of the Data Driven Models which has recently been applied as a tool for modeling complicated processes. In this chapter, after reviewing the developing process of {ANN} in water quality management, the theory of the {ANN} is mentioned in detail for both static and dynamic methods. Data preparation, learning rate and model efficiency including selection of number of neurons in hiding layer which has a minimum error in learning rate and network efficiency is described in detail. At the end step, as a case study water quality of Zaribar Lake located in the Northwestern part of Iran, using Multilayer Perceptron ({MLP}) neural network method are described.}
@@ -1905,8 +1888,8 @@
       \strng{authornamehash}{3cd892d672c7d965507b2e56ffeed176}
       \strng{authorfullhash}{3cd892d672c7d965507b2e56ffeed176}
       \strng{authorfullhashraw}{3cd892d672c7d965507b2e56ffeed176}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Deep Learning ist ein relativ neuer Ansatz im Bereich des maschinellen Lernens, einem Teilgebiet der künstlichen Intelligenz. Das Fachgebiet des maschinellen Lernens beschäftigt sich allgemein mit Verfahren, mit deren Hilfe Computer selbständig bestimmte Sachverhalte lernen können, z.B. ob auf einem Bild ein bestimmtes Gesicht abgebildet ist. Deep Learning zeichnet sich dadurch aus, dass der Lernprozess hier in Form von mehreren Ebenen hierarchisch organisiert ist. Höhere Ebenen beinhalten dabei zunehmend abstraktere und komplexere Konzepte, die auf den jeweiligen Konzepten der niedrigeren Ebenen basieren.}
@@ -1961,8 +1944,8 @@
       \strng{authornamehash}{3ae53fe582e8a815b118d26947eaa326}
       \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
       \strng{authorfullhashraw}{3ae53fe582e8a815b118d26947eaa326}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-262-03561-3}
@@ -2028,8 +2011,8 @@
       \strng{authornamehash}{ee273ab30cfb889666f8c4d806eb9ce7}
       \strng{authorfullhash}{cb26e47f6b8133865271fc8483132297}
       \strng{authorfullhashraw}{cb26e47f6b8133865271fc8483132297}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Advances in Neural Information Processing Systems}
@@ -2240,8 +2223,8 @@
       \strng{authornamehash}{0ad7b7b50f220390cbf1c36575c6a49a}
       \strng{authorfullhash}{0ad7b7b50f220390cbf1c36575c6a49a}
       \strng{authorfullhashraw}{0ad7b7b50f220390cbf1c36575c6a49a}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{edition}{6. Auflage}
@@ -2272,8 +2255,8 @@
       \strng{authornamehash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
       \strng{authorfullhash}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
       \strng{authorfullhashraw}{9c8632ab1d5057bd5c6dbd6f4dba4f05}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Agent software is a rapidly developing area of research. However, the overuse of the word “agent” has tended to mask the fact that, in reality, there is a truly heterogeneous body of research being carried out under this banner. This overview paper presents a typology of agents. Next, it places agents in context, defines them and then goes on, inter alia, to overview critically the rationales, hypotheses, goals, challenges and state-of-the-art demonstrators of the various agent types in our typology. Hence, it attempts to make explicit much of what is usually implicit in the agents literature. It also proceeds to overview some other general issues which pertain to all the types of agents in the typology. This paper largely reviews software agents, and it also contains some strong opinions that are not necessarily widely accepted by the agent community.}
@@ -2356,8 +2339,8 @@
       \strng{editornamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In diesem Kapitel wird zunächst in das Konzept der {KI}-Agenten eingeführt. Es ist für Unternehmen wichtig, sich mit diesen Systemen auseinanderzusetzen, da sie zukünftig viele interne und externe Aufgaben und Prozesse vollkommen autonom ausführen können. Dazu werden unterschiedliche {KI}-Agenten-Konzepte vorgestellt und beschrieben, wie die Agenten untereinander und mit weiteren Systemen interagieren und Daten sowie Informationen austauschen. Anschließend wird beschrieben, warum das Prompt Engineering in diesem Kontext so wichtig ist. Abschließend werden unterschiedliche Anwendungsfälle für {KI}-Agenten im Unternehmen vorgestellt.}
@@ -2419,8 +2402,8 @@
       \strng{editornamehash}{9efbe0c7d22c50bb628b4be07c9bdf73}
       \strng{editorfullhash}{9efbe0c7d22c50bb628b4be07c9bdf73}
       \strng{editorfullhashraw}{9efbe0c7d22c50bb628b4be07c9bdf73}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{{KI}-Agenten, oder {KI}-Agenten, repräsentieren eine fortschrittliche Form der künstlichen Intelligenz, die über die Fähigkeiten herkömmlicher {KI}-Systeme hinausgeht. Im Kern sind {KI}-Agenten {IT}-Systeme, die autonom Aufgaben erledigen können, indem sie ihre Umgebung kennen, Entscheidungen treffen und darauf basierend handeln. Sie sind somit in der Lage, komplexe Aufgaben zu bewältigen, die normalerweise menschliche Intelligenz erfordern würden.}
@@ -2636,6 +2619,172 @@
       \verb https://doi.org/10.1007/s11432-024-4222-0
       \endverb
       \keyw{natural language processing,agent society,{AI} agents,large language models,{LLM}-based agents}
+    \endentry
+    \entry{fathima_impact_2024}{inproceedings}{}{}
+      \name{author}{5}{}{%
+        {{hash=b66a5812738761f20f09d3e23cf256ac}{%
+           family={Fathima},
+           familyi={F\bibinitperiod},
+           given={Fazaal},
+           giveni={F\bibinitperiod}}}%
+        {{hash=162a62e10f614e95bfcbc23233379ef0}{%
+           family={Inparaj},
+           familyi={I\bibinitperiod},
+           given={Rishani},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6bb27da5fc23c2020a3cfc049879c114}{%
+           family={Thuvarakan},
+           familyi={T\bibinitperiod},
+           given={Dushyanthan},
+           giveni={D\bibinitperiod}}}%
+        {{hash=6c51b544caae8fb4fe17c3693b191542}{%
+           family={Wickramarachchi},
+           familyi={W\bibinitperiod},
+           given={Ruwan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7932f4baab7d4ff4871b6d21a6624c0e}{%
+           family={Fernando},
+           familyi={F\bibinitperiod},
+           given={Ishenka},
+           giveni={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{1991dfe101b801e6411a2ac91b247c34}
+      \strng{fullhash}{d223af41d76535c8b89eb153c94957d1}
+      \strng{fullhashraw}{d223af41d76535c8b89eb153c94957d1}
+      \strng{bibnamehash}{d223af41d76535c8b89eb153c94957d1}
+      \strng{authorbibnamehash}{d223af41d76535c8b89eb153c94957d1}
+      \strng{authornamehash}{1991dfe101b801e6411a2ac91b247c34}
+      \strng{authorfullhash}{d223af41d76535c8b89eb153c94957d1}
+      \strng{authorfullhashraw}{d223af41d76535c8b89eb153c94957d1}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Artificial intelligence ({AI}) has revolutionized demand forecasting within Enterprise Resource Planning ({ERP}) systems, offering a powerful tool to enhance accuracy and efficiency in predicting future demand patterns. This literature review explores the impact of {AI}-based predictive analytics on demand forecasting in {ERP} systems by synthesizing and analyzing existing research. This paper provides a comprehensive examination of the transformative effects of {AI}-driven demand forecasting across diverse industries, including fashion retail, biopharmaceuticals, energy management, and transportation. We highlight the unique benefits and applications of {AI}-driven demand forecasting, such as anticipating customer needs, optimizing inventory levels, and making data-driven decisions, ultimately leading to a competitive edge in the marketplace. Our study emphasizes the importance of {AI} integration into {ERP} systems for businesses seeking to enhance decision-making and achieve organizational success in today's dynamic and competitive business landscape. By providing valuable insights and showcasing significant improvements in forecasting accuracy, real-time insights, supply chain efficiency, and risk management facilitated by {AI}-based predictive analytics, this research contributes to advancing knowledge in the field and offers practical guidance for businesses and researchers alike.}
+      \field{booktitle}{2024 International Research Conference on Smart Computing and Systems Engineering ({SCSE})}
+      \field{eventtitle}{2024 International Research Conference on Smart Computing and Systems Engineering ({SCSE})}
+      \field{month}{4}
+      \field{note}{{ISSN}: 2613-8662}
+      \field{shorttitle}{Impact of {AI}-based predictive analytics on demand forecasting in {ERP} systems}
+      \field{title}{Impact of {AI}-based predictive analytics on demand forecasting in {ERP} systems: A Systematic Literature Review}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{7}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1109/SCSE61872.2024.10550480
+      \endverb
+      \verb{file}
+      \verb Fathima et al. - 2024 - Impact of AI-based predictive analytics on demand .pdf:C\:\\Users\\xgwsdab\\Zotero\\storage\\CIMIDNJY\\Fathima et al. - 2024 - Impact of AI-based predictive analytics on demand .pdf:application/pdf;Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\N485EMKE\\10550480.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10550480
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10550480
+      \endverb
+      \keyw{artificial intelligence,Artificial intelligence,Bibliographies,Decision making,demand forecast,Demand forecasting,enterprise resource planning systems,Industries,inventory forecast,Risk management,Transportation}
+    \endentry
+    \entry{sarferaz_implementing_2025}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=73792d2b055a233154c8517a97bba61b}{%
+           family={Sarferaz},
+           familyi={S\bibinitperiod},
+           given={Siar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \strng{bibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorbibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authornamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorfullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorfullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \field{extraname}{2}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Enterprise Resource Planning ({ERP}) systems digitize all business processes within companies in order to enhance automation and optimize efficiency. These solutions integrate data and processes across multiple functions such as sales, marketing, finance, supply chain, manufacturing, services, procurement, and human resources, serving as a central repository of information for numerous organizations. {ERP} systems typically encompass tens of thousands of business processes and manage data across thousands of tables, creating significant opportunities for the integration of Generative Artificial Intelligence ({AI}) for increasing process automatization and optimization. Nonetheless, embedding Generative {AI} into {ERP} solutions is a complex task due to the intricate nature of these systems, which consist of hundreds of millions of lines of code and cater to a wide array of industry-specific and regional requirements. Consequently, the key research question addressed in this paper is: How to systematically develop and operate Generative {AI} business applications in {ERP} systems? This article aims to answer this question by conducting a use case analysis, deriving business requirements, designing and implementing a solution framework, and evaluating its effectiveness through real-world {ERP} use cases.}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{{IEEE} Access}
+      \field{title}{Implementing Generative {AI} Into {ERP} Software}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{73342\bibrangedash 73354}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2025.3564133
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\E2LDYPLR\\Sarferaz - 2025 - Implementing Generative AI Into ERP Software.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10975790
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10975790
+      \endverb
+      \keyw{{AI},{AI} development,{AI} operations,artificial intelligence,Artificial intelligence,Business,business {AI},business applications,enterprise {AI},Enterprise resource planning,{ERP},Fraud,generative {AI},Generative {AI},Libraries,Manufacturing,Prevention and mitigation,Software,software integration,Taxonomy}
+    \endentry
+    \entry{sarferaz_implementing_2025-1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=73792d2b055a233154c8517a97bba61b}{%
+           family={Sarferaz},
+           familyi={S\bibinitperiod},
+           given={Siar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{fullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \strng{bibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorbibnamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authornamehash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorfullhash}{73792d2b055a233154c8517a97bba61b}
+      \strng{authorfullhashraw}{73792d2b055a233154c8517a97bba61b}
+      \field{extraname}{3}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Enterprise Resource Planning ({ERP}) systems serve as the backbone of modern business operations, digitalizing and integrating processes across organizational departments. These systems encompass a wide array of functions, including sales, marketing, finance, supply chain management, manufacturing, services, procurement, and human resources, acting as a centralized repository of organizational data and processes. The sheer scale and complexity of {ERP} solutions, which typically manage tens of thousands of business processes and store data in thousands of tables, present a significant opportunity for the integration of agentic artificial intelligence ({AI}). However, the implementation of agentic {AI} within {ERP} systems poses considerable challenges due to the intricate nature of these platforms. {ERP} solutions often comprise hundreds of millions of lines of code and are designed to accommodate a variety of industry-specific and regional requirements. This complexity necessitates a systematic approach to the development and integration of agentic {AI} capabilities. This paper addresses the critical research question: How can agentic {AI} business applications be systematically developed within {ERP} systems? To answer this, we employ a multi-faceted methodology encompassing the extraction of business requirements from real-world use cases, the design and development of a framework for agentic {AI} implementation, the evaluation of the proposed framework using actual {ERP} scenarios. Our research aims to bridge the gap between theoretical {AI} concepts and practical {ERP} implementation, providing a structured approach for organizations to leverage agentic {AI} within their existing {ERP} infrastructure. By doing so, we seek to enhance the capabilities of {ERP} systems, enabling more intelligent, adaptive, and efficient business processes across various industries and geographical regions.}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{{IEEE} Access}
+      \field{title}{Implementing Agentic {AI} Into {ERP} Software}
+      \field{urlday}{3}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{13}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{178945\bibrangedash 178960}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2025.3621887
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\FHR7NA3Q\\Sarferaz - 2025 - Implementing Agentic AI Into ERP Software.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/11204015/
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/11204015/
+      \endverb
+      \keyw{agentic {AI},{AI},{AI} agents,{AI} development,artificial intelligence,Artificial intelligence,Business,business {AI},business applications,Complexity theory,Computer architecture,enterprise {AI},Enterprise resource planning,{ERP},Libraries,Programming,Scalability,software integration,Systematic literature review,Systematics}
     \endentry
   \enddatalist
   \missing{mayring_qualitative_2015}
