@@ -98,7 +98,6 @@ Bei dieser wird zu Beginn, wie bei der Erfassung des Angebotskopfes, der Nutzer 
 
 Auf Basis der identifizierten Artikel unterstützt der \ac{KI}-Agent im nächsten Schritt die Preisfindung, falls diese benötigt wird, indem relevante historische Angebots- und Preisinformationen herangezogen und dem Anwender als Entscheidungsgrundlage bereitgestellt werden.
 
-
 Sobald eine Angebotsposition vollständig und valide ist, wird das Tool zur Anlage der Angebotsposition aufgerufen. Dieser Vorgang wird für jede Position einzeln durchgeführt. Nach jeder erfolgreich angelegten Position fragt der \ac{KI}-Agent, ob eine weitere Angebotsposition hinzugefügt werden soll. Falls dies der Fall ist, wird der beschriebene Ablauf für die Positionserfassung wiederholt.
 
 Sind alle gewünschten Angebotspositionen angelegt, schließt der \ac{KI}-Agent den Prozess mit einer abschließenden Bestätigung ab und informiert den Nutzer über die erfolgreiche Erstellung des Angebots einschließlich der zugehörigen Angebotsnummer.
@@ -115,7 +114,7 @@ Um diesen Ablauf noch einmal zu veranschaulichen, ist in der folgenden Abbildung
 
 Ziel der Test- und Evaluationsphase ist es zu überprüfen, ob der entwickelte \ac{KI}-Agent die zuvor definierten Ziele erfüllt. Die Evaluation erfolgt szenariobasiert, indem zentrale Anwendungsfälle der Angebotserstellung in einer realitätsnahen Testumgebung durchgeführt und ausgewertet werden.
 
-Die Tests wurden in der Entwicklungs- und Testumgebung von \ac{D365FnSCM} durchgeführt und orientieren sich an typischen Nutzungssituationen aus dem Vertriebsalltag. Die zuvor definierten Ziele des KI-Agenten wurden hierfür in konkrete Testszenarien überführt. Die Auswahl der Szenarien stellt sicher, dass sowohl einfache Standardfälle als auch komplexere Nutzungssituationen abgedeckt werden und alle im Zielkapitel formulierten Ziele überprüft werden.
+Die Tests wurden in der Entwicklungs- und Testumgebung von \ac{D365FnSCM} durchgeführt und orientieren sich an typischen Nutzungssituationen aus dem Vertriebsalltag. Die zuvor definierten Ziele des \ac{KI}-Agenten wurden hierfür in konkrete Testszenarien überführt. Die Auswahl der Szenarien stellt sicher, dass sowohl einfache Standardfälle als auch komplexere Nutzungssituationen abgedeckt werden und alle im Zielkapitel formulierten Ziele überprüft werden.
 
 \subsubsection{Testvorgehen}
 
@@ -125,51 +124,58 @@ Die Tests wurden als manuelle, szenariobasierte Funktionsprüfung durchgeführt.
 
 Zur Evaluation des KI-Agenten wurden die folgenden sechs Szenarien definiert und durchgeführt:
 
-\begin{enumerate}
-    \item \textbf{S1: Anlage eines Angebotskopfes mit vollständigen und korrekten Eingaben.}  
+\textbf{S1: Anlage eines Angebotskopfes mit vollständigen und korrekten Eingaben.} \newline 
     Alle erforderlichen Informationen liegen vollständig vor. Erwartet wird die erfolgreiche Anlage eines Angebotskopfes.
 
-    \item \textbf{S2: Anlage eines Angebotskopfes mit Angebotsposition(en) bei vollständig vorliegenden Daten.}  
+\textbf{S2: Anlage eines Angebotskopfes mit Angebotsposition(en) bei vollständig vorliegenden Daten.} \newline  
     Angebotskopf und mindestens eine Angebotsposition werden mit vollständig vorhandenen Daten angelegt.
 
-    \item \textbf{S3: Anlage einer Angebotsposition mit unterstützter Preisfindung.}  
-    Der Artikel ist eindeutig identifizierbar, die Preisfindung wird durch historische Angebots- und Preisinformationen unterstützt.
+\textbf{S3: Anlage einer Angebotsposition mit unterstützter Preisfindung.}  \newline 
+    Der Artikel ist eindeutig identifizierbar, die Preisfindung wird durch historische Angebots- und Preisinformationen unterstützt und nach finaler Preisklärung mit den Nutzer wird ein Angebot mit der Position inklusive Preis angelegt.
 
-    \item \textbf{S4: Anlage einer Angebotsposition mit Artikelidentifikation über eine Artikelbeschreibung.}  
-    Es wird keine Artikelnummer, sondern eine Beschreibung angegeben. Der KI-Agent identifiziert den passenden Artikel über die angebundene Wissensquelle.
+\textbf{S4: Anlage einer Angebotsposition mit Artikelidentifikation über eine Artikelbeschreibung.}  \newline 
+    Es wird keine Artikelnummer, sondern eine Beschreibung angegeben. Der KI-Agent identifiziert den passenden Artikel über die angebundene Wissensquelle und legt das Angebot vollständig an.
 
-    \item \textbf{S5: Abbruch der Angebotserstellung durch den Nutzer.}  
+\textbf{S5: Abbruch der Angebotserstellung durch den Nutzer.}  \newline 
     Der Nutzer bricht den Dialog während der Datenerfassung ab. Erwartet wird, dass keine schreibenden Aktionen im \ac{ERP}-System ausgeführt werden.
 
-    \item \textbf{S6: Kombination aus Artikelidentifikation und unterstützter Preisfindung.}  
-    Der Artikel wird zunächst über eine Beschreibung identifiziert. Anschließend unterstützt der KI-Agent die Preisfindung auf Basis historischer Angebotsdaten.
-\end{enumerate}
+\textbf{S6: Kombination aus Artikelidentifikation und unterstützter Preisfindung.}  \newline 
+    Es wird zunächst ein Angebot erstellt und in den Positionen wird zunächst ein Artikel über eine Beschreibung identifiziert. Anschließend unterstützt der KI-Agent die Preisfindung auf Basis historischer Angebotsdaten und legt die Position an.
 
 \subsubsection{Auswertung der Testergebnisse}
 
-Die Ergebnisse der durchgeführten Testszenarien sind in Tabelle~\ref{tab:testergebnisse} zusammengefasst. Für jedes Szenario wurde dokumentiert, ob der jeweilige Anwendungsfall erfolgreich abgeschlossen werden konnte. Die Auswertung dient als Grundlage für die abschließende Bewertung der Funktionalität und Praxistauglichkeit des entwickelten KI-Agenten.
+Jedes Szenario wurde zehn mal durchgeführt, um eine aussagekräftige Bewertung der Funktionalität und Stabilität des \ac{KI}-Agenten in den jeweiligen Prozessen zu ermöglichen. Beim Durchführen der Testszenarien wurde jedes mal dokumentiert, ob der jeweilige Anwendungsfall erfolgreich abgeschlossen werden konnte und zusätzlich wurden noch relevante Bemerkungen und Auffälligkeiten festgehalten.
+
+Die Ergebnisse der durchgeführten Testszenarien sind in Tabelle~\ref{tab:testergebnisse} zusammengefasst. Hierbei wurde für jedes Szenario dokumentiert, ob und wie oft der jeweilige Anwendungsfall erfolgreich abgeschlossen werden konnte. Auf basis der Testergebnisse lässt sich sagen, dass bis auf insgesamt vier Szenarien alle Tests erfolgreich abgeschlossen werden konnten. Die Probleme lassen sich auf drei Szenarien zurückführen.
 
 \begin{table}[H]
 \centering
 \caption{Ergebnisse der szenariobasierten Tests}
 \label{tab:testergebnisse}
-\begin{tabularx}{\textwidth}{|c|X|c|c|X|}
+\begin{tabular}{|c|c|c|p{7cm}|}
 \hline
-\textbf{Szenario} & \textbf{Beschreibung} & \textbf{Durchläufe} & \textbf{Erfolgreich} & \textbf{Bemerkungen} \\
+\textbf{Szenario} & \textbf{Durchläufe} & \textbf{Erfolgreich} & \textbf{Bemerkungen} \\
 \hline
-S1 & Angebotskopf mit vollständigen und korrekten Eingaben & 3 & 3/3 & Erfolgreiche Anlage ohne Rückfragen \\
+S1 & 10 & 10 & Erfolgreiche Anlage ohne Rückfragen \\
 \hline
-S2 & Angebotskopf mit Angebotsposition(en) & 3 & 3/3 & Korrekte Tool-Reihenfolge eingehalten \\
+S2 & 10 & 10 & Korrekte Tool-Reihenfolge eingehalten \\
 \hline
-S3 & Angebotsposition mit unterstützter Preisfindung & 3 & 3/3 & Preisfindung korrekt unterstützt \\
+S3 & 10 & 8 & Preisfindung korrekt unterstützt, Probleme beim richtigen Zusammensetzen des Datums \\
 \hline
-S4 & Angebotsposition mit Artikelidentifikation über Beschreibung & 3 & 3/3 & Artikel korrekt identifiziert \\
+S4 & 10 & 9 & Artikel korrekt identifiziert \\
 \hline
-S5 & Abbruch der Angebotserstellung durch den Nutzer & 3 & 3/3 & Keine schreibenden Aktionen ausgeführt \\
+S5 & 10 & 10 & Keine schreibenden Aktionen ausgeführt \\
 \hline
-S6 & Kombination aus Artikelidentifikation und Preisfindung & 3 & 3/3 & Komplexer Anwendungsfall erfolgreich umgesetzt \\
+S6 & 10 & 9 & Artikelnamen versucht in Artikelnummer zu schreiben \\
 \hline
-\end{tabularx}
+\end{tabular}
 \end{table}
 
+Bei Szenario 3 gab es in zwei von zehn Durchläufen Schwierigkeiten beim korrekten Zusammensetzen des Datums aus historischen Angeboten. Auf Grund der vorhandenen Daten im Format "MM/TT/JJJJ" konnte der \ac{KI}-Agent das Datum nicht in jedem Fall korrekt interpretieren, was zu Fehlern in der Reihenfolge der Angebote führte, wodurch die Preise in der Vorschlagsliste falsch sortiert wurden.
 
+Bei Szenario 4 wurde in einem Fall, nach einem vorhanden Artikel gesucht, welcher aber aus unbekannten Gründen nicht identifiziert werden konnten, obwohl es sich um einen einfachen Fall handelte, da lediglich mit dem Artikelnamen gesucht wurde.
+
+Bei Szenario 6 gab es in einem Fall das Problem, dass der \ac{KI}-Agent versuchte den Artikelnamen in die Artikelnummer zu schreiben, wodurch die Anlage der Angebotsposition fehlgeschlagen ist. Nach hinterfragen warum das so versucht wurde, stellte der Agent selber fest, dass dies ein Fehler war und entschuldigte sich und bot an, den Vorgang mit der korrekten Artikelnummer erneut zu versuchen, was dann auch erfolgreich war.
+
+
+Zusammenfassend lässt sich sagen, dass der entwickelte \ac{KI}-Agent fast alle definierten Szenarien erfolgreich bewältigen konnte. Die aufgetretenen Probleme sind auf spezifische Datenformate und Einzelfälle zurückzuführen, die in zukünftigen Iterationen des Agenten weiter optimiert werden können. Insgesamt zeigt die Evaluation, dass der \ac{KI}-Agent die definierten Ziele weitgehend erfüllt sind.

@@ -1,12 +1,12 @@
 \section{Problem- und Anforderungsanalyse}
 %Einleitung in das Kapitel
-Dieses Kapitel stellt die Ergebnisse der im Rahmen der ersten Phase des \ac{DSR} durchgeführten Problemidentifikation dar. Grundlage bilden die im Rahmen dieser Arbeit geführten Experteninterviews. Ziel des Kapitels ist es, den identifizierten Use Case für den Einsatz eines \ac{KI}-Agenten in \ac{D365FnSCM} darzustellen und darauf aufbauend die funktionalen sowie nicht-funktionalen Anforderungen abzuleiten.
+Dieses Kapitel stellt die Ergebnisse der im Rahmen der ersten Phase des \ac{DSR} durchgeführten Problemidentifikation dar. Grundlage bilden die im Rahmen dieser Arbeit geführten Experteninterviews. Ziel des Kapitels ist es, den identifizierten Use Case für den Einsatz eines \ac{KI}-Agenten in \ac{D365FnSCM} darzustellen, darauf aufbauend die funktionalen sowie nicht-funktionalen Anforderungen aufzustellen und abschließend die abgeleiteten möglichen Effizienzpotenziale zu beschreiben.
 
 %Unterkapitel
 \subsection{Beschreibung des Use Case}
-Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage ein zeitintensiver und fehleranfälliger Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. 
+Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage ein zeitintensiver und fehleranfälliger Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. Diese Angebotsanlage setzt sich dabei aus zwei Bereichen zusammen, nämlich der Anlage des Angebotskopfes sowie der Anlage der Angebotspositionen.
 
-Ein wesentlicher Problembereich innerhalb dieses Prozesses ist die Artikelsuche. Diese ist ein wiederkehrendes Thema und trägt maßgeblich zum zeitlichen Aufwand bei der Angebotsanlage dar, weil oft nicht direkt alle notwendigen Daten zur Identifikation der richtigen Artikel vorliegen. 
+Ein wesentlicher Problembereich, bei dem Hinzufügen von Angebotspositionen, ist die Artikelsuche. Diese ist ein wiederkehrendes Thema und trägt maßgeblich zum zeitlichen Aufwand bei der Angebotsanlage dar, weil oft nicht direkt alle notwendigen Daten zur Identifikation der richtigen Artikel vorliegen. 
 Darüber hinaus wird ein erhöhter manueller Aufwand bei wiederkehrenden Tätigkeiten beschrieben. Bestimmte Aufgaben lassen sich systemseitig nicht kopieren, da dazu keine technische Möglichkeit besteht. Was insbesondere bei Projekten mit mehreren Mandanten einen hohen zeitlichen Aufwand darstellt.
 
 Ein weiter Aspekt ist die Nutzung des Systems durch neue Anwender. Neue Nutzer tendieren oft dazu Angebote nicht korrekt anzulegen, wodurch der gesamte Vertriebsprozess von Beginn an gestört wird, wodurch es im Nachhinein zu Mehrarbeit kommt, da diese Fehler korrigiert werden müssen. 
@@ -66,6 +66,17 @@ Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz unterstützen, inde
 
 Zuletzt soll die Nutzung des \ac{KI}-Agenten einfach und intuitiv gestaltet sein, sodass auch technisch weniger versierte Anwender ohne umfangreiche Einarbeitung mit dem System arbeiten können.
 
+\subsubsection{Mögliche Effizienzpotenziale}
+\label{sec:effizienzpotenziale}
+Auf Basis der Interviews und der daraus identifizierten Probleme, Erwartungen und Anforderungen lassen sich verschiedene mögliche Effizienzpotenziale ableiten, die durch den Einsatz des \ac{KI}-Agenten bei der Angebotsanlage in \ac{D365FnSCM} realisiert werden können. Diese Effizienzpotenziale beschreiben die erwartete Verbesserung des Prozesses und dienen als Grundlage für die Evaluation des entwickelten Artefakts.
 
+Das erste mögliche Effizienzpotenzial ergibt sich durch die Unterstützung bei der Befüllung relevanter Angebotsfelder im Angebotskopf. Auf Grundlage der Anforderungen an eine automatisierte Übernahme zentraler Informationen sowie eine dialogbasierte Interaktion kann der \ac{KI}-Agent den manuellen Aufwand reduzieren, indem relevante Felder gezielt abgefragt oder automatisch befüllt werden. Dadurch entfällt die zeitaufwendige manuelle Suche nach einzelnen Feldern innerhalb der \ac{ERP}-Oberfläche, was zu einer effizienteren Angebotsanlage beitragen kann.
 
+Ein weiteres mögliches Effizienzpotenzial ergibt sich aus der Verbesserung der Artikelsuche. Diese wurde in \ac{D365FnSCM} als träge und fehleranfällig beschrieben, insbesondere wenn unvollständige oder ungenaue Informationen vorliegen. Aufbauend auf den dazu definierten Anforderungen kann der \ac{KI}-Agent den Such- und Entscheidungsaufwand verringern. 
+
+Darüber hinaus ergibt sich ein mögliches Effizienzpotenzial aus der Unterstützung bei der Preisfindung durch den Zugriff auf historische Angebots- und Preisinformationen. Aufbauend auf der entsprechenden funktionalen Anforderung kann der \ac{KI}-Agent relevante Preisdaten bereitstellen und somit die Entscheidungsfindung bei der Angebotserstellung unterstützen. Dies kann den manuellen Rechercheaufwand verringern und zu konsistenteren Angebotspreisen beitragen.
+
+Ein mögliches Effizienzpotenzial, welches aus den anderen Effizienzpotenzialen resultiert, liegt in der Unterstützung bei der Einarbeitung neuer Anwender. Da insbesondere neue Nutzer häufig Schwierigkeiten bei der korrekten Angebotsanlage haben, kann der \ac{KI}-Agent, aufbauend auf den Anforderungen an eine intuitive Interaktion sowie eine fehlerarme und nachvollziehbare Prozessführung, dazu beitragen, Eingabefehler zu reduzieren und den Angebotsprozess insgesamt zu erleichtern.
+
+Schließlich liegt in der Reduktion von Nacharbeit im weiteren Vertriebsprozess ein weiteres mögliches Effizienzpotenzial. Durch die frühzeitige Validierung von Eingaben sowie die nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden werden. Dies trägt dazu bei, Korrekturen in nachgelagerten Prozessschritten zu reduzieren und die Qualität der Angebotsdaten zu erhöhen.
 
