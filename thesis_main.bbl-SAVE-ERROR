@@ -724,6 +724,41 @@
       \endverb
       \keyw{enterprise resource planning,information system evolution,literature review,management information systems,management support systems,production planning information systems,transaction processing systems}
     \endentry
+    \entry{wortmann_evolution_1998}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=73a37d8c422403dcf2d067e2e5be53f7}{%
+           family={Wortmann},
+           familyi={W\bibinitperiod},
+           given={J.C.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Eindhoven}%
+      }
+      \list{publisher}{1}{%
+        {{BETA} Research Institute}%
+      }
+      \strng{namehash}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{fullhash}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{fullhashraw}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{bibnamehash}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{authorbibnamehash}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{authornamehash}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{authorfullhash}{73a37d8c422403dcf2d067e2e5be53f7}
+      \strng{authorfullhashraw}{73a37d8c422403dcf2d067e2e5be53f7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-90-386-0809-9}
+      \field{note}{{OCLC}: 67986483}
+      \field{title}{Evolution of {ERP} systems}
+      \field{year}{1998}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\U677YX5D\\Wortmann - 1998 - Evolution of ERP systems.pdf:application/pdf
+      \endverb
+    \endentry
     \entry{bititci_strategic_1998}{book}{}{}
       \name{author}{1}{}{%
         {{hash=8487d00235dc78103693e1648f91b86f}{%
@@ -2688,7 +2723,7 @@
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/10550480
       \endverb
-      \keyw{artificial intelligence,Artificial intelligence,Bibliographies,Decision making,demand forecast,Demand forecasting,enterprise resource planning systems,Industries,inventory forecast,Risk management,Transportation}
+      \keyw{Risk management,artificial intelligence,Artificial intelligence,Transportation,Demand forecasting,Decision making,Industries,Bibliographies,demand forecast,enterprise resource planning systems,inventory forecast}
     \endentry
     \entry{sarferaz_implementing_2025}{article}{}{}
       \name{author}{1}{}{%
@@ -2736,7 +2771,7 @@
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/10975790
       \endverb
-      \keyw{{AI},{AI} development,{AI} operations,artificial intelligence,Artificial intelligence,Business,business {AI},business applications,enterprise {AI},Enterprise resource planning,{ERP},Fraud,generative {AI},Generative {AI},Libraries,Manufacturing,Prevention and mitigation,Software,software integration,Taxonomy}
+      \keyw{artificial intelligence,Taxonomy,Enterprise resource planning,Artificial intelligence,Libraries,Software,{ERP},Business,{AI},Manufacturing,{AI} development,{AI} operations,business {AI},business applications,enterprise {AI},Fraud,generative {AI},Generative {AI},Prevention and mitigation,software integration}
     \endentry
     \entry{sarferaz_implementing_2025-1}{article}{}{}
       \name{author}{1}{}{%
@@ -2784,10 +2819,9 @@
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/11204015/
       \endverb
-      \keyw{agentic {AI},{AI},{AI} agents,{AI} development,artificial intelligence,Artificial intelligence,Business,business {AI},business applications,Complexity theory,Computer architecture,enterprise {AI},Enterprise resource planning,{ERP},Libraries,Programming,Scalability,software integration,Systematic literature review,Systematics}
+      \keyw{Programming,artificial intelligence,Scalability,Enterprise resource planning,Artificial intelligence,Libraries,{ERP},Business,{AI},Computer architecture,Complexity theory,Systematic literature review,{AI} development,business {AI},business applications,enterprise {AI},software integration,{AI} agents,agentic {AI},Systematics}
     \endentry
   \enddatalist
-  \missing{wortmann_evolution_1998}
 \endrefsection
 \endinput
 
