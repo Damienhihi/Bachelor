@@ -47,6 +47,9 @@
            given={Hanna},
            giveni={H\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Fraunhofer {IAIS}}%
+      }
       \strng{namehash}{328cdbe5e75779a9733c2b3ec87a461a}
       \strng{fullhash}{b57a5e08ff0ba936ea0099a298ca0db1}
       \strng{fullhashraw}{b57a5e08ff0ba936ea0099a298ca0db1}
@@ -61,7 +64,6 @@
       \field{labeltitlesource}{title}
       \field{abstract}{{ERP}-Systeme bilden den Kern der Unternehmens-{IT}. Sie unterstützen unternehmensweite Prozesse und stellen die zentrale Datendrehscheibe dar. Während die Vorgänger moderner {ERP}-Systeme hauptsächlich in der Produktion größerer Industriebetriebe vorzufinden waren, sind {ERP}-Systeme heutzutage für zahlreiche Branchen und Unternehmensgrößen verfügbar und zunehmend auch für kleinere Unternehmen relevant. Die {ERP}-Einführung stellt ein teures und aufwändiges Projekt dar – diese Studie hat das Ziel, die Diskussion über dessen Gelingen zu bereichern.}
       \field{langid}{german}
-      \field{note}{Publisher: Fraunhofer {IAIS}}
       \field{title}{Wie eine {ERP}-Einführung gelingt}
       \field{urlday}{9}
       \field{urlmonth}{6}
@@ -452,6 +454,9 @@
            given={Samir},
            giveni={S\bibinitperiod}}}%
       }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
       \strng{namehash}{4ccaed1d47a4875e5f027cdf2d20bbca}
       \strng{fullhash}{0d82c455b50c2b184d97697dac2e8660}
       \strng{fullhashraw}{0d82c455b50c2b184d97697dac2e8660}
@@ -469,7 +474,7 @@
       \field{issn}{0742-1222}
       \field{journaltitle}{Journal of Management Information Systems}
       \field{month}{12}
-      \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.2753/{MIS}0742-1222240302}
+      \field{note}{\_eprint: https://doi.org/10.2753/{MIS}0742-1222240302}
       \field{number}{3}
       \field{title}{A Design Science Research Methodology for Information Systems Research}
       \field{urlday}{23}
@@ -553,8 +558,8 @@
       \strng{authornamehash}{f6eb29017859c851998305729eb956d3}
       \strng{authorfullhash}{6c0229a5ddd79745971f3a2ca63370f5}
       \strng{authorfullhashraw}{6c0229a5ddd79745971f3a2ca63370f5}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Memorandum zur gestaltungsorientierten Wirtschaftsinformatik}
@@ -604,8 +609,8 @@
       \strng{editornamehash}{3e347cdcc7b6277be59b54152b579a12}
       \strng{editorfullhash}{3e347cdcc7b6277be59b54152b579a12}
       \strng{editorfullhashraw}{3e347cdcc7b6277be59b54152b579a12}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Qualitative Inhaltsanalyse stellt eine Auswertungsmethode dar, die Texte bearbeitet, welche im Rahmen sozialwissenschaftlicher Forschungsprojekte in der Datenerhebung anfallen, z.B. Transkripte von offenen Interviews (Helfferich, Kapitel 44 in diesem Band) oder Fokusgruppen (Vogl, Kapitel 46 in diesem Band), offene Fragen aus standardisierten Befragungen (Züll/Menold, Kapitel 59 in diesem Band), Beobachtungsprotokolle aus Feldstudien (Thierbach/Petschick, Kapitel 84 in diesem Band), Dokumente (Ernst, Kapitel 81 in diesem Band), Akten (Salheiser, Kapitel 80 in diesem Band), Zeitungsartikel (Klein, Kapitel 82 in diesem Band) und Internetmaterialien.}
@@ -650,8 +655,8 @@
       \strng{authornamehash}{418715aadaf08f606ff3e5575fa44f4f}
       \strng{authorfullhash}{418715aadaf08f606ff3e5575fa44f4f}
       \strng{authorfullhashraw}{418715aadaf08f606ff3e5575fa44f4f}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
@@ -880,8 +885,8 @@
       \strng{authornamehash}{237be0216d49771d32eaf1f82c8afb0f}
       \strng{authorfullhash}{237be0216d49771d32eaf1f82c8afb0f}
       \strng{authorfullhashraw}{237be0216d49771d32eaf1f82c8afb0f}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The successful implementation of various enterprise resource planning ({ERP}) systems has provoked considerable interest over the last few years. Management has recently been enticed to look toward these new information technologies and philosophies of manufacturing for the key to survival or competitive edges. Although there is no shortage of glowing reports on the success of {ERP} installations, many companies have tossed millions of dollars in this direction with little to show for it. Since many of the {ERP} failures today can be attributed to inadequate planning prior to installation, we choose to analyze several critical planning issues including needs assessment and choosing a right {ERP} system, matching business process with the {ERP} system, understanding the organizational requirements, and economic and strategic justification. In addition, this study also identifies new windows of opportunity as well as challenges facing companies today as enterprise systems continue to evolve and expand.}
@@ -934,8 +939,8 @@
       \strng{authornamehash}{1d6c135dd99078762e4b38a33baa8397}
       \strng{authorfullhash}{1d6c135dd99078762e4b38a33baa8397}
       \strng{authorfullhashraw}{1d6c135dd99078762e4b38a33baa8397}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{Enterprise Resource Planning ({ERP}) und Supply Chain Management ({SCM}) gehören zu den Kernaufgaben eines Industrieunternehmens. Sie haben sich evolutionär aus der Produktionsplanung und -steuerung ({PPS}) herausentwickelt. Ein Großteil der betriebswirtschaftlichen, administrativen und teilweise auch technischen Aufgaben eines Industrieunternehmens wird heute durch {ERP}- und {SCM}-Systeme unterstützt. Das Buch erklärt die konzeptionellen Grundlagen der Systeme, zeigt auf, wie typische Geschäftsprozesse mit Hilfe praktischer Systeme (z.B. {SAP} {ERP}) durchgeführt werden, und behandelt aktuelle Entwicklungen wie Industrie 4.0. Fertigungsnahe und technische Anwendungssysteme werden mit ihren Schnitt stellen um {ERP} und {SCM} herum platziert. Die praktische Umsetzung theoretischer Konzepte illustrieren zahlreiche Anwendungsbeispiele.}
@@ -1103,42 +1108,7 @@
       \field{dateera}{ce}
       \keyw{Computers / Business \& Productivity Software / Business Intelligence,Computers / Distributed Systems / Cloud Computing,Computers / Business \& Productivity Software / General}
     \endentry
-    \entry{milindav_abrufen_nodate}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=7da733dc517f4c2edc9ebd1cf7f20c78}{%
-           family={Milindav},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{fullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{fullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{bibnamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{authorbibnamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{authornamehash}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{authorfullhash}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \strng{authorfullhashraw}{7da733dc517f4c2edc9ebd1cf7f20c78}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Eine Übersicht über Berichts- und Analyseoptionen, die in Dataverse- und Dynamics 365-Apps verfügbar sind.}
-      \field{langid}{german}
-      \field{title}{Abrufen von Einblicken aus Ihren Dataverse-Daten - Power Apps}
-      \field{urlday}{27}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZSHUF7I6\\data-get-insights-overview.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://learn.microsoft.com/de-de/power-apps/maker/data-platform/data-get-insights-overview
-      \endverb
-      \verb{url}
-      \verb https://learn.microsoft.com/de-de/power-apps/maker/data-platform/data-get-insights-overview
-      \endverb
-    \endentry
-    \entry{cabeln_enable_nodate}{online}{}{}
+    \entry{cabeln_enable_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=2f8758f3e59ffefb6473193a54a423f0}{%
            family={cabeln},
@@ -1152,17 +1122,20 @@
       \strng{authornamehash}{2f8758f3e59ffefb6473193a54a423f0}
       \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
       \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
-      \field{extraname}{1}
       \field{sortinit}{3}
       \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
+      \field{day}{11}
       \field{langid}{english}
+      \field{month}{4}
       \field{title}{Enable Copilot capabilities in finance and operations apps - Finance \& Operations {|} Dynamics 365}
       \field{urlday}{28}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\XBRR6GRP\\enable-copilot.html:text/html
@@ -1174,113 +1147,75 @@
       \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
       \endverb
     \endentry
-    \entry{ramakrishnamoorthy_dual-write_nodate}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=20bd5f789b03315d75a41c392115a8bf}{%
-           family={{RamaKrishnamoorthy}},
-           familyi={R\bibinitperiod}}}%
+    \entry{sengar_generative_2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{hash=3fc029ce802bf308f604d69367c9c5d5}{%
+           family={Sengar},
+           familyi={S\bibinitperiod},
+           given={Sandeep\bibnamedelima Singh},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=52c78ccf2d7dcdf1ce2e0b966925f504}{%
+           family={Hasan},
+           familyi={H\bibinitperiod},
+           given={Affan\bibnamedelima Bin},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=42bfba992cc41fac7579730168fa6433}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Sanjay},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7203ea934537e99c0ce0d498bc9028bd}{%
+           family={Carroll},
+           familyi={C\bibinitperiod},
+           given={Fiona},
+           giveni={F\bibinitperiod}}}%
       }
-      \strng{namehash}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{fullhash}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{fullhashraw}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{bibnamehash}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{authorbibnamehash}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{authornamehash}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{authorfullhash}{20bd5f789b03315d75a41c392115a8bf}
-      \strng{authorfullhashraw}{20bd5f789b03315d75a41c392115a8bf}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \strng{namehash}{e44a020d8bd105a6cd212fb3884de6be}
+      \strng{fullhash}{9cf8b0859a5f7648927ce5a897cffbf3}
+      \strng{fullhashraw}{9cf8b0859a5f7648927ce5a897cffbf3}
+      \strng{bibnamehash}{9cf8b0859a5f7648927ce5a897cffbf3}
+      \strng{authorbibnamehash}{9cf8b0859a5f7648927ce5a897cffbf3}
+      \strng{authornamehash}{e44a020d8bd105a6cd212fb3884de6be}
+      \strng{authorfullhash}{9cf8b0859a5f7648927ce5a897cffbf3}
+      \strng{authorfullhashraw}{9cf8b0859a5f7648927ce5a897cffbf3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Learn about dual-write, which provides near-real-time interaction between customer engagement apps and finance and operations apps.}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{In recent years, the study of artificial intelligence ({AI}) has undergone a paradigm shift. This has been propelled by the groundbreaking capabilities of generative models both in supervised and unsupervised learning scenarios. Generative {AI} has shown state-of-the-art performance in solving perplexing real-world conundrums in fields such as image translation, medical diagnostics, textual imagery fusion, natural language processing, and beyond. This paper documents the systematic review and analysis of recent advancements and techniques in Generative {AI} with a detailed discussion of their applications including application-specific models. Indeed, the major impact that generative {AI} has made to date, has been in language generation with the development of large language models, in the field of image translation and several other interdisciplinary applications of generative {AI}. Moreover, the primary contribution of this paper lies in its coherent synthesis of the latest advancements in these areas, seamlessly weaving together contemporary breakthroughs in the field. Particularly, how it shares an exploration of the future trajectory for generative {AI}. In conclusion, the paper ends with a discussion of Responsible {AI} principles, and the necessary ethical considerations for the sustainability and growth of these generative models.}
+      \field{day}{14}
+      \field{issn}{1573-7721}
+      \field{journaltitle}{Multimedia Tools and Applications}
       \field{langid}{english}
-      \field{title}{Dual-write overview - Finance \& Operations {|} Dynamics 365}
-      \field{urlday}{28}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
+      \field{month}{8}
+      \field{number}{21}
+      \field{shortjournal}{Multimed Tools Appl}
+      \field{shorttitle}{Generative artificial intelligence}
+      \field{title}{Generative artificial intelligence: a systematic review and applications}
+      \field{urlday}{15}
+      \field{urlmonth}{1}
+      \field{urlyear}{2026}
+      \field{volume}{84}
+      \field{year}{2024}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
+      \field{pages}{23661\bibrangedash 23700}
+      \range{pages}{40}
+      \verb{doi}
+      \verb 10.1007/s11042-024-20016-1
+      \endverb
       \verb{file}
-      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\ZKF7JUHD\\dual-write-overview.html:text/html
+      \verb Full Text PDF:C\:\\Users\\xgwsdab\\Zotero\\storage\\IYFGAUUV\\Sengar et al. - 2025 - Generative artificial intelligence a systematic review and applications.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview
+      \verb https://doi.org/10.1007/s11042-024-20016-1
       \endverb
       \verb{url}
-      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/data-entities/dual-write/dual-write-overview
+      \verb https://doi.org/10.1007/s11042-024-20016-1
       \endverb
+      \keyw{Diffusion,Generative adversarial networks,Generative artificial intelligence,Segmentation,Transformers,Variational autoencoder}
     \endentry
-    \entry{jaredha_enable_nodate}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=cfcaa1d779d1f0990a9b8204d26ed9c9}{%
-           family={jaredha},
-           familyi={j\bibinitperiod}}}%
-      }
-      \strng{namehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{fullhash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{fullhashraw}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{bibnamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{authorbibnamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{authornamehash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{authorfullhash}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \strng{authorfullhashraw}{cfcaa1d779d1f0990a9b8204d26ed9c9}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Learn about how to enable finance and operations apps virtual entities in Microsoft Dataverse, including an overview on how to generate virtual entities.}
-      \field{langid}{english}
-      \field{title}{Enable Microsoft Dataverse virtual entities - Finance \& Operations {|} Dynamics 365}
-      \field{urlday}{28}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\MWPXX3SU\\enable-virtual-entities.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities
-      \endverb
-      \verb{url}
-      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/power-platform/enable-virtual-entities
-      \endverb
-    \endentry
-    \entry{cabeln_enable_nodate-1}{online}{}{}
-      \name{author}{1}{}{%
-        {{hash=2f8758f3e59ffefb6473193a54a423f0}{%
-           family={cabeln},
-           familyi={c\bibinitperiod}}}%
-      }
-      \strng{namehash}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{fullhash}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{fullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{bibnamehash}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{authorbibnamehash}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{authornamehash}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{authorfullhash}{2f8758f3e59ffefb6473193a54a423f0}
-      \strng{authorfullhashraw}{2f8758f3e59ffefb6473193a54a423f0}
-      \field{extraname}{2}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{Learn how administrators can enable basic Copilot capabilities in finance and operations apps.}
-      \field{langid}{english}
-      \field{title}{Enable Copilot capabilities in finance and operations apps - Finance \& Operations {|} Dynamics 365}
-      \field{urlday}{28}
-      \field{urlmonth}{11}
-      \field{urlyear}{2025}
-      \field{urldateera}{ce}
-      \verb{file}
-      \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\3KAZJTB7\\enable-copilot.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
-      \endverb
-      \verb{url}
-      \verb https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/dev-itpro/copilot/enable-copilot
-      \endverb
-    \endentry
-    \entry{iaanw_overview_nodate}{online}{}{}
+    \entry{iaanw_overview_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=42192fe26e7f6ee462d65b157127d12d}{%
            family={iaanw},
@@ -1299,11 +1234,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Build intelligent {AI} agents effortlessly with Microsoft Copilot Studio. Create, customize, and deploy agents across platforms using a low-code interface.}
+      \field{day}{26}
       \field{langid}{english}
+      \field{month}{11}
       \field{title}{Overview - Microsoft Copilot Studio}
       \field{urlday}{28}
       \field{urlmonth}{11}
       \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\TRGGTMTF\\fundamentals-what-is-copilot-studio.html:text/html
@@ -1334,7 +1273,7 @@
       \verb https://microsoft.github.io/agent-academy/recruit/02-copilot-studio-fundamentals/
       \endverb
     \endentry
-    \entry{henryjammes_topics_nodate}{online}{}{}
+    \entry{henryjammes_topics_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=8ccf2eb5942cfd253697eb0d5c16bfca}{%
            family={{HenryJammes}},
@@ -1353,11 +1292,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Understand the different types of topics comprised in agents you create with Microsoft Copilot Studio.}
+      \field{day}{18}
       \field{langid}{english}
+      \field{month}{9}
       \field{title}{Topics in Copilot Studio - Microsoft Copilot Studio}
       \field{urlday}{30}
       \field{urlmonth}{12}
       \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\RBTJ34HG\\topics-overview.html:text/html
@@ -1369,7 +1312,7 @@
       \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/guidance/topics-overview
       \endverb
     \endentry
-    \entry{garypretty_add_nodate}{online}{}{}
+    \entry{garypretty_add_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=e465f5f1e7232a6f9855b14c7ec98b12}{%
            family={garypretty},
@@ -1388,11 +1331,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Extend your Microsoft Copilot Studio agent with tools to automatically respond to users with generative answers.}
+      \field{day}{26}
       \field{langid}{english}
+      \field{month}{11}
       \field{title}{Add tools to custom agents - Microsoft Copilot Studio}
       \field{urlday}{30}
       \field{urlmonth}{12}
       \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\R93B25ZP\\advanced-plugin-actions.html:text/html
@@ -1404,7 +1351,7 @@
       \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/advanced-plugin-actions
       \endverb
     \endentry
-    \entry{mssqlgirl_knowledge_nodate}{online}{}{}
+    \entry{mssqlgirl_knowledge_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=3cad283eadc5da7ff19b6dcae4898148}{%
            family={{MsSQLGirl}},
@@ -1423,11 +1370,15 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Learn how knowledge sources in Microsoft Copilot Studio enhance generative answers by integrating enterprise data, websites, and external systems.}
+      \field{day}{12}
       \field{langid}{english}
+      \field{month}{2}
       \field{title}{Knowledge sources summary - Microsoft Copilot Studio}
       \field{urlday}{30}
       \field{urlmonth}{12}
       \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\A3CZR8RX\\knowledge-copilot-studio.html:text/html
@@ -1439,7 +1390,7 @@
       \verb https://learn.microsoft.com/en-us/microsoft-copilot-studio/knowledge-copilot-studio
       \endverb
     \endentry
-    \entry{relnotes_add_nodate}{online}{}{}
+    \entry{relnotes_add_2025}{online}{}{}
       \name{author}{1}{}{%
         {{hash=d2b70fc121f3dab046b476fbfcd7f7ab}{%
            family={relnotes},
@@ -1453,16 +1404,20 @@
       \strng{authornamehash}{d2b70fc121f3dab046b476fbfcd7f7ab}
       \strng{authorfullhash}{d2b70fc121f3dab046b476fbfcd7f7ab}
       \strng{authorfullhashraw}{d2b70fc121f3dab046b476fbfcd7f7ab}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Add Finance and Operations data from Dynamics 365 as a knowledge source to your agent to allow {AI} reasoning and improve operational decision making.}
+      \field{day}{18}
       \field{langid}{english}
+      \field{month}{11}
       \field{title}{Add Finance and Operations virtual tables as a knowledge source}
       \field{urlday}{31}
       \field{urlmonth}{12}
       \field{urlyear}{2025}
+      \field{year}{2025}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
       \verb{file}
       \verb Snapshot:C\:\\Users\\xgwsdab\\Zotero\\storage\\Z2ZCB28U\\add-finance-operations-virtual-tables-as-knowledge-source.html:text/html
@@ -1505,8 +1460,8 @@
       \strng{authornamehash}{c70aaea2568720f5f3d6d013ac42fe63}
       \strng{authorfullhash}{bb8209e2888b6f5e921daaf056d0f340}
       \strng{authorfullhashraw}{bb8209e2888b6f5e921daaf056d0f340}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{The 1956 Dartmouth summer research project on artificial intelligence was initiated by this August 31, 1955 proposal, authored by John {McCarthy}, Marvin Minsky, Nathaniel Rochester, and Claude Shannon. The original typescript consisted of 17 pages plus a title page. Copies of the typescript are housed in the archives at Dartmouth College and Stanford University. The first 5 papers state the proposal, and the remaining pages give qualifications and interests of the four who proposed the study. In the interest of brevity, this article reproduces only the proposal itself, along with the short autobiographical statements of the proposers.}
@@ -1555,8 +1510,8 @@
       \strng{authornamehash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhash}{627c3779677d0eaf3312e5b67e8cbe0c}
       \strng{authorfullhashraw}{627c3779677d0eaf3312e5b67e8cbe0c}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{This article for the layman answers basic questions about artiﬁcial intelligence. The opinions expressed here are not all consensus opinion among researchers in {AI}.}
@@ -1642,7 +1597,7 @@
       \verb{url}
       \verb https://doi.org/10.1007/978-3-658-44855-4_2
       \endverb
-      \keyw{Big Data,Internet of Things,Deep Learning,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
+      \keyw{Big Data,Deep Learning,Internet of Things,Künstliche Intelligenz,Maschinelles Lernen,Neuronale Netze}
     \endentry
     \entry{noauthor_was_2020}{online}{}{}
       \field{sortinit}{5}
@@ -1876,8 +1831,8 @@
       \strng{editornamehash}{d31e8b348bb58445891da3c33defa0ea}
       \strng{editorfullhash}{d31e8b348bb58445891da3c33defa0ea}
       \strng{editorfullhashraw}{d31e8b348bb58445891da3c33defa0ea}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Often in water quality management, understanding the relationship between input and output data might be a complicated process. In this situation Data Driven Models using information and collected data (input data) find out the relationship between inputs and outputs. In this regard, Artificial Neural Network ({ANN}) is one of the Data Driven Models which has recently been applied as a tool for modeling complicated processes. In this chapter, after reviewing the developing process of {ANN} in water quality management, the theory of the {ANN} is mentioned in detail for both static and dynamic methods. Data preparation, learning rate and model efficiency including selection of number of neurons in hiding layer which has a minimum error in learning rate and network efficiency is described in detail. At the end step, as a case study water quality of Zaribar Lake located in the Northwestern part of Iran, using Multilayer Perceptron ({MLP}) neural network method are described.}
@@ -1923,8 +1878,8 @@
       \strng{authornamehash}{3cd892d672c7d965507b2e56ffeed176}
       \strng{authorfullhash}{3cd892d672c7d965507b2e56ffeed176}
       \strng{authorfullhashraw}{3cd892d672c7d965507b2e56ffeed176}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Deep Learning ist ein relativ neuer Ansatz im Bereich des maschinellen Lernens, einem Teilgebiet der künstlichen Intelligenz. Das Fachgebiet des maschinellen Lernens beschäftigt sich allgemein mit Verfahren, mit deren Hilfe Computer selbständig bestimmte Sachverhalte lernen können, z.B. ob auf einem Bild ein bestimmtes Gesicht abgebildet ist. Deep Learning zeichnet sich dadurch aus, dass der Lernprozess hier in Form von mehreren Ebenen hierarchisch organisiert ist. Höhere Ebenen beinhalten dabei zunehmend abstraktere und komplexere Konzepte, die auf den jeweiligen Konzepten der niedrigeren Ebenen basieren.}
@@ -1979,8 +1934,8 @@
       \strng{authornamehash}{3ae53fe582e8a815b118d26947eaa326}
       \strng{authorfullhash}{3ae53fe582e8a815b118d26947eaa326}
       \strng{authorfullhashraw}{3ae53fe582e8a815b118d26947eaa326}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{978-0-262-03561-3}
@@ -2374,8 +2329,8 @@
       \strng{editornamehash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhash}{a7abef1dfebab6974e93b1bf1c7716c9}
       \strng{editorfullhashraw}{a7abef1dfebab6974e93b1bf1c7716c9}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In diesem Kapitel wird zunächst in das Konzept der {KI}-Agenten eingeführt. Es ist für Unternehmen wichtig, sich mit diesen Systemen auseinanderzusetzen, da sie zukünftig viele interne und externe Aufgaben und Prozesse vollkommen autonom ausführen können. Dazu werden unterschiedliche {KI}-Agenten-Konzepte vorgestellt und beschrieben, wie die Agenten untereinander und mit weiteren Systemen interagieren und Daten sowie Informationen austauschen. Anschließend wird beschrieben, warum das Prompt Engineering in diesem Kontext so wichtig ist. Abschließend werden unterschiedliche Anwendungsfälle für {KI}-Agenten im Unternehmen vorgestellt.}
@@ -2698,8 +2653,8 @@
       \field{abstract}{Artificial intelligence ({AI}) has revolutionized demand forecasting within Enterprise Resource Planning ({ERP}) systems, offering a powerful tool to enhance accuracy and efficiency in predicting future demand patterns. This literature review explores the impact of {AI}-based predictive analytics on demand forecasting in {ERP} systems by synthesizing and analyzing existing research. This paper provides a comprehensive examination of the transformative effects of {AI}-driven demand forecasting across diverse industries, including fashion retail, biopharmaceuticals, energy management, and transportation. We highlight the unique benefits and applications of {AI}-driven demand forecasting, such as anticipating customer needs, optimizing inventory levels, and making data-driven decisions, ultimately leading to a competitive edge in the marketplace. Our study emphasizes the importance of {AI} integration into {ERP} systems for businesses seeking to enhance decision-making and achieve organizational success in today's dynamic and competitive business landscape. By providing valuable insights and showcasing significant improvements in forecasting accuracy, real-time insights, supply chain efficiency, and risk management facilitated by {AI}-based predictive analytics, this research contributes to advancing knowledge in the field and offers practical guidance for businesses and researchers alike.}
       \field{booktitle}{2024 International Research Conference on Smart Computing and Systems Engineering ({SCSE})}
       \field{eventtitle}{2024 International Research Conference on Smart Computing and Systems Engineering ({SCSE})}
+      \field{issn}{2613-8662}
       \field{month}{4}
-      \field{note}{{ISSN}: 2613-8662}
       \field{shorttitle}{Impact of {AI}-based predictive analytics on demand forecasting in {ERP} systems}
       \field{title}{Impact of {AI}-based predictive analytics on demand forecasting in {ERP} systems: A Systematic Literature Review}
       \field{urlday}{9}
@@ -2723,7 +2678,7 @@
       \verb{url}
       \verb https://ieeexplore.ieee.org/document/10550480
       \endverb
-      \keyw{Risk management,artificial intelligence,Artificial intelligence,Transportation,Demand forecasting,Decision making,Industries,Bibliographies,demand forecast,enterprise resource planning systems,inventory forecast}
+      \keyw{artificial intelligence,Artificial intelligence,Bibliographies,Decision making,demand forecast,Demand forecasting,enterprise resource planning systems,Industries,inventory forecast,Risk management,Transportation}
     \endentry
     \entry{sarferaz_implementing_2025}{article}{}{}
       \name{author}{1}{}{%
@@ -2822,6 +2777,9 @@
       \keyw{Programming,artificial intelligence,Scalability,Enterprise resource planning,Artificial intelligence,Libraries,{ERP},Business,{AI},Computer architecture,Complexity theory,Systematic literature review,{AI} development,business {AI},business applications,enterprise {AI},software integration,{AI} agents,agentic {AI},Systematics}
     \endentry
   \enddatalist
+  \missing{jaredha_enable_nodate}
+  \missing{milindav_abrufen_nodate}
+  \missing{ramakrishnamoorthy_dual-write_nodate}
 \endrefsection
 \endinput
 

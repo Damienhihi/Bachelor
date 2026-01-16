@@ -4,11 +4,11 @@ Dieses Kapitel stellt die Ergebnisse der im Rahmen der ersten Phase des \ac{DSR}
 
 %Unterkapitel
 \subsection{Beschreibung des Use Case}
-Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage ein zeitintensiver und fehleranfälliger Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. Diese Angebotsanlage setzt sich dabei aus zwei Bereichen zusammen, nämlich der Anlage des Angebotskopfes sowie der Anlage der Angebotspositionen.
+Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage einen zeitintensiven und fehleranfälligen Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. Diese Angebotsanlage setzt sich dabei aus zwei Bereichen zusammen, der Anlage des Angebotskopfes sowie der Anlage der Angebotspositionen.
 
-Ein wesentlicher Problembereich bei der Anlage von Angebotspositionen stellt die Artikelsuche dar. Diese ist ein wiederkehrender Prozessschritt und trägt maßgeblich zum zeitlichen Aufwand der Angebotsanlage bei, da zur Identifikation der korrekten Artikel häufig nicht alle erforderlichen Informationen unmittelbar vorliegen.
+Ein wesentlicher Problembereich bei der Anlage von Angebotspositionen stellt die Artikelsuche dar. Diese ist ein wiederkehrender Prozessschritt und trägt maßgeblich zum zeitlichen Aufwand der Angebotsanlage bei, da  häufig nicht alle erforderlichen Informationen zur Identifikation der korrekten Artikel unmittelbar vorliegen.
 
-Darüber hinaus zeigt sich ein erhöhter manueller Aufwand bei regelmäßig wiederkehrenden Tätigkeiten. Bestimmte Arbeitsschritte können systemseitig nicht kopiert oder wiederverwendet werden, da hierfür keine technische Unterstützung vorgesehen ist. Dies führt insbesondere bei Projekten mit mehreren Mandanten zu einem erheblichen zusätzlichen Zeitaufwand.
+Darüber hinaus zeigt sich ein erhöhter manueller Aufwand bei regelmäßig wiederkehrenden Tätigkeiten. Bestimmte Arbeitsschritte können systemseitig nicht kopiert oder wiederverwendet werden, da hierfür keine technische Unterstützung vorgesehen ist. Dies führt insbesondere bei Projekten mit mehreren Mandanten, zu einem erheblichen zusätzlichen Zeitaufwand.
 
 Die Auswahl dieses Use Cases begründet sich insbesondere durch das vorteilhafte Verhältnis eines hohen potenziellen Nutzens bei gleichzeitig vergleichsweise geringer Implementierungskomplexität. Aufgrund der intensiven Nutzung der Angebotsfunktionen in \ac{D365FnSCM} kann ein erheblicher Mehrwert für die Anwender realisiert werden.
 
@@ -29,11 +29,11 @@ Durch diese Probleme werden Angebote in \ac{D365FnSCM} sowohl zeitaufwendig als 
 \subsubsection{Erwartungen}
 Neben den identifizierten Problemen wurden im Rahmen der Interviews auch verschiedene Erwartungen im Hinblick auf eine Unterstützung der Angebotsanlage durch einen \ac{KI}-Agenten geäußert, die sowohl auf den identifizierten Problemen aufbauen als auch unabhängig davon entstanden sind.
 
-Die Interviewpartner bringen zum Ausdruck, dass eine starke Unterstützung bei der Befüllung des Angebotskopfes sowie wichtige Angebotsfelder als wünschenswert erachtet wird. Dabei wird insbesondere die korrekte Übernahme relevanter Informationen, wie beispielsweise Debitoren- oder Referenznummern sowie abweichender Lieferadressen genannt.
+Die Interviewpartner bringen zum Ausdruck, dass eine starke Unterstützung bei der Befüllung des Angebotskopfes sowie wichtige Angebotsfelder als wünschenswert erachtet werden. Dabei wird insbesondere die korrekte Übernahme relevanter Informationen, wie beispielsweise Debitoren- oder Referenznummern sowie abweichender Lieferadressen genannt.
 
 Darüber hinaus wird die Erwartung geäußert, dass auftretende Fehler während der Angebotsanlage nachvollziehbar dargestellt werden. Die nachvollziehbare Darstellung dieser Fehler wird als hilfreich angesehen, da dadurch der Nutzer unterstützt werden kann, notwendige Korrekturen vornehmen zu können.
 
-Aufbauend auf dem Problem der Artikelsuche äußern die Interviewpartner den Wunsch nach einer Unterstützung bei der Identifikation des richtigen Artikels auf Basis vorhandener Informationen. In diesem Zusammenhang wird auch die Berücksichtigung historischer Preisinformationen als sinnvoll genannt, um Preise anhand von früheren Angeboten in der Preisfindung einbeziehen zu können. Zusätzlich wird die Berücksichtigung von Mengenvorgaben bei Artikeln genannt, da bestimmte Artikel nur in festgelegten Mengen bestellt werden dürfen.
+Aufbauend auf dem Problem der Artikelsuche äußern die Interviewpartner den Wunsch nach einer Unterstützung bei der Identifikation des richtigen Artikels auf Basis vorhandener Informationen. In diesem Zusammenhang wird auch die Berücksichtigung historischer Preisinformationen als sinnvoll benannt, um Preise anhand von früheren Angeboten in der Preisfindung einbeziehen zu können. Zusätzlich wird die Berücksichtigung von Mengenvorgaben bei Artikeln genannt, da bestimmte Artikel nur in festgelegten Mengen bestellt werden dürfen.
 
 Eine weitere Erwartung betrifft die Möglichkeit, nachträgliche Korrekturen während der Angebotsanlage vorzunehmen, falls Fehler erkannt werden. Darüber hinaus wird erwartet, dass der \ac{KI}-Agent als Chat-Interface zur Verfügung steht und schlussendlich sowohl von den Vertrieblern als auch von den Kunden selbst genutzt werden kann, um ein Angebot anzulegen.
 
@@ -41,7 +41,7 @@ Wichtig ist ebenfalls, dass die Nutzung des \ac{KI}-Agenten möglichst einfach u
 
 \subsubsection{Risiken und Bedenken}
 Neben den zuvor beschriebenen Problemen und Erwartungen wurden im Rahmen der Interviews auch diverse Risiken und Bedenken identifiziert.
-Das erste und größte Risiko ist das Anlegen von falschen Angeboten durch den \ac{KI}-Agenten, was verschiedene Probleme nach sich ziehen kann. Zuallererst greift das gleiche Problem wie bei der falschen manuellen Angebotsanlage, dass im weiteren Vertriebsprozess Mehrarbeit entsteht, da die Fehler korrigiert werden müssen. Darüber hinaus kann es bei den Anwendern zu Demotivation kommen, wenn der \ac{KI}-Agent wiederholt fehlerhafte Angebote anlegt. In der Folge besteht die Gefahr, dass der \ac{KI}-Agent nicht weiter genutzt wird und sich bei den Nutzern langfristig eine ablehnende oder skeptische Haltung gegenüber \ac{KI}-gestützten Lösungen entwickelt.
+Das erste und größte Risiko ist das Anlegen von falschen Angeboten durch den \ac{KI}-Agenten, was verschiedene Probleme nach sich ziehen kann. Zuallererst greift das gleiche Problem wie bei der falschen manuellen Angebotsanlage, nämlich dass im weiteren Vertriebsprozess Mehrarbeit durch die Korrektur von Fehlern entsteht. Darüber hinaus kann es bei den Anwendern zu Demotivation kommen, wenn der \ac{KI}-Agent wiederholt fehlerhafte Angebote anlegt. In der Folge besteht die Gefahr, dass der \ac{KI}-Agent nicht weiter genutzt wird und sich bei den Nutzern langfristig eine ablehnende oder skeptische Haltung gegenüber \ac{KI}-gestützten Lösungen entwickelt.
 
 \subsubsection{Funktionale Anforderungen}
 Auf Basis der identifizierten Probleme und Erwartungen sowie weiterer Aussagen der Interviewpartner lassen sich verschiedene funktionale Anforderungen an den \ac{KI}-Agenten ableiten. 
@@ -66,7 +66,7 @@ Der \ac{KI}-Agent soll nachvollziehbare Entscheidungen treffen und diese für de
 
 Darüber hinaus soll der \ac{KI}-Agent zuverlässige und konsistente Ergebnisse liefern, um fehlerhafte Angebotsanlagen und daraus resultierende Nacharbeiten zu vermeiden.
 
-Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz unterstützen, indem er Anwender bei der Angebotsanlage unterstützt und nicht als zusätzliche Fehlerquelle wahrgenommen wird.
+Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz fördern, indem er Anwender bei der Angebotsanlage unterstützt und nicht als zusätzliche Fehlerquelle wahrgenommen wird.
 
 Zuletzt soll die Nutzung des \ac{KI}-Agenten einfach und intuitiv gestaltet sein, sodass auch technisch weniger versierte Anwender ohne umfangreiche Einarbeitung mit dem System arbeiten können.
 
@@ -83,5 +83,5 @@ Darüber hinaus ergibt sich ein mögliches Effizienzpotenzial aus der Unterstüt
 
 Ein weiteres, aus den zuvor genannten möglichen Effizienzpotenzialen resultierendes mögliches Potenzial liegt in der Unterstützung bei der Einarbeitung neuer Anwender. Da insbesondere neue Nutzer häufig Schwierigkeiten bei der korrekten Angebotsanlage im \ac{ERP}-System haben, kann der \ac{KI}-Agent, aufbauend auf den Anforderungen an eine intuitive Interaktion sowie eine fehlerarme und nachvollziehbare Prozessführung, dazu beitragen, Eingabefehler zu reduzieren und den Angebotsprozess insgesamt zu erleichtern.
 
-Schließlich liegt in der Reduktion von Nacharbeit im weiteren Vertriebsprozess ein weiteres mögliches Effizienzpotenzial. Durch die frühzeitige Validierung von Eingaben sowie die nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden werden. Dies trägt dazu bei, Korrekturen in nachgelagerten Prozessschritten zu reduzieren und die Qualität der Angebotsdaten zu erhöhen.
+Schließlich liegt in der Reduktion von Nacharbeit im weiteren Vertriebsprozess ein zusätzliches mögliches Effizienzpotenzial. Durch die frühzeitige Validierung von Eingaben sowie die nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden werden. Dies trägt dazu bei, Korrekturen in nachgelagerten Prozessschritten zu reduzieren und die Qualität der Angebotsdaten zu erhöhen.
 
