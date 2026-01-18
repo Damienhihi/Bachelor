@@ -1,16 +1,17 @@
 \section{Problem- und Anforderungsanalyse}
 %Einleitung in das Kapitel
-Dieses Kapitel stellt die Ergebnisse der im Rahmen der ersten Phase des \ac{DSR} durchgeführten Problemidentifikation dar. Grundlage bilden die im Rahmen dieser Arbeit geführten Experteninterviews. Ziel des Kapitels ist es, den identifizierten Use Case für den Einsatz eines \ac{KI}-Agenten in \ac{D365FnSCM} darzustellen, darauf aufbauend die funktionalen sowie nicht-funktionalen Anforderungen aufzustellen und abschließend die abgeleiteten möglichen Effizienzpotenziale zu beschreiben.
+Dieses Kapitel stellt die Ergebnisse der im Rahmen der ersten beiden Phasen des \ac{DSR} durchgeführten Problemidentifikation und Zieldefinition dar. Grundlage bilden die im Rahmen dieser Arbeit geführten Experteninterviews. Die vollständigen Interviewtranskripte sind im \ref{anhang:i1}, \ref{anhang:i2} und \ref{anhang:i3} dokumentiert und werden im weiteren Verlauf dieses Kapitels aus Gründen der Übersichtlichkeit mit I1, I2 und I3 referenziert. Ziel des Kapitels ist es, den identifizierten Use Case für den Einsatz eines \ac{KI}-Agenten in \ac{D365FnSCM} darzustellen, darauf aufbauend die funktionalen sowie nicht-funktionalen Anforderungen aufzustellen, mögliche Effizienzpotenziale zu beschreiben und abschließend die Ziele des \ac{KI}-Agenten zu definieren.
 
 %Unterkapitel
 \subsection{Beschreibung des Use Case}
-Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage einen zeitintensiven und fehleranfälligen Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. Diese Angebotsanlage setzt sich dabei aus zwei Bereichen zusammen, der Anlage des Angebotskopfes sowie der Anlage der Angebotspositionen.
+Basierend auf dem Ergebnis des ersten Experteninterviews wurde die Unterstützung der Angebotsanlage in \ac{D365FnSCM} als Use Case identifiziert. Diese stellt sich als besonders geeignet dar, weil die Angebotsanlage einen zeitintensiven und fehleranfälligen Prozess darstellt und einen zentralen Bestandteil der Vertriebsaktivitäten eines Unternehmens bildet. Diese Angebotsanlage setzt sich dabei aus zwei Bereichen zusammen, der Anlage des Angebotskopfes sowie der Anlage der Angebotspositionen. (vgl. \hyperref[anhang:i1]{I1})
 
-Ein wesentlicher Problembereich bei der Anlage von Angebotspositionen stellt die Artikelsuche dar. Diese ist ein wiederkehrender Prozessschritt und trägt maßgeblich zum zeitlichen Aufwand der Angebotsanlage bei, da  häufig nicht alle erforderlichen Informationen zur Identifikation der korrekten Artikel unmittelbar vorliegen.
 
-Darüber hinaus zeigt sich ein erhöhter manueller Aufwand bei regelmäßig wiederkehrenden Tätigkeiten. Bestimmte Arbeitsschritte können systemseitig nicht kopiert oder wiederverwendet werden, da hierfür keine technische Unterstützung vorgesehen ist. Dies führt insbesondere bei Projekten mit mehreren Mandanten, zu einem erheblichen zusätzlichen Zeitaufwand.
+Ein wesentlicher Problembereich bei der Anlage von Angebotspositionen stellt die Artikelsuche dar. Diese ist ein wiederkehrender Prozessschritt und trägt maßgeblich zum zeitlichen Aufwand der Angebotsanlage bei, da  häufig nicht alle erforderlichen Informationen zur Identifikation der korrekten Artikel unmittelbar vorliegen. (vgl. \hyperref[anhang:i1]{I1})
 
-Die Auswahl dieses Use Cases begründet sich insbesondere durch das vorteilhafte Verhältnis eines hohen potenziellen Nutzens bei gleichzeitig vergleichsweise geringer Implementierungskomplexität. Aufgrund der intensiven Nutzung der Angebotsfunktionen in \ac{D365FnSCM} kann ein erheblicher Mehrwert für die Anwender realisiert werden.
+Darüber hinaus zeigt sich ein erhöhter manueller Aufwand bei regelmäßig wiederkehrenden Tätigkeiten. Bestimmte Arbeitsschritte können systemseitig nicht kopiert oder wiederverwendet werden, da hierfür keine technische Unterstützung vorgesehen ist. Dies führt insbesondere bei Projekten mit mehreren Mandanten, zu einem erheblichen zusätzlichen Zeitaufwand. (vgl. \hyperref[anhang:i1]{I1})
+
+Die Auswahl dieses Use Cases begründet sich insbesondere durch das vorteilhafte Verhältnis eines hohen potenziellen Nutzens bei gleichzeitig vergleichsweise geringer Implementierungskomplexität. Aufgrund der intensiven Nutzung der Angebotsfunktionen in \ac{D365FnSCM} kann ein erheblicher Mehrwert für die Anwender realisiert werden. (vgl. \hyperref[anhang:i1]{I1})
 
 \subsection{Ergebnisse der qualitativen Inhaltsanalyse}
 
@@ -18,57 +19,59 @@ Die Auswertung der Experteninterviews hat zur Identifikation verschiedener Probl
 
 \subsubsection{Identifizierte Probleme}
 Das erste identifizierte Problem ist die hohe Zeitintensität der Angebotsanlage in \ac{D365FnSCM}. Diese resultiert aus mehreren Ursachen, die zu einem erhöhten manuellen Aufwand führen. 
-Eine erste Ursache besteht darin, dass die für die Angebotserstellung relevanten Felder innerhalb der Benutzeroberfläche verteilt sind. Anwender müssen diese Felder daher einzeln aufsuchen und manuell befüllen, was den Prozess verlängert.
+Eine erste Ursache besteht darin, dass die für die Angebotserstellung relevanten Felder innerhalb der Benutzeroberfläche verteilt sind. Anwender müssen diese Felder daher einzeln aufsuchen und manuell befüllen, was den Prozess verlängert. (vgl. \hyperref[anhang:i2]{I2})
 
-Eine zweite Ursache ist, dass viele Angebotsfelder, welche für die Erstellung eines Angebots gewünscht sind, systemseitig nicht als notwendig gekennzeichnet sind. Fehlende Angaben werden dadurch häufig erst zu einem späten Zeitpunkt im Prozess erkannt, was zu nachträglichen Korrekturen und zusätzlichem Zeitaufwand führt. Ein zentrales Beispiel hierfür ist die Referenznummer, die zur Verknüpfung eines Angebots mit einer Bestellung dient.
+Eine zweite Ursache ist, dass viele Angebotsfelder, welche für die Erstellung eines Angebots gewünscht sind, systemseitig nicht als notwendig gekennzeichnet sind. Fehlende Angaben werden dadurch häufig erst zu einem späten Zeitpunkt im Prozess erkannt, was zu nachträglichen Korrekturen und zusätzlichem Zeitaufwand führt. Ein zentrales Beispiel hierfür ist die Referenznummer, die zur Verknüpfung eines Angebots mit einer Bestellung dient. (vgl. \hyperref[anhang:i3]{I3})
 
-Eine weitere Ursache für den erhöhten Zeitaufwand ist die zuvor beschriebene Artikelsuche. Diese reagiert häufig träge und liefert eine große Anzahl potenzieller Treffer, wodurch die Identifikation des korrekten Artikels zeitaufwendig wird. Darüber hinaus ist die Artikelsuche anfällig für Fehlangaben, da bereits kleinere Abweichungen, etwa durch Tippfehler, dazu führen können, dass keine passenden Treffer zurückgegeben werden. Dieses Problem wird zusätzlich dadurch verstärkt, dass zur Identifikation des richtigen Artikels nicht immer alle notwendigen Informationen vorliegen.
+Eine weitere Ursache für den erhöhten Zeitaufwand ist die zuvor beschriebene Artikelsuche. Diese reagiert häufig träge und liefert eine große Anzahl potenzieller Treffer, wodurch die Identifikation des korrekten Artikels zeitaufwendig wird. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3}) Darüber hinaus ist die Artikelsuche anfällig für Fehlangaben, da bereits kleinere Abweichungen, etwa durch Tippfehler, dazu führen können, dass keine passenden Treffer zurückgegeben werden. Dieses Problem wird zusätzlich dadurch verstärkt, dass zur Identifikation des richtigen Artikels nicht immer alle notwendigen Informationen vorliegen. (vgl. \hyperref[anhang:i3]{I3})
 
-Durch diese Probleme werden Angebote in \ac{D365FnSCM} sowohl zeitaufwendig als auch fehleranfällig angelegt. Fehlerhaft erstellte Angebote führen im weiteren Verlauf des Vertriebsprozesses zu zusätzlichem Aufwand, da notwendige Korrekturen nachträglich vorgenommen werden müssen. Wie bereits im Use Case beschrieben, stellt dies insbesondere für neue Anwender ein Problem dar, da ihnen häufig das erforderliche Prozess- und Systemwissen fehlt, um Angebote von Beginn an korrekt anzulegen.
+Durch diese Probleme werden Angebote in \ac{D365FnSCM} sowohl zeitaufwendig als auch fehleranfällig angelegt. Fehlerhaft erstellte Angebote führen im weiteren Verlauf des Vertriebsprozesses zu zusätzlichem Aufwand, da notwendige Korrekturen nachträglich vorgenommen werden müssen. Wie bereits im Use Case beschrieben, stellt dies insbesondere für neue Anwender ein Problem dar, da ihnen häufig das erforderliche Prozess- und Systemwissen fehlt, um Angebote von Beginn an korrekt anzulegen. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i3]{I3})
 
 \subsubsection{Erwartungen}
 Neben den identifizierten Problemen wurden im Rahmen der Interviews auch verschiedene Erwartungen im Hinblick auf eine Unterstützung der Angebotsanlage durch einen \ac{KI}-Agenten geäußert, die sowohl auf den identifizierten Problemen aufbauen als auch unabhängig davon entstanden sind.
 
-Die Interviewpartner bringen zum Ausdruck, dass eine starke Unterstützung bei der Befüllung des Angebotskopfes sowie wichtige Angebotsfelder als wünschenswert erachtet werden. Dabei wird insbesondere die korrekte Übernahme relevanter Informationen, wie beispielsweise Debitoren- oder Referenznummern sowie abweichender Lieferadressen genannt.
+Die Interviewpartner bringen zum Ausdruck, dass eine starke Unterstützung bei der Befüllung des Angebotskopfes sowie wichtige Angebotsfelder als wünschenswert erachtet werden. Dabei wird insbesondere die korrekte Übernahme relevanter Informationen, wie beispielsweise Debitoren- oder Referenznummern sowie abweichender Lieferadressen genannt. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
 
-Darüber hinaus wird die Erwartung geäußert, dass auftretende Fehler während der Angebotsanlage nachvollziehbar dargestellt werden. Die nachvollziehbare Darstellung dieser Fehler wird als hilfreich angesehen, da dadurch der Nutzer unterstützt werden kann, notwendige Korrekturen vornehmen zu können.
+Darüber hinaus wird die Erwartung geäußert, dass auftretende Fehler während der Angebotsanlage nachvollziehbar dargestellt werden. Die nachvollziehbare Darstellung dieser Fehler wird als hilfreich angesehen, da dadurch der Nutzer unterstützt werden kann, notwendige Korrekturen vornehmen zu können. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i3]{I3})
 
-Aufbauend auf dem Problem der Artikelsuche äußern die Interviewpartner den Wunsch nach einer Unterstützung bei der Identifikation des richtigen Artikels auf Basis vorhandener Informationen. In diesem Zusammenhang wird auch die Berücksichtigung historischer Preisinformationen als sinnvoll benannt, um Preise anhand von früheren Angeboten in der Preisfindung einbeziehen zu können. Zusätzlich wird die Berücksichtigung von Mengenvorgaben bei Artikeln genannt, da bestimmte Artikel nur in festgelegten Mengen bestellt werden dürfen.
+Aufbauend auf dem Problem der Artikelsuche äußern die Interviewpartner den Wunsch nach einer Unterstützung bei der Identifikation des richtigen Artikels auf Basis vorhandener Informationen. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})In diesem Zusammenhang wird auch die Berücksichtigung historischer Preisinformationen als sinnvoll benannt, um Preise anhand von früheren Angeboten in der Preisfindung einbeziehen zu können. (vgl. \hyperref[anhang:i3]{I3}) Zusätzlich wird die Berücksichtigung von Mengenvorgaben bei Artikeln genannt, da bestimmte Artikel nur in festgelegten Mengen bestellt werden dürfen. (vgl. \hyperref[anhang:i2]{I2})
 
-Eine weitere Erwartung betrifft die Möglichkeit, nachträgliche Korrekturen während der Angebotsanlage vorzunehmen, falls Fehler erkannt werden. Darüber hinaus wird erwartet, dass der \ac{KI}-Agent als Chat-Interface zur Verfügung steht und schlussendlich sowohl von den Vertrieblern als auch von den Kunden selbst genutzt werden kann, um ein Angebot anzulegen.
+Eine weitere Erwartung betrifft die Möglichkeit, nachträgliche Korrekturen während der Angebotsanlage vorzunehmen, falls Fehler erkannt werden. (vgl. \hyperref[anhang:i2]{I2}) Darüber hinaus wird erwartet, dass der \ac{KI}-Agent als Chat-Interface zur Verfügung steht und schlussendlich sowohl von den Vertrieblern als auch von den Kunden selbst genutzt werden kann, um ein Angebot anzulegen. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
 
 Wichtig ist ebenfalls, dass die Nutzung des \ac{KI}-Agenten möglichst einfach und intuitiv gestaltet wird, da bei Lösungen immer von dem Nutzer ausgegangen werden muss, welcher technisch nicht allzu versiert ist. 
 
 \subsubsection{Risiken und Bedenken}
 Neben den zuvor beschriebenen Problemen und Erwartungen wurden im Rahmen der Interviews auch diverse Risiken und Bedenken identifiziert.
-Das erste und größte Risiko ist das Anlegen von falschen Angeboten durch den \ac{KI}-Agenten, was verschiedene Probleme nach sich ziehen kann. Zuallererst greift das gleiche Problem wie bei der falschen manuellen Angebotsanlage, nämlich dass im weiteren Vertriebsprozess Mehrarbeit durch die Korrektur von Fehlern entsteht. Darüber hinaus kann es bei den Anwendern zu Demotivation kommen, wenn der \ac{KI}-Agent wiederholt fehlerhafte Angebote anlegt. In der Folge besteht die Gefahr, dass der \ac{KI}-Agent nicht weiter genutzt wird und sich bei den Nutzern langfristig eine ablehnende oder skeptische Haltung gegenüber \ac{KI}-gestützten Lösungen entwickelt.
+Das erste und größte Risiko ist das Anlegen von falschen Angeboten durch den \ac{KI}-Agenten, was verschiedene Probleme nach sich ziehen kann. Zuallererst greift das gleiche Problem wie bei der falschen manuellen Angebotsanlage, nämlich dass im weiteren Vertriebsprozess Mehrarbeit durch die Korrektur von Fehlern entsteht. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3}) Darüber hinaus kann es bei den Anwendern zu Demotivation kommen, wenn der \ac{KI}-Agent wiederholt fehlerhafte Angebote anlegt. In der Folge besteht die Gefahr, dass der \ac{KI}-Agent nicht weiter genutzt wird und sich bei den Nutzern langfristig eine ablehnende oder skeptische Haltung gegenüber \ac{KI}-gestützten Lösungen entwickelt. (vgl. \hyperref[anhang:i3]{I3})
 
 \subsubsection{Funktionale Anforderungen}
 Auf Basis der identifizierten Probleme und Erwartungen sowie weiterer Aussagen der Interviewpartner lassen sich verschiedene funktionale Anforderungen an den \ac{KI}-Agenten ableiten. 
-Zuallererst soll der \ac{KI}-Agent Anwender bei der Anlage von Angeboten in \ac{D365FnSCM} unterstützen, indem er relevante Angebotsdaten im Angebotskopf erfasst und korrekt befüllt. Hierzu zählen insbesondere zentrale Felder wie die Debitorennummer, die Referenznummer sowie gegebenenfalls abweichende Lieferadressen oder Kontaktdaten.
-Darüber hinaus soll der \ac{KI}-Agent Anwender bei der Identifikation der Artikel unterstützen. Der Agent soll Artikel auf Basis vorhandener Informationen vorschlagen und die Artikelsuche vereinfachen, insbesondere in Fällen, in denen nicht alle relevanten Informationen vollständig vorliegen.
 
-Ein weiterer funktionaler Aspekt betrifft den Umgang mit Fehlern während der Angebotsanlage. Der \ac{KI}-Agent soll auftretende Fehler erkennen und nachvollziehbar darstellen, sodass diese für den Anwender verständlich erläutert werden. Dadurch sollen notwendige Korrekturen effizient vorgenommen werden können. Zusätzlich soll der Agent die nachträgliche Korrektur bereits eingegebener Angebotsdaten ermöglichen und Anwender auf fehlende Informationen hinweisen, damit diese ergänzt werden können.
+Zuallererst soll der \ac{KI}-Agent Anwender bei der Anlage von Angeboten in \ac{D365FnSCM} unterstützen, indem er relevante Angebotsdaten im Angebotskopf erfasst und korrekt befüllt. Hierzu zählen insbesondere zentrale Felder wie die Debitorennummer, die Referenznummer sowie gegebenenfalls abweichende Lieferadressen oder Kontaktdaten. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
 
-Zudem soll der \ac{KI}-Agent Anwender bei der Preisfindung unterstützen, indem historische Angebots- und Preisinformationen berücksichtigt werden. In diesem Zusammenhang soll geprüft werden, ob der Kunde oder Konkurrenten den entsprechenden Artikel bereits zuvor erworben haben und zu welchem Preis dies erfolgt ist.
+Darüber hinaus soll der \ac{KI}-Agent Anwender bei der Identifikation der Artikel unterstützen. Der Agent soll Artikel auf Basis vorhandener Informationen vorschlagen und die Artikelsuche vereinfachen, insbesondere in Fällen, in denen nicht alle relevanten Informationen vollständig vorliegen. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
 
-Weiterhin soll der \ac{KI}-Agent bei der Hinzufügung von Artikeln zu einem Angebot überprüfen, ob für den jeweiligen Artikel Mengenvorgaben hinterlegt sind. Sofern entsprechende Vorgaben existieren, soll der Anwender darauf hingewiesen und gefragt werden, ob diese berücksichtigt werden sollen.
+Ein weiterer funktionaler Aspekt betrifft den Umgang mit Fehlern während der Angebotsanlage. Der \ac{KI}-Agent soll auftretende Fehler erkennen und nachvollziehbar darstellen, sodass diese für den Anwender verständlich erläutert werden. Dadurch sollen notwendige Korrekturen effizient vorgenommen werden können. (vgl. \hyperref[anhang:i3]{I3}) Zusätzlich soll der Agent die nachträgliche Korrektur bereits eingegebener Angebotsdaten ermöglichen und Anwender auf fehlende Informationen hinweisen, damit diese ergänzt werden können. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
 
-Die Interaktion mit dem \ac{KI}-Agenten soll über ein Chat-Interface erfolgen, das es ermöglicht, den Angebotsprozess schrittweise zu begleiten und Eingaben sowie Korrekturen während der Angebotserstellung vorzunehmen.
+Zudem soll der \ac{KI}-Agent Anwender bei der Preisfindung unterstützen, indem historische Angebots- und Preisinformationen berücksichtigt werden. In diesem Zusammenhang soll geprüft werden, ob der Kunde oder Konkurrenten den entsprechenden Artikel bereits zuvor erworben haben und zu welchem Preis dies erfolgt ist. (vgl. \hyperref[anhang:i3]{I3})
 
-Schließlich soll der \ac{KI}-Agent auf verschiedene Stammdaten aus \ac{D365FnSCM} zugreifen können, um relevante Informationen für die Angebotsanlage sowie für die Artikel- und Preissuche zu nutzen. Hierzu zählen insbesondere Artikelstammdaten, Angebotsdaten und Kundendaten.
+Darüber hinaus soll der \ac{KI}-Agent bei der Hinzufügung von Artikeln zu einem Angebot überprüfen, ob für den jeweiligen Artikel Mengenvorgaben hinterlegt sind. Sofern entsprechende Vorgaben existieren, soll der Anwender darauf hingewiesen und gefragt werden, ob diese berücksichtigt werden sollen. (vgl. \hyperref[anhang:i2]{I2})
+
+Die Interaktion mit dem \ac{KI}-Agenten soll über ein Chat-Interface erfolgen, das es ermöglicht, den Angebotsprozess schrittweise zu begleiten und Eingaben sowie Korrekturen während der Angebotserstellung vorzunehmen. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
+
+Schließlich soll der \ac{KI}-Agent auf verschiedene Stammdaten aus \ac{D365FnSCM} zugreifen können, um relevante Informationen für die Angebotsanlage sowie für die Artikel- und Preissuche zu nutzen. Hierzu zählen insbesondere Artikelstammdaten, Angebotsdaten und Kundendaten. (vgl.  \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
 
 
 \subsubsection{Nicht-funktionale Anforderungen}
 Neben den funktionalen Anforderungen ergeben sich aus den identifizierten Risiken, Erwartungen und weiteren Aussagen auch verschiedene nicht-funktionale Anforderungen an den \ac{KI}-Agenten. Diese betreffen insbesondere Aspekte der Nachvollziehbarkeit, Zuverlässigkeit, Nutzerakzeptanz sowie der Benutzerfreundlichkeit.
 
-Der \ac{KI}-Agent soll nachvollziehbare Entscheidungen treffen und diese für den Anwender verständlich darstellen, insbesondere im Fall fehlerhafter oder unvollständiger Eingaben.
+Der \ac{KI}-Agent soll nachvollziehbare Entscheidungen treffen und diese für den Anwender verständlich darstellen, insbesondere im Fall fehlerhafter oder unvollständiger Eingaben. (vgl. \hyperref[anhang:i3]{I3})
 
-Darüber hinaus soll der \ac{KI}-Agent zuverlässige und konsistente Ergebnisse liefern, um fehlerhafte Angebotsanlagen und daraus resultierende Nacharbeiten zu vermeiden.
+Darüber hinaus soll der \ac{KI}-Agent zuverlässige und konsistente Ergebnisse liefern, um fehlerhafte Angebotsanlagen und daraus resultierende Nacharbeiten zu vermeiden. (vgl. \hyperref[anhang:i1]{I1})
 
-Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz fördern, indem er Anwender bei der Angebotsanlage unterstützt und nicht als zusätzliche Fehlerquelle wahrgenommen wird.
+Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz fördern, indem er Anwender bei der Angebotsanlage unterstützt und nicht als zusätzliche Fehlerquelle wahrgenommen wird. (vgl. \hyperref[anhang:i1]{I1})
 
-Zuletzt soll die Nutzung des \ac{KI}-Agenten einfach und intuitiv gestaltet sein, sodass auch technisch weniger versierte Anwender ohne umfangreiche Einarbeitung mit dem System arbeiten können.
+Zuletzt soll die Nutzung des \ac{KI}-Agenten einfach und intuitiv gestaltet sein, sodass auch technisch weniger versierte Anwender ohne umfangreiche Einarbeitung mit dem System arbeiten können. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i2]{I2})
 
 \subsubsection{Mögliche Effizienzpotenziale}
 \label{sec:effizienzpotenziale}
@@ -85,3 +88,146 @@ Ein weiteres, aus den zuvor genannten möglichen Effizienzpotenzialen resultiere
 
 Schließlich liegt in der Reduktion von Nacharbeit im weiteren Vertriebsprozess ein zusätzliches mögliches Effizienzpotenzial. Durch die frühzeitige Validierung von Eingaben sowie die nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden werden. Dies trägt dazu bei, Korrekturen in nachgelagerten Prozessschritten zu reduzieren und die Qualität der Angebotsdaten zu erhöhen.
 
+Die beschriebenen möglichen Effizienzpotenziale lassen sich zur besseren Übersicht in Tabelle~\ref{tab:effizienzpotenziale} zusammenfassend darstellen.
+
+\begin{table}[h]
+\centering
+\caption{Zusammenfassung der möglichen Effizienzpotenziale}
+\label{tab:effizienzpotenziale}
+\begin{tabularx}{\textwidth}{l >{\raggedright\arraybackslash}p{4.2cm} >{\small}X}
+
+\hline
+\textbf{Nr.} & \textbf{Effizienzpotenzial} & \textbf{Kurzbeschreibung} \\
+\hline
+EP1 & Reduktion manueller\newline Eingaben & Automatisierte Erfassung und Befüllung relevanter Angebotsfelder reduziert den manuellen Such- und Eingabeaufwand bei der Angebotserstellung. \\
+\cline{1-3}
+EP2 & Unterstützte Artikelsuche & Unterstützung bei der Identifikation geeigneter Artikel verringert den zeitlichen Aufwand und die Fehleranfälligkeit der Artikelsuche. \\
+\cline{1-3}
+EP3 & Unterstützte Preisfindung & Bereitstellung historischer Angebots- und Preisinformationen reduziert den manuellen Rechercheaufwand und unterstützt konsistente Preisentscheidungen. \\
+\cline{1-3}
+EP4 & Schnellere Einarbeitung\newline neuer Anwender & Ein geführter Angebotsprozess unterstützt insbesondere neue Anwender und reduziert Eingabefehler während der Angebotserstellung. \\
+\cline{1-3}
+EP5 & Reduktion von Nacharbeit & Frühzeitige Validierung von Eingaben und nachvollziehbare Fehlerdarstellung tragen zur Vermeidung fehlerhafter Angebote bei. \\
+\hline
+\end{tabularx}
+\end{table}
+
+
+
+\subsection{Ziele des KI-Agenten}
+\label{sec:ziele}
+Durch die identifizierten Anforderungen und möglichen Effizienzpotenziale lassen sich klare Ziele für den \ac{KI}-Agenten ableiten. Es ist jedoch wichtig zu erwähnen, dass nicht alle definierten Anforderungen vollständig umgesetzt werden. Dies liegt sowohl daran, dass der Umfang dieser Arbeit begrenzt ist und somit keine vollumfängliche Entwicklung eines \ac{KI}-Agenten zulässt, als auch daran, dass von den Interviewten klargestellt wurde, dass zum Start und initialen Testen ein reduzierter, aber dafür funktionierender Funktionsumfang als ausreichend erachtet wird. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
+Die im Folgenden definierten Ziele dienen als Grundlage für die anschließende Entwicklung und Implementierung des Agenten.
+
+Das grundlegende Ziel des \ac{KI}-Agenten ist es, Anwender bei der Anlage von Angeboten in \ac{D365FnSCM} gezielt zu unterstützen und den Angebotsprozess effizienter und weniger fehleranfällig zu gestalten. Der \ac{KI}-Agent soll insbesondere dazu beitragen, den manuellen Aufwand bei der Angebotserstellung zu reduzieren und Anwender bei wiederkehrenden sowie zeitintensiven Tätigkeiten zu entlasten. Um dieses Ziel zu erreichen, werden verschiedene Unterziele definiert.
+
+Das wichtigste Unterziel des \ac{KI}-Agenten ist es, zu ermöglichen, dass Nutzer mit dem Agenten die Möglichkeit haben Angebotsköpfe inklusive dazugehöriger Felder wie beispielsweise die Debitorennummer oder die Referenznummer anzulegen. Darüber hinaus soll der Agent die Möglichkeit haben Artikel anhand von Artikelnummern oder Beschreibungen zu identifizieren und diese automatisch in das Angebot einzufügen.
+
+Zudem hat der Agent das Ziel, Anwender bei der Preisfindung zu unterstützen, indem relevante historische Angebots- und Preisinformationen durchsucht werden können, um so passende Preise für das aktuelle Angebot zu ermitteln. Darüber hinaus soll der \ac{KI}-Agent Anwender aktiv auf fehlende oder inkonsistente Informationen hinweisen und so eine frühzeitige Korrektur ermöglichen.
+
+Ein weiteres Ziel ist die Bereitstellung des \ac{KI}-Agenten in Form eines Chat-Interfaces, über das die zuvor beschriebenen Unterstützungsfunktionen umgesetzt werden sollen. Über dieses Interface sollen Anwender während der Angebotsanlage mit dem Agenten interagieren und sowohl die Anlage von Angeboten als auch die Identifikation von Artikeln und die Unterstützung bei der Preisfindung schrittweise durchführen können. Das Wichtigste ist, dass hierbei die Anwendung des \ac{KI}-Agenten intuitiv und einfach gestaltet ist, um eine hohe Akzeptanz bei den Anwendern zu gewährleisten.
+
+Die beschriebenen Ziele des \ac{KI}-Agenten lassen sich zur kompakten Darstellung in Tabelle~\ref{tab:ziele-ki-agent} zusammenfassen.
+
+\begin{table}[h]
+\centering
+\caption{Zusammenfassung der Ziele des KI-Agenten}
+\label{tab:ziele-ki-agent}
+\begin{tabular}{p{2cm} p{4cm} p{7cm}}
+\hline
+\textbf{Nr.} & \textbf{Ziel} & \textbf{Beschreibung} \\
+\hline
+Z1 & Effiziente Angebotsanlage & Unterstützung der Anwender bei der Angebotserstellung durch Reduktion manueller und wiederkehrender Tätigkeiten. \\
+Z2 & Unterstützte Artikelauswahl & Identifikation und Vorschlag geeigneter Artikel auf Basis vorhandener Informationen während der Angebotsanlage. \\
+Z3 & Unterstützung der Preisfindung & Nutzung historischer Angebots- und Preisinformationen zur Unterstützung fundierter Preisentscheidungen. \\
+Z4 & Fehlerreduktion & Frühzeitige Erkennung und nachvollziehbare Darstellung fehlerhafter oder unvollständiger Eingaben. \\
+Z5 & Intuitive Interaktion & Bereitstellung eines Chat-basierten Interfaces zur schrittweisen Unterstützung während der Angebotserstellung. \\
+\hline
+\end{tabular}
+\end{table}
+
+%neue Version
+\subsection{Ziele des KI-Agenten}
+\label{sec:ziele}
+
+Auf Grundlage der identifizierten funktionalen und nicht-funktionalen Anforderungen lassen sich die Ziele des \ac{KI}-Agenten definieren. Diese beschreiben die angestrebten Fähigkeiten und Unterstützungsfunktionen des Agenten und dienen als Leitlinie für dessen Entwicklung und Implementierung. Es ist jedoch zu beachten, dass im Rahmen dieser Arbeit nicht alle definierten Anforderungen vollständig umgesetzt werden können. Dies liegt sowohl am begrenzten Umfang der Arbeit als auch daran, dass von den Interviewten für einen initialen Einsatz ein reduzierter, aber stabiler Funktionsumfang als ausreichend erachtet wurde. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
+
+Das übergeordnete Ziel des \ac{KI}-Agenten besteht darin, Anwender bei der vollständigen Anlage von Angeboten in \ac{D365FnSCM} gezielt zu unterstützen. Dies umfasst sowohl die Anlage des Angebotskopfes als auch die Erstellung der zugehörigen Angebotspositionen, einschließlich der Befüllung der jeweils relevanten Felder. Der \ac{KI}-Agent soll relevante Prozessschritte automatisiert oder assistiert ausführen und insbesondere wiederkehrende und strukturierte Tätigkeiten im Angebotsprozess unterstützen.
+
+Ein ergänzendes Ziel des \ac{KI}-Agenten ist die Unterstützung bei der Identifikation geeigneter Artikel zur Anlage von Angebotspositionen. Hierzu sollen Artikel anhand von Artikelnummern oder textuellen Beschreibungen identifiziert und als Angebotspositionen dem Angebot hinzugefügt werden.
+
+Ein weiteres Ziel ist die Unterstützung der Preisfindung auf Ebene der Angebotspositionen durch die Bereitstellung relevanter historischer Angebots- und Preisinformationen. Zusätzlich soll der \ac{KI}-Agent Anwender aktiv auf fehlende oder inkonsistente Eingaben sowohl im Angebotskopf als auch bei den Angebotspositionen hinweisen und entsprechende Korrekturmöglichkeiten anbieten.
+
+Darüber hinaus soll der \ac{KI}-Agent über ein Chat-basiertes Interface bereitgestellt werden, über das die beschriebenen Unterstützungsfunktionen schrittweise genutzt werden können. Dabei steht eine einfache und intuitive Bedienbarkeit im Vordergrund, um eine hohe Akzeptanz bei den Anwendern zu gewährleisten.
+
+Die beschriebenen Ziele des \ac{KI}-Agenten lassen sich zur kompakten Darstellung in Tabelle~\ref{tab:ziele-ki-agent} zusammenfassen.
+
+\begin{table}[h]
+\centering
+\caption{Zusammenfassung der Ziele des KI-Agenten}
+\label{tab:ziele-ki-agent}
+\begin{tabularx}{\textwidth}{l >{\raggedright\arraybackslash}p{4.2cm} >{\small}X}
+\hline
+\textbf{Nr.} & \textbf{Ziel} & \textbf{Beschreibung} \\
+\hline
+Z1 & Unterstützung der Angebotsanlage &
+Unterstützung der Anwender bei der vollständigen Anlage von Angeboten, einschließlich der Anlage des Angebotskopfes und der Erstellung der Angebotspositionen. \\
+\cline{1-3}
+Z2 & Unterstützung der Artikelauswahl &
+Identifikation und Vorschlag geeigneter Artikel zur Anlage von Angebotspositionen auf Basis von Artikelnummern oder Beschreibungen. \\
+\cline{1-3}
+Z3 & Unterstützung der Preisfindung &
+Bereitstellung historischer Angebots- und Preisinformationen zur Unterstützung der Preisermittlung auf Ebene der Angebotspositionen. \\
+\cline{1-3}
+Z4 & Fehler- und Eingabeunterstützung &
+Hinweis auf fehlende oder inkonsistente Eingaben im Angebotskopf und in Angebotspositionen sowie Bereitstellung von Korrekturmöglichkeiten. \\
+\cline{1-3}
+Z5 & Intuitive Nutzerinteraktion &
+Bereitstellung eines Chat-basierten Interfaces zur schrittweisen Interaktion während der Angebotsanlage. \\
+\hline
+\end{tabularx}
+\end{table}
+
+
+\subsubsection{Mögliche Effizienzpotenziale}
+\label{sec:effizienzpotenziale}
+
+Auf Grundlage der definierten Ziele sowie der zuvor abgeleiteten Anforderungen lassen sich verschiedene mögliche Effizienzpotenziale identifizieren, die durch den Einsatz des \ac{KI}-Agenten bei der Angebotsanlage in \ac{D365FnSCM} erwartet werden können. Diese Effizienzpotenziale beschreiben die potenziellen Auswirkungen auf den Angebotsprozess und dienen als Grundlage für die spätere Evaluation des entwickelten Artefakts.
+
+Ein erstes mögliches Effizienzpotenzial ergibt sich aus der Unterstützung bei der vollständigen Angebotsanlage. Diese umfasst sowohl die Befüllung relevanter Angebotsfelder im Angebotskopf als auch die Anlage der zugehörigen Angebotspositionen. Durch die automatisierte oder assistierte Erfassung zentraler Informationen kann der manuelle Such- und Eingabeaufwand über den gesamten Anlageprozess hinweg reduziert werden, wodurch sich der Zeitbedarf für die Angebotserstellung insgesamt verringern lassen könnte.
+
+Ein weiteres mögliches Effizienzpotenzial liegt in der Verbesserung der Artikelsuche im Rahmen der Anlage von Angebotspositionen. Da diese in \ac{D365FnSCM} als träge und fehleranfällig beschrieben wurde, kann die Unterstützung durch den \ac{KI}-Agenten den Such- und Entscheidungsaufwand insbesondere bei unvollständigen oder ungenauen Informationen reduzieren.
+
+Darüber hinaus ergibt sich ein mögliches Effizienzpotenzial aus der Unterstützung der Preisfindung bei Angebotspositionen durch den Zugriff auf historische Angebots- und Preisinformationen. Die Bereitstellung relevanter Preisdaten kann den manuellen Rechercheaufwand verringern und zu konsistenteren Preisentscheidungen beitragen.
+
+Ein weiteres mögliches Effizienzpotenzial liegt in der Unterstützung bei der Einarbeitung neuer Anwender. Durch eine geführte und nachvollziehbare Unterstützung bei der Anlage von Angebotsköpfen und Angebotspositionen können Eingabefehler reduziert und der Angebotsprozess insgesamt erleichtert werden.
+
+Schließlich ergibt sich ein zusätzliches mögliches Effizienzpotenzial aus der Reduktion von Nacharbeit im weiteren Vertriebsprozess. Durch frühzeitige Validierung von Eingaben sowohl im Angebotskopf als auch bei den Angebotspositionen sowie eine nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden und Korrekturen in nachgelagerten Prozessschritten reduziert werden.
+
+Die beschriebenen möglichen Effizienzpotenziale lassen sich zur besseren Übersicht in Tabelle~\ref{tab:effizienzpotenziale} zusammenfassend darstellen.
+
+\begin{table}[h]
+\centering
+\caption{Zusammenfassung der möglichen Effizienzpotenziale}
+\label{tab:effizienzpotenziale}
+\begin{tabularx}{\textwidth}{l >{\raggedright\arraybackslash}p{4.2cm} >{\small}X}
+\hline
+\textbf{Nr.} & \textbf{Effizienzpotenzial} & \textbf{Kurzbeschreibung} \\
+\hline
+EP1 & Reduktion manueller Eingaben &
+Reduktion des manuellen Aufwands bei der vollständigen Angebotsanlage, einschließlich Angebotskopf und Angebotspositionen. \\
+\cline{1-3}
+EP2 & Verbesserte Artikelsuche &
+Unterstützung bei der Identifikation geeigneter Artikel im Rahmen der Anlage von Angebotspositionen verringert Suchaufwand und Fehleranfälligkeit. \\
+\cline{1-3}
+EP3 & Unterstützte Preisfindung &
+Nutzung historischer Angebots- und Preisinformationen bei Angebotspositionen reduziert manuellen Rechercheaufwand. \\
+\cline{1-3}
+EP4 & Schnellere Einarbeitung neuer Anwender &
+Geführte Unterstützung bei der Anlage von Angebotsköpfen und Angebotspositionen reduziert Eingabefehler insbesondere bei neuen Anwendern. \\
+\cline{1-3}
+EP5 & Reduktion von Nacharbeit &
+Frühzeitige Validierung von Eingaben im Angebotskopf und in Angebotspositionen vermeidet fehlerhafte Angebote und nachträgliche Korrekturen. \\
+\hline
+\end{tabularx}
+\end{table}
