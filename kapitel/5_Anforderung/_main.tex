@@ -73,80 +73,6 @@ Zusätzlich soll der \ac{KI}-Agent eine hohe Nutzerakzeptanz fördern, indem er 
 
 Zuletzt soll die Nutzung des \ac{KI}-Agenten einfach und intuitiv gestaltet sein, sodass auch technisch weniger versierte Anwender ohne umfangreiche Einarbeitung mit dem System arbeiten können. (vgl. \hyperref[anhang:i1]{I1}, \hyperref[anhang:i2]{I2})
 
-\subsubsection{Mögliche Effizienzpotenziale}
-\label{sec:effizienzpotenziale}
-
-Auf Basis der Interviews und der daraus identifizierten Probleme, Erwartungen und Anforderungen lassen sich verschiedene mögliche Effizienzpotenziale ableiten, die durch den Einsatz des \ac{KI}-Agenten bei der Angebotsanlage in \ac{D365FnSCM} realisiert werden können. Diese Effizienzpotenziale beschreiben die erwartete Verbesserung des Prozesses und dienen als Grundlage für die Evaluation des entwickelten Artefakts.
-
-Das erste mögliche Effizienzpotenzial ergibt sich durch die Unterstützung bei der Befüllung relevanter Angebotsfelder im Angebotskopf. Auf Grundlage der Anforderungen an eine automatisierte Übernahme zentraler Informationen sowie eine dialogbasierte Interaktion kann der \ac{KI}-Agent den manuellen Aufwand reduzieren, indem relevante Felder gezielt abgefragt oder automatisch befüllt werden. Dadurch entfällt die zeitaufwendige manuelle Suche nach einzelnen Feldern innerhalb der \ac{ERP}-Oberfläche, was zu einer effizienteren Angebotsanlage beitragen kann.
-
-Ein weiteres mögliches Effizienzpotenzial ergibt sich aus der Verbesserung der Artikelsuche. Diese wurde in \ac{D365FnSCM} als träge und fehleranfällig beschrieben, insbesondere wenn unvollständige oder ungenaue Informationen vorliegen. Aufbauend auf den dazu definierten Anforderungen kann der \ac{KI}-Agent den Such- und Entscheidungsaufwand verringern. 
-
-Darüber hinaus ergibt sich ein mögliches Effizienzpotenzial aus der Unterstützung bei der Preisfindung durch den Zugriff auf historische Angebots- und Preisinformationen. Aufbauend auf der entsprechenden funktionalen Anforderung kann der \ac{KI}-Agent relevante Preisdaten bereitstellen und somit die Entscheidungsfindung bei der Angebotserstellung unterstützen. Dies kann den manuellen Rechercheaufwand verringern und zu konsistenteren Angebotspreisen beitragen.
-
-Ein weiteres, aus den zuvor genannten möglichen Effizienzpotenzialen resultierendes mögliches Potenzial liegt in der Unterstützung bei der Einarbeitung neuer Anwender. Da insbesondere neue Nutzer häufig Schwierigkeiten bei der korrekten Angebotsanlage im \ac{ERP}-System haben, kann der \ac{KI}-Agent, aufbauend auf den Anforderungen an eine intuitive Interaktion sowie eine fehlerarme und nachvollziehbare Prozessführung, dazu beitragen, Eingabefehler zu reduzieren und den Angebotsprozess insgesamt zu erleichtern.
-
-Schließlich liegt in der Reduktion von Nacharbeit im weiteren Vertriebsprozess ein zusätzliches mögliches Effizienzpotenzial. Durch die frühzeitige Validierung von Eingaben sowie die nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden werden. Dies trägt dazu bei, Korrekturen in nachgelagerten Prozessschritten zu reduzieren und die Qualität der Angebotsdaten zu erhöhen.
-
-Die beschriebenen möglichen Effizienzpotenziale lassen sich zur besseren Übersicht in Tabelle~\ref{tab:effizienzpotenziale} zusammenfassend darstellen.
-
-\begin{table}[h]
-\centering
-\caption{Zusammenfassung der möglichen Effizienzpotenziale}
-\label{tab:effizienzpotenziale}
-\begin{tabularx}{\textwidth}{l >{\raggedright\arraybackslash}p{4.2cm} >{\small}X}
-
-\hline
-\textbf{Nr.} & \textbf{Effizienzpotenzial} & \textbf{Kurzbeschreibung} \\
-\hline
-EP1 & Reduktion manueller\newline Eingaben & Automatisierte Erfassung und Befüllung relevanter Angebotsfelder reduziert den manuellen Such- und Eingabeaufwand bei der Angebotserstellung. \\
-\cline{1-3}
-EP2 & Unterstützte Artikelsuche & Unterstützung bei der Identifikation geeigneter Artikel verringert den zeitlichen Aufwand und die Fehleranfälligkeit der Artikelsuche. \\
-\cline{1-3}
-EP3 & Unterstützte Preisfindung & Bereitstellung historischer Angebots- und Preisinformationen reduziert den manuellen Rechercheaufwand und unterstützt konsistente Preisentscheidungen. \\
-\cline{1-3}
-EP4 & Schnellere Einarbeitung\newline neuer Anwender & Ein geführter Angebotsprozess unterstützt insbesondere neue Anwender und reduziert Eingabefehler während der Angebotserstellung. \\
-\cline{1-3}
-EP5 & Reduktion von Nacharbeit & Frühzeitige Validierung von Eingaben und nachvollziehbare Fehlerdarstellung tragen zur Vermeidung fehlerhafter Angebote bei. \\
-\hline
-\end{tabularx}
-\end{table}
-
-
-
-\subsection{Ziele des KI-Agenten}
-\label{sec:ziele}
-Durch die identifizierten Anforderungen und möglichen Effizienzpotenziale lassen sich klare Ziele für den \ac{KI}-Agenten ableiten. Es ist jedoch wichtig zu erwähnen, dass nicht alle definierten Anforderungen vollständig umgesetzt werden. Dies liegt sowohl daran, dass der Umfang dieser Arbeit begrenzt ist und somit keine vollumfängliche Entwicklung eines \ac{KI}-Agenten zulässt, als auch daran, dass von den Interviewten klargestellt wurde, dass zum Start und initialen Testen ein reduzierter, aber dafür funktionierender Funktionsumfang als ausreichend erachtet wird. (vgl. \hyperref[anhang:i2]{I2}, \hyperref[anhang:i3]{I3})
-Die im Folgenden definierten Ziele dienen als Grundlage für die anschließende Entwicklung und Implementierung des Agenten.
-
-Das grundlegende Ziel des \ac{KI}-Agenten ist es, Anwender bei der Anlage von Angeboten in \ac{D365FnSCM} gezielt zu unterstützen und den Angebotsprozess effizienter und weniger fehleranfällig zu gestalten. Der \ac{KI}-Agent soll insbesondere dazu beitragen, den manuellen Aufwand bei der Angebotserstellung zu reduzieren und Anwender bei wiederkehrenden sowie zeitintensiven Tätigkeiten zu entlasten. Um dieses Ziel zu erreichen, werden verschiedene Unterziele definiert.
-
-Das wichtigste Unterziel des \ac{KI}-Agenten ist es, zu ermöglichen, dass Nutzer mit dem Agenten die Möglichkeit haben Angebotsköpfe inklusive dazugehöriger Felder wie beispielsweise die Debitorennummer oder die Referenznummer anzulegen. Darüber hinaus soll der Agent die Möglichkeit haben Artikel anhand von Artikelnummern oder Beschreibungen zu identifizieren und diese automatisch in das Angebot einzufügen.
-
-Zudem hat der Agent das Ziel, Anwender bei der Preisfindung zu unterstützen, indem relevante historische Angebots- und Preisinformationen durchsucht werden können, um so passende Preise für das aktuelle Angebot zu ermitteln. Darüber hinaus soll der \ac{KI}-Agent Anwender aktiv auf fehlende oder inkonsistente Informationen hinweisen und so eine frühzeitige Korrektur ermöglichen.
-
-Ein weiteres Ziel ist die Bereitstellung des \ac{KI}-Agenten in Form eines Chat-Interfaces, über das die zuvor beschriebenen Unterstützungsfunktionen umgesetzt werden sollen. Über dieses Interface sollen Anwender während der Angebotsanlage mit dem Agenten interagieren und sowohl die Anlage von Angeboten als auch die Identifikation von Artikeln und die Unterstützung bei der Preisfindung schrittweise durchführen können. Das Wichtigste ist, dass hierbei die Anwendung des \ac{KI}-Agenten intuitiv und einfach gestaltet ist, um eine hohe Akzeptanz bei den Anwendern zu gewährleisten.
-
-Die beschriebenen Ziele des \ac{KI}-Agenten lassen sich zur kompakten Darstellung in Tabelle~\ref{tab:ziele-ki-agent} zusammenfassen.
-
-\begin{table}[h]
-\centering
-\caption{Zusammenfassung der Ziele des KI-Agenten}
-\label{tab:ziele-ki-agent}
-\begin{tabular}{p{2cm} p{4cm} p{7cm}}
-\hline
-\textbf{Nr.} & \textbf{Ziel} & \textbf{Beschreibung} \\
-\hline
-Z1 & Effiziente Angebotsanlage & Unterstützung der Anwender bei der Angebotserstellung durch Reduktion manueller und wiederkehrender Tätigkeiten. \\
-Z2 & Unterstützte Artikelauswahl & Identifikation und Vorschlag geeigneter Artikel auf Basis vorhandener Informationen während der Angebotsanlage. \\
-Z3 & Unterstützung der Preisfindung & Nutzung historischer Angebots- und Preisinformationen zur Unterstützung fundierter Preisentscheidungen. \\
-Z4 & Fehlerreduktion & Frühzeitige Erkennung und nachvollziehbare Darstellung fehlerhafter oder unvollständiger Eingaben. \\
-Z5 & Intuitive Interaktion & Bereitstellung eines Chat-basierten Interfaces zur schrittweisen Unterstützung während der Angebotserstellung. \\
-\hline
-\end{tabular}
-\end{table}
-
-%neue Version
 \subsection{Ziele des KI-Agenten}
 \label{sec:ziele}
 
@@ -162,7 +88,7 @@ Darüber hinaus soll der \ac{KI}-Agent über ein Chat-basiertes Interface bereit
 
 Die beschriebenen Ziele des \ac{KI}-Agenten lassen sich zur kompakten Darstellung in Tabelle~\ref{tab:ziele-ki-agent} zusammenfassen.
 
-\begin{table}[h]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der Ziele des KI-Agenten}
 \label{tab:ziele-ki-agent}
@@ -182,14 +108,14 @@ Bereitstellung historischer Angebots- und Preisinformationen zur Unterstützung 
 Z4 & Fehler- und Eingabeunterstützung &
 Hinweis auf fehlende oder inkonsistente Eingaben im Angebotskopf und in Angebotspositionen sowie Bereitstellung von Korrekturmöglichkeiten. \\
 \cline{1-3}
-Z5 & Intuitive Nutzerinteraktion &
+Z5 & Chat-Interface &
 Bereitstellung eines Chat-basierten Interfaces zur schrittweisen Interaktion während der Angebotsanlage. \\
 \hline
 \end{tabularx}
 \end{table}
 
 
-\subsubsection{Mögliche Effizienzpotenziale}
+\subsection{Mögliche Effizienzpotenziale}
 \label{sec:effizienzpotenziale}
 
 Auf Grundlage der definierten Ziele sowie der zuvor abgeleiteten Anforderungen lassen sich verschiedene mögliche Effizienzpotenziale identifizieren, die durch den Einsatz des \ac{KI}-Agenten bei der Angebotsanlage in \ac{D365FnSCM} erwartet werden können. Diese Effizienzpotenziale beschreiben die potenziellen Auswirkungen auf den Angebotsprozess und dienen als Grundlage für die spätere Evaluation des entwickelten Artefakts.
@@ -200,13 +126,13 @@ Ein weiteres mögliches Effizienzpotenzial liegt in der Verbesserung der Artikel
 
 Darüber hinaus ergibt sich ein mögliches Effizienzpotenzial aus der Unterstützung der Preisfindung bei Angebotspositionen durch den Zugriff auf historische Angebots- und Preisinformationen. Die Bereitstellung relevanter Preisdaten kann den manuellen Rechercheaufwand verringern und zu konsistenteren Preisentscheidungen beitragen.
 
-Ein weiteres mögliches Effizienzpotenzial liegt in der Unterstützung bei der Einarbeitung neuer Anwender. Durch eine geführte und nachvollziehbare Unterstützung bei der Anlage von Angebotsköpfen und Angebotspositionen können Eingabefehler reduziert und der Angebotsprozess insgesamt erleichtert werden.
+Ein weiteres mögliches Effizienzpotenzial liegt in der Reduktion von Nacharbeit im weiteren Vertriebsprozess. Durch frühzeitige Validierung von Eingaben sowohl im Angebotskopf als auch bei den Angebotspositionen sowie eine nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden und Korrekturen in nachgelagerten Prozessschritten reduziert werden.
 
-Schließlich ergibt sich ein zusätzliches mögliches Effizienzpotenzial aus der Reduktion von Nacharbeit im weiteren Vertriebsprozess. Durch frühzeitige Validierung von Eingaben sowohl im Angebotskopf als auch bei den Angebotspositionen sowie eine nachvollziehbare Darstellung von Fehlern können fehlerhaft angelegte Angebote vermieden und Korrekturen in nachgelagerten Prozessschritten reduziert werden.
+Schließlich ergibt sich ein zusätzliches mögliches Effizienzpotenzial aus der Unterstützung bei der Einarbeitung neuer Anwender. Durch eine geführte und nachvollziehbare Unterstützung bei der Anlage von Angebotsköpfen und Angebotspositionen können Eingabefehler reduziert und der Angebotsprozess insgesamt erleichtert werden.
 
 Die beschriebenen möglichen Effizienzpotenziale lassen sich zur besseren Übersicht in Tabelle~\ref{tab:effizienzpotenziale} zusammenfassend darstellen.
 
-\begin{table}[h]
+\begin{table}[H]
 \centering
 \caption{Zusammenfassung der möglichen Effizienzpotenziale}
 \label{tab:effizienzpotenziale}
@@ -223,11 +149,11 @@ Unterstützung bei der Identifikation geeigneter Artikel im Rahmen der Anlage vo
 EP3 & Unterstützte Preisfindung &
 Nutzung historischer Angebots- und Preisinformationen bei Angebotspositionen reduziert manuellen Rechercheaufwand. \\
 \cline{1-3}
-EP4 & Schnellere Einarbeitung neuer Anwender &
-Geführte Unterstützung bei der Anlage von Angebotsköpfen und Angebotspositionen reduziert Eingabefehler insbesondere bei neuen Anwendern. \\
-\cline{1-3}
-EP5 & Reduktion von Nacharbeit &
+EP4 & Reduktion von Nacharbeit &
 Frühzeitige Validierung von Eingaben im Angebotskopf und in Angebotspositionen vermeidet fehlerhafte Angebote und nachträgliche Korrekturen. \\
+\cline{1-3}
+EP5 & Schnellere Einarbeitung neuer Anwender &
+Geführte Unterstützung bei der Anlage von Angebotsköpfen und Angebotspositionen reduziert Eingabefehler insbesondere bei neuen Anwendern. \\
 \hline
 \end{tabularx}
 \end{table}

@@ -1,6 +1,6 @@
 \section{Entwicklung des KI-Agenten}
 %Einleitung in das Kapitel
-Aufbauend auf den in Kapitel~5 definierten Zielen wird in diesem Kapitel die Entwicklung des \ac{KI}-Agenten beschrieben. Hierbei wird zunächst der Entwurf für die Entwicklung des \ac{KI}-Agenten erstellt, welcher die Architektur, die benötigten Datenquellen sowie die Interaktionsmöglichkeiten mit dem Nutzer umfasst. Darauf aufbauend erfolgt die eigentliche Entwicklung und Implementierung des \ac{KI}-Agenten. Abschließend wird dieser getestet und evaluiert, um dessen Funktionalität und Praxistauglichkeit zu überprüfen.
+Aufbauend auf den in Kapitel~5 definierten Zielen wird in diesem Kapitel die Entwicklung des \ac{KI}-Agenten beschrieben. Hierbei wird zunächst der Entwurf für die Entwicklung erstellt, welcher die Architektur, die benötigten Datenquellen sowie die Interaktionsmöglichkeiten mit dem Nutzer umfasst. Darauf aufbauend erfolgt die eigentliche Entwicklung und Implementierung des \ac{KI}-Agenten. Abschließend wird dieser getestet und evaluiert, um dessen Funktionalität und Praxistauglichkeit zu überprüfen.
 
 
 \subsection{Entwurf der Entwicklung}
@@ -66,11 +66,13 @@ Durch dieses Vorgehen werden die bestehenden Sicherheits- und Zugriffskonzepte d
 Der \ac{KI}-Agent greift über das Dataverse auf die im \ac{ERP}-System gespeicherten Daten zu. Diese im Dataverse bereitgestellten Entitäten können sowohl als Wissensquelle des \ac{KI}-Agenten genutzt als auch im Rahmen der implementierten Tools zur Ausführung konkreter Aktionen herangezogen werden. Auf diese Weise dienen die \ac{ERP}-Daten einerseits der Beantwortung von Nutzeranfragen und der Informationsbereitstellung und ermöglichen andererseits die Durchführung von vom Anwender angestoßenen Operationen, wie die Anlage von Angeboten.
 
 \subsubsection{Struktur des KI-Agenten}
-Der entwickelte \ac{KI}-Agent basiert auf einer instruktionsbasierten Architektur, bei der die zentrale Steuerungs- und Dialoglogik vollständig über definierte Instructions umgesetzt ist. Diese Instructions legen sowohl die Rolle des Agenten als auch das zulässige Vorgehen bei der Interaktion mit dem \ac{ERP}-System fest. Eine klassische komponenten- oder serviceorientierte Modulararchitektur wird dabei bewusst nicht verfolgt.
+Der entwickelte \ac{KI}-Agent basiert auf einer instruktionsbasierten Architektur, bei der die zentrale Steuerungs- und Dialoglogik vollständig über definierte Instructions umgesetzt ist. Eine klassische komponenten- oder serviceorientierte Modulararchitektur wird dabei bewusst nicht verfolgt, da die Prozesslogik nicht technisch verteilt, sondern zentral über deklarative Vorgaben gesteuert wird.
 
-Die Struktur des Agenten ist stattdessen funktional modular aufgebaut. Die Instructions übernehmen eine koordinierende Rolle und steuern, wann und unter welchen Bedingungen auf weitere Funktionseinheiten zugegriffen wird. Dazu zählen insbesondere die Wissensquellen und die Tools. Die Wissensquellen dienen der Identifikation und Validierung von Debitoren-, Artikel- sowie Preisdaten. Sie ermöglichen es dem \ac{KI}-Agenten, nutzerseitige Eingaben mit den im System vorhandenen Stammdaten abzugleichen, ohne selbst schreibend auf das System zuzugreifen. Entscheidungen bei Mehrdeutigkeiten, wie etwa mehreren Treffern oder unvollständigen Angaben, werden dabei nicht autonom getroffen, sondern an den Nutzer zurückgegeben, damit dieser eine Auswahl treffen oder Anpassungen vornehmen kann.
+Die Instructions bilden innerhalb dieser Architektur die zentrale Steuerungseinheit. Sie legen sowohl die Rolle des Agenten als auch das zulässige Vorgehen bei der Interaktion mit dem \ac{ERP}-System fest und definieren die Abfolge der einzelnen Prozessschritte. Darüber hinaus steuern sie, wann Wissensquellen zur Validierung von Nutzereingaben heranzuziehen sind und zu welchem Zeitpunkt systemseitige Funktionen über definierte Tools aufgerufen werden dürfen. Durch diese zentrale Steuerung wird sichergestellt, dass alle Systemaktionen ausschließlich auf geprüften und vom Nutzer bestätigten Informationen basieren. Die vollständige Ausgestaltung der Instructions ist im Anhang dokumentiert (siehe \ref{anhang:Instructions}).
 
-Die operativen Eingriffe in das System erfolgen ausschließlich über definierte Tools. Für die Angebotserstellung kommen zwei Tools zum Einsatz. Eines dient der Anlage des Angebotskopfes und eines der Anlage der Angebotspositionen. Innerhalb dieser Tools wird zunächst festgelegt, welche Entitäten im Dataverse angesprochen werden müssen und anschließend, welche Felder innerhalb dieser Entitäten zwingend zu befüllen sind und welche optional gesetzt werden können. Bei diesen Feldern ist darüber hinaus festgelegt, wie oft der Agent nach dem Ausfüllen dieser Felder nachfragt. Bei Pflichtfeldern tut er dies, bis diese eingegeben wurden, da eine Anlage sonst nicht möglich ist. Bei Feldern, die häufig, aber nicht immer gesetzt werden müssen, wird lediglich einmal nachgefragt, ob diese ergänzt werden wollen oder nicht. Felder, die fachlich oder systemseitig nicht gesetzt werden dürfen, sind deaktiviert. Dadurch wird sichergestellt, dass der \ac{KI}-Agent ausschließlich valide und systemkonforme Datensätze erzeugt.
+Die angesprochenen Wissensquellen innerhalb des \ac{KI}-Agenten in Copilot Studio hinterlegt (siehe \ref{fig:Wissensquellen}, \ref{fig:WissensquelleDetailbeispiel}) und dienen der Identifikation und Validierung von Debitoren-, Artikel- sowie Preisdaten. Sie ermöglichen es dem \ac{KI}-Agenten, nutzerseitige Eingaben mit den im System vorhandenen Stammdaten abzugleichen, ohne selbst schreibend auf das System zuzugreifen. Entscheidungen bei Mehrdeutigkeiten, wie etwa mehreren Treffern oder unvollständigen Angaben, werden dabei nicht autonom getroffen, sondern an den Nutzer zurückgegeben, damit dieser eine Auswahl treffen oder Anpassungen vornehmen kann.
+
+Die operativen Eingriffe in das System erfolgen ausschließlich über definierte Tools. Für die Angebotserstellung kommen zwei Tools zum Einsatz. Eines dient der Anlage des Angebotskopfes und eines der Anlage der Angebotspositionen (siehe \ref{fig:Tools}). Innerhalb dieser Tools wird zunächst festgelegt, welche Entitäten im Dataverse angesprochen werden müssen und anschließend, welche Felder innerhalb dieser Entitäten zwingend zu befüllen sind und welche optional gesetzt werden können (siehe \ref{fig:Angebotskopf}, \ref{fig:Angebotspositionen}). Bei diesen Feldern ist darüber hinaus festgelegt, wie oft der Agent nach dem Ausfüllen dieser Felder nachfragt. Bei Pflichtfeldern tut er dies, bis diese eingegeben wurden, da eine Anlage sonst nicht möglich ist (siehe \ref{fig:Pflichtfelder}). Bei Feldern, die häufig, aber nicht immer gesetzt werden müssen, wird lediglich einmal nachgefragt, ob diese ergänzt werden wollen oder nicht (siehe \ref{fig:ZusatzFeld}). Felder, die fachlich oder systemseitig nicht gesetzt werden dürfen, sind nicht hinterlegt und dadurch für den \ac{KI}-Agenten deaktiviert. Auf diese Weise wird sichergestellt, dass der \ac{KI}-Agent ausschließlich valide und systemkonforme Datensätze erzeugt.
 
 Durch die Aufteilung in Instructions, Wissensquellen und Tools sind die einzelnen Funktionseinheiten klar voneinander getrennt und jeweils für eine konkrete Aufgabe zuständig. Dadurch ergibt sich eine funktionale Modularisierung, obwohl die Dialoglogik zentral in den Instructions definiert ist. Dieses Vorgehen macht das Verhalten des \ac{KI}-Agenten nachvollziehbar, erleichtert die Kontrolle durch den Anwender und bildet eine klare Grundlage für die spätere Evaluation.
 
@@ -93,33 +95,40 @@ Sobald eine Angebotsposition vollständig und valide ist, wird das Tool zur Anla
 
 Sind alle gewünschten Angebotspositionen angelegt, schließt der \ac{KI}-Agent den Prozess mit einer abschließenden Bestätigung ab und informiert den Nutzer über die erfolgreiche Erstellung des Angebots einschließlich der zugehörigen Angebotsnummer.
 
+Der beschriebene Ablauf ist in \ref{anhang:beispielchat} als beispielhafter Dialogausschnitt zwischen Nutzer und \ac{KI}-Agent zusätzlich veranschaulicht. Dieser Dialog ist dabei bewusst vereinfacht gehalten, um den grundsätzlichen Prozessablauf möglichst nachvollziehbar darzustellen.
+
+
 \subsection{Test und Evaluation}
 
 Ziel der Test- und Evaluationsphase ist es zu überprüfen, ob der entwickelte \ac{KI}-Agent die zuvor definierten Ziele erfüllt. Die Evaluation erfolgt szenariobasiert, indem zentrale Anwendungsfälle der Angebotserstellung in einer realitätsnahen Testumgebung durchgeführt und ausgewertet werden.
 
-Die Tests wurden in der Entwicklungs- und Testumgebung von \ac{D365FnSCM} durchgeführt und orientieren sich an typischen Nutzungssituationen aus dem Vertriebsalltag. Die zuvor definierten Ziele des \ac{KI}-Agenten wurden hierfür in konkrete Testszenarien überführt. Die Auswahl der Szenarien stellt sicher, dass sowohl einfache Standardfälle als auch komplexere Nutzungssituationen abgedeckt werden und alle in Kapitel~\ref{sec:ziele} formulierten Ziele überprüft werden.
+Die Tests wurden in der Entwicklungs- und Testumgebung von \ac{D365FnSCM} durchgeführt und orientieren sich an typischen Nutzungssituationen aus dem Vertriebsalltag. Die zuvor definierten Ziele des \ac{KI}-Agenten wurden hierfür in konkrete Testszenarien überführt. Die Auswahl der Szenarien stellt sicher, dass sowohl einfache Standardfälle als auch komplexere Nutzungssituationen abgedeckt werden und die in Kapitel~\ref{sec:ziele} formulierten Ziele überprüft werden.
 
 \subsubsection{Testszenarien}
 
 Zur Evaluation des \ac{KI}-Agenten wurden die folgenden sechs Szenarien definiert und durchgeführt:
 
 \textbf{S1: Anlage eines Angebotskopfes mit vollständigen und korrekten Eingaben.} \newline 
-    Alle erforderlichen Informationen liegen vollständig vor. Erwartet wird die erfolgreiche Anlage eines Angebotskopfes.
+    Alle erforderlichen Informationen liegen vollständig vor. Erwartet wird die erfolgreiche Anlage eines Angebotskopfes.\newline 
+\textit{Zielbezug: Z1}
 
 \textbf{S2: Anlage eines Angebotskopfes mit Angebotsposition(en) bei vollständig vorliegenden Daten.} \newline  
-    Angebotskopf und mindestens eine Angebotsposition werden mit vollständig vorhandenen Daten angelegt.
+    Angebotskopf und mindestens eine Angebotsposition werden mit vollständig vorhandenen Daten angelegt.\newline 
+\textit{Zielbezug: Z1}
 
-\textbf{S3: Anlage einer Angebotsposition mit unterstützter Preisfindung.}  \newline 
-    Der Artikel ist eindeutig identifizierbar, die Preisfindung wird durch historische Angebots- und Preisinformationen unterstützt und nach finaler Preisklärung mit dem Nutzer wird ein Angebot mit der Position inklusive Preis angelegt.
+\textbf{S3: Anlage einer Angebotsposition mit Artikelidentifikation über eine Artikelbeschreibung.}  \newline 
+    Es wird keine Artikelnummer, sondern eine Beschreibung angegeben. Der \ac{KI}-Agent identifiziert den passenden Artikel und legt das Angebot vollständig an.\newline 
+\textit{Zielbezug: Z2}
 
-\textbf{S4: Anlage einer Angebotsposition mit Artikelidentifikation über eine Artikelbeschreibung.}  \newline 
-    Es wird keine Artikelnummer, sondern eine Beschreibung angegeben. Der \ac{KI}-Agent identifiziert den passenden Artikel und legt das Angebot vollständig an.
+\textbf{S4: Anlage einer Angebotsposition mit unterstützter Preisfindung.}  \newline 
+    Der Artikel ist eindeutig identifizierbar, die Preisfindung wird durch historische Angebots- und Preisinformationen unterstützt und nach finaler Preisklärung mit dem Nutzer wird ein Angebot mit der Position inklusive Preis angelegt.\newline 
+\textit{Zielbezug: Z3}
 
-\textbf{S5: Abbruch der Angebotserstellung durch den Nutzer.}  \newline 
-    Der Nutzer bricht den Dialog während der Datenerfassung ab. Erwartet wird, dass keine schreibenden Aktionen im \ac{ERP}-System ausgeführt werden.
+\textbf{S5: Kombination aus Artikelidentifikation und unterstützter Preisfindung.}  \newline 
+    Nach der Erstellung des Angebotskopfs identifiziert der \ac{KI}-Agent beim Hinzufügen der Positionen den Artikel anhand einer Beschreibung und unterstützt die Preisfindung auf Basis historischer Angebotsdaten.\newline 
+\textit{Zielbezug: Z1, Z2, Z3}
 
-\textbf{S6: Kombination aus Artikelidentifikation und unterstützter Preisfindung.}  \newline 
-    Nach der Erstellung des Angebotskopfs identifiziert der \ac{KI}-Agent beim Hinzufügen der Positionen den Artikel anhand einer Beschreibung und unterstützt die Preisfindung auf Basis historischer Angebotsdaten.
+Die Überprüfung von Ziel Z4, welches die Unterstützung durch Hinweise und Rückmeldungen umfasst, erfolgte nicht isoliert in einem einzelnen Testszenario, sondern über alle Szenarien hinweg. Ziel Z5 wurde ebenfalls szenarioübergreifend überprüft, da sämtliche Interaktionen mit dem KI-Agenten ausschließlich über das implementierte Chat-Interface erfolgten.
 
 \subsubsection{Auswertung der Testergebnisse}
 
@@ -139,22 +148,34 @@ S1 & 10 & 10 & Erfolgreiche Anlage ohne Rückfragen \\
 \hline
 S2 & 10 & 10 & Korrekte Tool-Reihenfolge eingehalten \\
 \hline
-S3 & 10 & 8 & Preisfindung korrekt unterstützt, Probleme beim richtigen Zusammensetzen des Datums \\
+S3 & 10 & 9 & Preisfindung korrekt unterstützt, Probleme beim richtigen Zusammensetzen des Datums \\
 \hline
-S4 & 10 & 9 & Artikel korrekt identifiziert \\
+S4 & 10 & 8 & Artikel nicht gefunden \\
 \hline
-S5 & 10 & 10 & Keine schreibenden Aktionen ausgeführt \\
-\hline
-S6 & 10 & 9 & Artikelnamen versucht in Artikelnummer zu schreiben \\
+S5 & 10 & 9 & Artikelnamen versucht in Artikelnummer zu schreiben \\
 \hline
 \end{tabular}
-\footnotesize{Quelle: Eigene Darstellung}
 \end{table}
 
-Bei Szenario 3 gab es in zwei von zehn Durchläufen Schwierigkeiten beim korrekten Zusammensetzen des Datums aus historischen Angeboten. Aufgrund der vorhandenen Daten im Format \glqq{}MM/TT/JJJJ\grqq{} konnte der \ac{KI}-Agent das Datum nicht in jedem Fall korrekt interpretieren, was zu Fehlern in der Reihenfolge der Angebote führte, wodurch die Preise in der Vorschlagsliste falsch sortiert wurden.
+Bei Szenario 3 wurde in einem Fall nach einem vorhandenen Artikel gesucht, welcher aber aus unbekannten Gründen nicht identifiziert werden konnte, obwohl es sich um einen einfachen Fall handelte, da lediglich mit dem Artikelnamen gesucht wurde.
 
-Bei Szenario 4 wurde in einem Fall nach einem vorhandenen Artikel gesucht, welcher aber aus unbekannten Gründen nicht identifiziert werden konnte, obwohl es sich um einen einfachen Fall handelte, da lediglich mit dem Artikelnamen gesucht wurde.
+Bei Szenario 4 gab es in zwei von zehn Durchläufen Schwierigkeiten beim korrekten Zusammensetzen des Datums aus historischen Angeboten. Aufgrund der vorhandenen Daten im Format \glqq{}MM/TT/JJJJ\grqq{} konnte der \ac{KI}-Agent das Datum nicht in jedem Fall korrekt interpretieren, was zu Fehlern in der Reihenfolge der Angebote führte, wodurch die Preise in der Vorschlagsliste falsch sortiert wurden.
 
-Bei Szenario 6 gab es in einem Fall das Problem, dass der \ac{KI}-Agent versuchte den Artikelnamen in die Artikelnummer zu schreiben, wodurch die Anlage der Angebotsposition fehlgeschlagen ist. Nach der Nachfrage, warum dies so versucht wurde, stellte der Agent selbst fest, dass dies ein Fehler war, entschuldigte sich und bot an, den Vorgang mit der korrekten Artikelnummer erneut auszuführen, was dann erfolgreich war.
+Bei Szenario 5 gab es in einem Fall das Problem, dass der \ac{KI}-Agent versuchte den Artikelnamen in die Artikelnummer zu schreiben, wodurch die Anlage der Angebotsposition fehlgeschlagen ist. Nach der Nachfrage, warum dies so versucht wurde, stellte der Agent selbst fest, dass dies ein Fehler war, entschuldigte sich und bot an, den Vorgang mit der korrekten Artikelnummer erneut auszuführen, was dann erfolgreich war.
 
-Zusammenfassend lässt sich sagen, dass der entwickelte \ac{KI}-Agent fast alle definierten Szenarien erfolgreich bewältigen konnte. Die aufgetretenen Probleme sind auf spezifische Datenformate und Einzelfälle zurückzuführen, die in zukünftigen Iterationen des Agenten weiter optimiert werden können. Insgesamt zeigt die Evaluation, dass der \ac{KI}-Agent die definierten Ziele weitgehend erfüllt.
+\subsubsection{Einordnung der Zielerreichung}
+
+Auf Basis der durchgeführten Testszenarien lassen sich die in Kapitel~\ref{sec:ziele} definierten Ziele wie folgt einordnen.
+
+Ziel 1, die vollständige Anlage von Angeboten einschließlich Angebotskopf und Angebotspositionen, konnte durch die Szenarien S1, S2 und S5 weitgehend bestätigt werden. Die Anlage der Angebote verlief in der überwiegenden Anzahl der Testdurchläufe erfolgreich.
+
+Ziel 2, die Unterstützung bei der Identifikation von Artikeln, wurde insbesondere durch die Szenarien S3 und S5 überprüft. Die Ergebnisse zeigen, dass die Artikelidentifikation auf Basis von Beschreibungen grundsätzlich funktioniert, jedoch in Einzelfällen fehleranfällig sein kann.
+
+Ziel 3, die Unterstützung der Preisfindung auf Grundlage historischer Angebotsdaten, wurde in den Szenarien S4 und S5 getestet. Die Tests zeigen, dass der \ac{KI}-Agent relevante Preisinformationen bereitstellen kann, die Verarbeitung bestimmter Datenformate jedoch noch Verbesserungspotenzial aufweist.
+
+Ziel 4, welches die Unterstützung der Anwender durch Hinweise und Rückmeldungen umfasst, wurde szenarioübergreifend überprüft. In allen Testszenarien reagierte der \ac{KI}-Agent auf unvollständige oder fehlerhafte Eingaben mit entsprechenden Rückmeldungen und Aufforderungen zur Korrektur.
+
+Ziel 5, die Bereitstellung eines Chat-Interfaces als zentrale Interaktionsform, wurde ebenfalls über alle Szenarien hinweg erfüllt, da sämtliche Interaktionen mit dem \ac{KI}-Agenten ausschließlich über das implementierte Chat-Interface erfolgten.
+
+Insgesamt zeigen die Ergebnisse, dass der entwickelte \ac{KI}-Agent die definierten Ziele überwiegend erfüllt. Die identifizierten Einschränkungen betreffen spezifische Einzelfälle und bilden eine geeignete Grundlage für weiterführende Optimierungen.
+

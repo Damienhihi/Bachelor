@@ -10,24 +10,20 @@ Die prozessübergreifenden Effizienzpotenziale, also die Reduktion von Nacharbei
 
 Im \ac{ERP}-Standardprozess erfolgt die Anlage des Angebotskopfes über mehrere aufeinanderfolgende Systemmasken. Der Anwender muss zunächst die Angebotsanlage manuell starten und anschließend verschiedene Felder in der Angebotsvorerfassungsmaske sowie im Angebotskopf selbst befüllen. Dabei ist es erforderlich, die relevanten Felder eigenständig zu identifizieren und korrekt auszufüllen. Die entsprechenden Prozessschritte sind im Ablaufdiagramm des \ac{ERP}-Standardprozesses dargestellt. Insgesamt erfolgt die Anlage des Angebotskopfes durch sieben manuelle Schritte, die vom Anwender aktiv ausgeführt werden müssen, wie in Abbildung~\ref{fig:angebotskopf-erp} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{AngebotsanlageERP.pdf}
     \caption{Anlage Angebotskopf im ERP-System}
     \label{fig:angebotskopf-erp}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Beim \ac{KI}-Agenten erfolgt die Anlage des Angebotskopfes hingegen dialogbasiert. Der Anwender übermittelt die verfügbaren Informationen in einer initialen Eingabe an den \ac{KI}-Agenten. Auf dieser Grundlage führt der \ac{KI}-Agent zunächst Validierungen durch, ob alle relevanten Felder gefüllt sind, und stellt gegebenenfalls strukturierte Rückfragen zur Vervollständigung und Bestätigung der Angebotsdaten. Insgesamt liegt die Anzahl der Prozessschritte bei vier, wobei lediglich zwei Schritte manuell durch den Anwender ausgeführt werden müssen, wie in Abbildung~\ref{fig:angebotskopf-agent} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{AngebotsanlageAgent.pdf}
     \caption{Anlage Angebotskopf im KI-Agenten}
     \label{fig:angebotskopf-agent}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Der Vergleich der beiden Ablaufdiagramme zeigt, dass sich die Anzahl der vom Anwender aktiv auszuführenden Prozessschritte beim \ac{KI}-Agenten potenziell reduziert. Während im \ac{ERP}-Standardprozess mehrere manuelle Eingaben und Navigationen erforderlich sind, werden diese im agentenbasierten Ansatz gebündelt und teilweise automatisiert ausgeführt. Insbesondere die Identifikation relevanter Felder sowie die korrekte Befüllung des Angebotskopfes werden durch den \ac{KI}-Agenten unterstützt, indem auch solche Eingabefelder überprüft werden, die systemseitig nicht als verpflichtend gekennzeichnet sind, aus Unternehmenssicht jedoch vom Anwender befüllt werden müssen. Dadurch entsteht insgesamt ein Effizienzpotenzial in Form von weniger Prozessschritten und ein weiteres in Form der Kontrolle benötigter Eingaben.
@@ -42,26 +38,22 @@ Im \ac{ERP}-System findet die Artikelsuche zunächst ebenfalls im Angebotsformul
 
 Im kürzesten dargestellten Fall umfasst dieser Prozess zwei manuelle Prozessschritte. Kann der Artikel nicht unmittelbar identifiziert werden, verlängert sich der Ablauf im längsten dargestellten Fall auf mindestens fünf manuelle Prozessschritte, wie im Ablaufdiagramm des \ac{ERP}-Standardprozesses in Abbildung~\ref{fig:artikelsuche-erp} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{ArtikelsucheERP.pdf}
     \caption{Artikelsuche im ERP-System}
     \label{fig:artikelsuche-erp}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Im agentenbasierten Ansatz erfolgt die Artikelsuche im Anschluss an die Angebotskopferstellung innerhalb desselben Dialogs. Der Anwender übermittelt die verfügbaren Artikelinformationen in natürlicher Sprache an den \ac{KI}-Agenten. Auf dieser Grundlage prüft der \ac{KI}-Agent, ob der gewünschte Artikel eindeutig identifiziert werden kann, und stellt gegebenenfalls gezielte Rückfragen zur Auswahl des passenden Artikels aus einer generierten Trefferliste oder zur Präzisierung der Anfrage, sofern der Artikel nicht eindeutig identifiziert werden kann. Nach erfolgreicher Identifikation wird der Artikel automatisch ausgewählt und dem Angebot hinzugefügt, ohne dass eine manuelle Navigation durch weitere Systemmasken erforderlich ist.
 
 Im kürzesten dargestellten Fall umfasst der agentenbasierte Ansatz einen manuellen Prozessschritt. Erfordert die eindeutige Identifikation zusätzliche Rückfragen, verlängert sich der Ablauf im längsten dargestellten Fall auf mindestens zwei manuelle Prozessschritte, wie in Abbildung~\ref{fig:artikelsuche-agent} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{ArtikelsucheAgent.pdf}
     \caption{Artikelsuche im KI-Agenten}
     \label{fig:artikelsuche-agent}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Der Vergleich der beiden Ablaufdiagramme zeigt, dass sich die Anzahl der vom Anwender aktiv auszuführenden Prozessschritte im agentenbasierten Ansatz potenziell reduziert. Während im \ac{ERP}-Standardprozess im kürzesten dargestellten Fall zwei und im längsten dargestellten Fall mindestens fünf manuelle Prozessschritte erforderlich sind, umfasst der agentenbasierte Ansatz im kürzesten dargestellten Fall einen manuellen Prozessschritt und in erweiterten Prozessvarianten zwei oder mehr manuelle Prozessschritte. Insbesondere die manuelle Navigation zwischen verschiedenen Systemmasken sowie das Übertragen von Artikelnummern entfallen. Dadurch sowie durch die geringere Anzahl an Prozessschritten entsteht auch ein Effizienzpotenzial im Prozess der Artikelsuche.
@@ -70,24 +62,20 @@ Der Vergleich der beiden Ablaufdiagramme zeigt, dass sich die Anzahl der vom Anw
 
 Im \ac{ERP}-Standardprozess existiert keine eigenständige, systemgestützte Funktion zur Analyse historischer Angebotspreise für einen bestimmten Artikel. Möchte der Anwender bei der Preisfindung auf frühere Angebote zurückgreifen, ist es erforderlich, manuell in die Übersicht aller Angebote zu wechseln und diese anhand geeigneter Filter einzugrenzen. Anschließend müssen einzelne Angebote geöffnet und hinsichtlich der enthaltenen Preise überprüft werden. Zusammengefasst setzt sich hier der Prozess aus drei manuellen Schritten zusammen, wie in Abbildung~\ref{fig:preisfindung-erp} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{AngebotshistorieERP.pdf}
     \caption{Preisfindung im ERP-System}
     \label{fig:preisfindung-erp}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Im agentenbasierten Ansatz erfolgt die Preisfindung hingegen automatisiert. Der Anwender übermittelt die relevanten Artikelinformationen an den \ac{KI}-Agenten und fordert die Analyse der Preishistorie an. Auf dieser Grundlage identifiziert der \ac{KI}-Agent automatisch passende Angebote, wertet diese aus und erstellt eine Auflistung der historischen Preise, welche dem Anwender direkt im Dialog bereitgestellt wird. Dadurch setzt sich der Prozess aus zwei Schritten zusammen, von denen lediglich einer manuell durch den Anwender ausgeführt werden muss, wie in Abbildung~\ref{fig:preisfindung-agent} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{AngebotshistorieAgent.pdf}
     \caption{Preisfindung im KI-Agenten}
     \label{fig:preisfindung-agent}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Der Vergleich der beiden Ablaufdiagramme verdeutlicht, dass der agentenbasierte Ansatz erstmals einen klar strukturierten Prozess zur Unterstützung der Preisfindung bereitstellt. Während im \ac{ERP}-Standardprozess die Ermittlung historischer Preise ausschließlich über eine manuelle Suche und individuelle Interpretation einzelner Angebote erfolgt, übernimmt der \ac{KI}-Agent diese Analyse automatisiert. Dadurch entsteht ein Effizienzpotenzial durch die Reduktion manueller Prozessschritte sowie ein Weiteres durch die erweiterte Validierung benötigter Eingaben.
@@ -96,24 +84,20 @@ Der Vergleich der beiden Ablaufdiagramme verdeutlicht, dass der agentenbasierte 
 
 Bei der Anlage der Angebotspositionen finden sich sowohl die Prozessschritte der Artikelidentifikation als auch der Preisfindung wieder. Im \ac{ERP}-System muss hierbei im Angebotsformular eine neue Position angelegt werden, woraufhin ein Artikel mit der bereits beschriebenen Artikelsuche identifiziert wird. Daraufhin wird entweder der Standardpreis übernommen, oder dieser muss manuell geändert werden, wenn er abweicht. Wenn der zu benutzende Preis bekannt ist, kann dieser direkt geändert werden. Falls allerdings eine Preisanalyse notwendig ist, muss der zuvor beschriebene Prozess der Preisfindung durchlaufen werden. Zusammengefasst setzt sich der Prozess im kürzesten dargestellten Fall aus mindestens drei manuellen Prozessschritten und im längsten dargestellten Fall aus mindestens fünf manuellen Prozessschritten zusammen, wie in Abbildung~\ref{fig:angebotspositionen-erp} verdeutlicht wird.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{ArtikelpositionenERP.pdf}
     \caption{Angebotspositionen im ERP-System}
     \label{fig:angebotspositionen-erp}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Im \ac{KI}-Agenten erfolgt die Anlage der Angebotspositionen direkt im Anschluss an die Erstellung des Angebotskopfes im selben Dialog. Der Anwender übermittelt alle verfügbaren Informationen einer gewünschten Position in natürlicher Sprache. Anschließend identifiziert der \ac{KI}-Agent den Artikel mithilfe der zuvor beschriebenen Artikelsuche und analysiert, wenn gewünscht, die Preishistorie, um einen geeigneten Preis vorzuschlagen. Wenn allerdings der Standardpreis oder ein mitgelieferter Preis verwendet werden soll, wird dieser direkt übernommen. Im Anschluss validiert der \ac{KI}-Agent die eingegebenen Positionsdaten und stellt Rückfragen, falls weitere Informationen benötigt werden. Wenn alles vollständig ist, fügt der \ac{KI}-Agent die Angebotsposition automatisch dem Angebot hinzu. Dadurch setzt sich der Prozess im kürzesten Anwendungsfall aus einem manuellen Prozessschritt zusammen, im längsten Anwendungsfall aus mindestens vier Prozessschritten, wie in Abbildung~\ref{fig:angebotspositionen-agent} dargestellt.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{AngebotspositionenAgent.pdf}
     \caption{Angebotspositionen im KI-Agenten}
     \label{fig:angebotspositionen-agent}
-    \vspace{0.5em}
-    \footnotesize Quelle: Eigene Darstellung
 \end{figure}
 
 Zusammenfassend aus den Unterprozessen und somit auch dem gesamten Prozess der Angebotspositionsanlage zeigt sich, dass sich die Anzahl der vom Anwender aktiv auszuführenden Prozessschritte im agentenbasierten Ansatz potenziell reduziert, da sich sowohl in den beiden Unterprozessen die Anzahl der manuellen Prozessschritte verringert als auch in der Gesamtbetrachtung der Prozessschritte. Neben der Verringerung der manuellen Prozessschritte entsteht zudem, genauso wie bei der Angebotskopfanlage, ein weiteres Effizienzpotenzial in Form der Kontrolle von benötigten Eingaben. Dadurch ergibt sich sowohl das Effizienzpotenzial der Reduktion der manuellen Prozessschritte als auch das Effizienzpotenzial der Kontrolle von benötigten Eingaben.
