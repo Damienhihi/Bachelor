@@ -511,6 +511,45 @@ Ich denke zu beginn sollte die Funktion nicht allzu umfangreich sein, sondern di
 vorhandenen Funktionen optimal funktionieren. Es sollte die Qualität und nicht die
 Quantität im Vordergrund stehen.
 
+\subsection{Kategoriesierung der Interviewantworten}
+\label{anhang:Kategoriesierung}
+
+\begin{longtable}{l l X X X}
+\caption{Kategorien und Unterkategorien aus den Interviews}\label{tab:kategorien-ba}\\
+\toprule
+\textbf{Kategorien} & \textbf{Unterkategorien} & \textbf{Interview 1} & \textbf{Interview 2} & \textbf{Interview 3} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Kategorien} & \textbf{Unterkategorien} & \textbf{Interview 1} & \textbf{Interview 2} & \textbf{Interview 3} \\
+\midrule
+\endhead
+\midrule
+\multicolumn{5}{r}{\emph{Fortsetzung auf der nächsten Seite}}\\
+\midrule
+\endfoot
+\bottomrule
+\endlastfoot
+K1 Use Case & 4.1 Use Case & Angebotsanlage mit Artikelsuche &  &  \\
+ & 4.2 Aufbau: &  & Genau beschrieben wie es im BPMN dargestellt ist -> viele Felder die an unterschiedlichen Stellen im ERP hinterlegt sind, wird auch später nochmal erwähnt & Siehe BPMN aus Interview 3 \\
+ & 4.4 spezifische Anforderungen/Erwartungen &  & wichtigste Felder sollen Angelegt werden. Unterstützung bei suche von Artikeln. Beachten von Mengenvorgaben. Abänderungen wenn zu beginn falsche angaben gemacht wurden & Soll Angebotsköpfe erstellen und bei der hinzufügung von Positionen unterstützen. Identifikation von Artikel und ggf. hinzugeben einer Preishistorie \\
+K2 Probleme & 1.1 Zeitintensität & Anlage großer Angebote und Aufträge ist zeitintensiv. Bei Projekten über mehrere Mandanten Zeitintensiv. &  & Erfassen von Feldern, welche nicht vom System als notwendig makiert sind, aber vom Kunden gewünscht sind. \\
+ & 1.2 Artikelsuche & Artikelsuche ist immer ein Thema und erschwert die Angebotsanlage durch aufwendiges Identifizieren des richtigen Artikels soll auf jeden Fall unterstützt werden & Artikelnummern zu hinterlegen, da eine ganze "Batterie" an Datensätzen kommt bei der Suche & Suche reagiert träge und dauert bei Fehlangaben oder wenn nicht alle benötigten Informationen vorliegen besonders lange \\
+ & 1.3 Manueller Aufwand & Fehlende Kopierfunktionen führen zu manuellem Mehraufwand &  &  \\
+ & 2.1 Fehlerhafte Dokumenten-anlage & User legen Angebote und Aufträge häufig falsch an und Fehler führen zu notwendiger Fehlerbehebung zu späterem Zeitpunkt, was Zeitintensiv ist &  &  \\
+K3 User & 3.1 Zielgruppe & Generell Nutzer, aber insbesondere auch neue Nutzer benötigen Unterstützung bei der Dokumentanlage da sie dazu tendieren Falsche Dokumente anzulegen & Vertriebsmitarbeiter aber auch die Kunden selber &  \\
+ & 3.2 Akzeptanz & Fehlerhafte oder nicht nachvollziehbare Ergebnisse senken die Akzeptanz Muss vom DAU ausgegangen werden, also simple Nutzung &  & zwingend notwendigfür Akzeptanz: Agent soll Rückfragen stellen, wenn Informationen fehlen \\
+ & 3.3 Verfügbarkeit &  & Unterstützender Chat während eines Telefonates mit dem Kunden aber auch direktes Chatten vom Kunden mit dem Chatbot um Angebote anzulegen & Chat interface als ausbaustufe die Verarbeitung externer Eingeben \\
+K4 Erwartungen & 4.1 Fehlerhandling & wichtig, dass wenig Fehler auftreten und wenn dies der Fall ist diese einfach zu identifizieren und nachzuvollziehen sind. Ist dies nicht der Fall, schwindet Userakzeptanz und der Agent wird nicht genutzt. &  & Wenn Fehler auftreten, müssen diese zumindest leicht erkennbar und nachvollziehbar sein. \\
+ & 4.2 Artikelsuche & Die Unterstützung der Angebotsanlage und damit verbunden die Artikelsuche. & Vorbelegen von Artikel, durch entsprechende Inhalte, die bekannt sind. & Bei den Angebotspositionen sollte der Agent die Artikelsuche unterstützen \\
+ & 4.3 Preishistorie &  &  & Preishistorien aufzeigen. Dadurch würde viel Aufwand erspart werden können -> zu welchem Preis der Artikel in der Vergangenheit angeboten wurde oder zu welchem Preis andere Debitoren diesen bezogen haben.  \\
+ & 4.4 Mengen-vorgaben &  &  Angebote eingeben und wir haben oder Mengen Vorgaben, die pro Artikelnummer und dann geht ja immer so 'n Abfragekontext auf der bestätigt werden muss, ob wir das übernehmen möchten oder nicht. &  \\
+K5 Datenzugriff &  &  & Stammdaten auf D365 FnO, Felder wie Artikelnummer, Referenznummer, abweichende Lieferadresse und Telefonnummer,  & Auf Stammdaten von D365 FnO, wie Debitoren, Artikel, Lagerbestand, Angebote \\
+K6 Risiken &  &  & Fehler beim Erstellen von Datensätzen & Darf keine groben Fehler machen, sonst wird er nicht genutzt. Wenn Fehler entstehen, müssen sie zumindest leicht erkennbar sein \\
+K7 Scope-Abgrenzung bzw. Erweiterungs-möglichkeiten &  &  & Benachrichtigung wenn Angebot vor Ablauf ist, Angebot wandeln, stornieren auch. Telefonbot. Neukunde bestandskunde abgrenzen. Zum schluss noch erwähnt sich erstmal mit dem leichtesten Fall zu beschäftigen & Funktionalität nicht zu umfangreich, erstmal vorhandene Funktionen optimal erfüllen. Qualität vor Quantität. \\
+\end{longtable}
+
+
 \section{Instructions des KI-Agenten}
 \label{anhang:Instructions}
 \textbf{Rolle}
