@@ -482,12 +482,14 @@ Das Gespräch dauert etwa 20 Minuten. Deine Aussagen werden anonymisiert ausgewe
 Ich bin Consultant für D365 für den Fachbereich Sales and Distribution und aktuell Teilprojektleiter Verkauf im Projekt Genesis (SABAG). Mit der Angebotserstellung bin ich sehr gut vertraut. 
 
 \textbf{Wie läuft das Anlegen eines neuen Angebots in D365 FnSCM aktuell typischerweise ab?}\newline
- 
+Als Antwort auf diese Frage wurde eine BPMN-Modellierung des Angebotsprozesses bereitgestellt. Aufgrund des Umfangs wurde diese als separates Zusatzdokument digital eingereicht.
+
 \textbf{Welche Schritte beim Ausfüllen der Angebotsfelder sind deiner Erfahrung nach besonders zeitaufwendig oder fehleranfällig?}\newline
 Das Erfassen von Feldern, welche nicht obligatorisch für das System sind, aber vom Kunden gewünscht sind wie Debitorenreferenzen oder Notizen an den Angebotspositionen.
 
 \textbf{Welche Informationen werden beim Anlegen eines Angebots am häufigsten benötigt, und wo entstehen dabei typische Probleme?}\newline
 Die wichtigsten Informationen im Angebot sind die Artikel und die Preise. Die typischen Probleme entstehen bei der Artikelsuche. Diese ist architekturbedingt recht träge und nimmt bei Fehlangaben oder wenn nicht alle benötigten Informationen vorliegen viel Zeit in Anspruch.
+
 \textbf{Was würdest du dir grundsätzlich von einem Copilot-Agenten wünschen, der beim Anlegen eines Angebots unterstützen soll?}\newline
 Meine Vorstellung wäre, dass der Agent Angebotsköpfe erstellen kann. Er sollte auf Basis der Userinteraktion differenzieren können um welchen Angebotstyp es sich handelt. Bei den Angebotspositionen sollte der Agent die Artikelsuche unterstützen und bestenfalls Preishistorien aufzeigen können. Dadurch würde viel Aufwand erspart werden können. Bei der Preishistorie meine ich zu welchem Preis der Artikel in der Vergangenheit angeboten wurde oder zu welchem Preis andere Debitorendiesen bezogen haben. 
 
@@ -535,25 +537,25 @@ Quantität im Vordergrund stehen.
 \endlastfoot
 
 K1 Use Case & 1.1 Use Case & Angebotsanlage mit Artikelsuche &  &  \\
-
+\hline
  & 1.2 Aufbau: &  & Genau beschrieben wie es im BPMN dargestellt ist -> viele Felder die an unterschiedlichen Stellen im ERP hinterlegt sind, wird auch später nochmal erwähnt & Siehe BPMN aus Interview 3 \\
-
+\hline
  & 1.3 spezifische Anforderungen/Erwartungen &  & wichtigste Felder sollen angelegt werden. Unterstützung bei Suche von Artikeln. Beachten von Mengenvorgaben. Abänderungen, wenn zu Beginn falsche Angaben gemacht wurden & Soll Angebotsköpfe erstellen und bei der Hinzufügung von Positionen unterstützen. Identifikation von Artikeln und ggf. Hinzufügen einer Preishistorie \\
 \hline
 
 K2 Probleme & 2.1 Zeitintensität & Anlage großer Angebote und Aufträge ist zeitintensiv. Bei Projekten über mehrere Mandanten zeitintensiv. &  & Erfassen von Feldern, welche nicht vom System als notwendig markiert sind, aber vom Kunden gewünscht sind. \\
-
+\hline
  & 2.2 Artikelsuche & Artikelsuche ist immer ein Thema und erschwert die Angebotsanlage durch aufwendiges Identifizieren des richtigen Artikels soll auf jeden Fall unterstützt werden & Artikelnummern zu hinterlegen, da eine ganze "Batterie" an Datensätzen kommt bei der Suche & Suche reagiert träge und dauert bei Fehlangaben oder wenn nicht alle benötigten Informationen vorliegen besonders lange \\
-
+\hline
  & 2.3 Manueller Aufwand & Fehlende Kopierfunktionen führen zu manuellem Mehraufwand &  &  \\
-
+\hline
  & 2.4 Fehlerhafte Dokumentenanlage & User legen Angebote und Aufträge häufig falsch an und Fehler führen zu notwendiger Fehlerbehebung zu späterem Zeitpunkt, was zeitintensiv ist &  &  \\
 \hline
 
 K3 User & 3.1 Zielgruppe & Generell Nutzer, aber insbesondere auch neue Nutzer benötigen Unterstützung bei der Dokumentanlage da sie dazu tendieren Falsche Dokumente anzulegen & Vertriebsmitarbeiter aber auch die Kunden selber &  \\
-
+\hline
  & 3.2 Akzeptanz & Fehlerhafte oder nicht nachvollziehbare Ergebnisse senken die Akzeptanz. Es muss vom DAU ausgegangen werden, also einfache Nutzung &  & zwingend notwendig für Akzeptanz: Agent soll Rückfragen stellen, wenn Informationen fehlen \\
-
+\hline
  & 3.3 Verfügbarkeit &  & Unterstützender Chat während eines Telefonates mit dem Kunden, aber auch direktes Chatten vom Kunden mit dem Chatbot, um Angebote anzulegen & Chat-Interface als Ausbaustufe, die Verarbeitung externer Eingaben \\
 \hline
 
@@ -561,9 +563,9 @@ K4 Erwartungen & 4.1 Fehlerhandling & wichtig, dass wenig Fehler auftreten und w
 \hline
 
  & 4.2 Artikelsuche & Die Unterstützung der Angebotsanlage und damit verbunden die Artikelsuche. & Vorbelegen von Artikel, durch entsprechende Inhalte, die bekannt sind. & Bei den Angebotspositionen sollte der Agent die Artikelsuche unterstützen \\
-
+\hline
  & 4.3 Preishistorie &  &  & Preishistorien aufzeigen. Dadurch würde viel Aufwand erspart werden können -> zu welchem Preis der Artikel in der Vergangenheit angeboten wurde oder zu welchem Preis andere Debitoren diesen bezogen haben. \\
-
+\hline
  & 4.4 Mengen-vorgaben &  & Angebote eingeben und wir haben oder Mengen Vorgaben, die pro Artikelnummer und dann geht ja immer so 'n Abfragekontext auf der bestätigt werden muss, ob wir das übernehmen möchten oder nicht. &  \\
 \hline
 
@@ -859,14 +861,14 @@ Bei Fehlern:
     \label{fig:WissensquelleDetailbeispiel}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[h]
     \centering
     \includegraphics[width=1\textwidth]{kapitel/anhang/images/Topics.png}
     \caption{Topics}
     \label{fig:Topics}
 \end{figure}
 
-\subsection{Beispiel Chat}
+\subsection{Beispielchat}
 \label{anhang:beispielchat}
 
 \begin{figure}[H]
